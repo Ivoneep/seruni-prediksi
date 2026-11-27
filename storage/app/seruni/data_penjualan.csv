@@ -1,0 +1,1234 @@
+Tanggal,Lokasi,Menu Minuman,Stok,Harga Satuan,Terjual,Total Penjualan,Sisa,Hari
+2026-09-01,Imigrasi,Kopi Susu,10,10000,10,100000,0,Selasa
+2026-09-01,Imigrasi,Kopi Aren,5,12000,2,24000,3,Selasa
+2026-09-01,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Selasa
+2026-09-01,Imigrasi,Kopi Butterscotch,8,13000,2,26000,6,Selasa
+2026-09-01,Imigrasi,Americano,2,10000,1,10000,1,Selasa
+2026-09-01,Imigrasi,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-01,Imigrasi,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-01,Imigrasi,Matcha,4,15000,0,0,4,Selasa
+2026-09-01,Imigrasi,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-01,Pasar,Kopi Susu,30,10000,30,300000,0,Selasa
+2026-09-01,Pasar,Kopi Aren,10,12000,6,72000,4,Selasa
+2026-09-01,Pasar,Kopi Caramel,5,13000,1,13000,4,Selasa
+2026-09-01,Pasar,Kopi Butterscotch,15,13000,7,91000,8,Selasa
+2026-09-01,Pasar,Americano,2,10000,1,10000,1,Selasa
+2026-09-01,Pasar,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-01,Pasar,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-01,Pasar,Matcha,5,15000,2,30000,3,Selasa
+2026-09-01,Pasar,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-01,SD Min,Kopi Susu,20,10000,15,150000,5,Selasa
+2026-09-01,SD Min,Kopi Aren,5,12000,3,36000,2,Selasa
+2026-09-01,SD Min,Kopi Caramel,5,13000,1,13000,4,Selasa
+2026-09-01,SD Min,Kopi Butterscotch,8,13000,5,65000,3,Selasa
+2026-09-01,SD Min,Americano,2,10000,1,10000,1,Selasa
+2026-09-01,SD Min,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-01,SD Min,Chocolate,2,15000,0,0,2,Selasa
+2026-09-01,SD Min,Matcha,4,15000,1,15000,3,Selasa
+2026-09-01,SD Min,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-01,Areca,Kopi Susu,22,10000,4,40000,18,Selasa
+2026-09-01,Areca,Kopi Aren,15,12000,3,36000,12,Selasa
+2026-09-01,Areca,Kopi Caramel,2,13000,0,0,2,Selasa
+2026-09-01,Areca,Kopi Butterscotch,7,13000,6,78000,1,Selasa
+2026-09-01,Areca,Americano,2,10000,0,0,2,Selasa
+2026-09-01,Areca,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-01,Areca,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-01,Areca,Matcha,4,15000,2,30000,2,Selasa
+2026-09-01,Areca,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-02,Tuk-Tuk,Kopi Susu,20,10000,5,50000,15,Rabu
+2026-09-02,Tuk-Tuk,Kopi Aren,5,12000,3,36000,2,Rabu
+2026-09-02,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Rabu
+2026-09-02,Tuk-Tuk,Kopi Butterscotch,3,13000,1,13000,2,Rabu
+2026-09-02,Tuk-Tuk,Americano,2,10000,2,20000,0,Rabu
+2026-09-02,Tuk-Tuk,A. Americano,2,15000,1,15000,1,Rabu
+2026-09-02,Tuk-Tuk,Chocolate,1,15000,1,15000,0,Rabu
+2026-09-02,Tuk-Tuk,Matcha,2,15000,0,0,2,Rabu
+2026-09-02,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-02,Imigrasi,Kopi Susu,20,10000,15,150000,5,Rabu
+2026-09-02,Imigrasi,Kopi Aren,5,12000,0,0,5,Rabu
+2026-09-02,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Rabu
+2026-09-02,Imigrasi,Kopi Butterscotch,8,13000,2,26000,6,Rabu
+2026-09-02,Imigrasi,Americano,2,10000,0,0,2,Rabu
+2026-09-02,Imigrasi,A. Americano,2,15000,1,15000,1,Rabu
+2026-09-02,Imigrasi,Chocolate,2,15000,0,0,2,Rabu
+2026-09-02,Imigrasi,Matcha,4,15000,1,15000,3,Rabu
+2026-09-02,Imigrasi,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-02,Pasar Raya,Kopi Susu,30,10000,20,200000,10,Rabu
+2026-09-02,Pasar Raya,Kopi Aren,10,12000,3,36000,7,Rabu
+2026-09-02,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Rabu
+2026-09-02,Pasar Raya,Kopi Butterscotch,10,13000,5,65000,5,Rabu
+2026-09-02,Pasar Raya,Americano,2,10000,1,10000,1,Rabu
+2026-09-02,Pasar Raya,A. Americano,2,15000,1,15000,1,Rabu
+2026-09-02,Pasar Raya,Chocolate,2,15000,0,0,2,Rabu
+2026-09-02,Pasar Raya,Matcha,4,15000,1,15000,3,Rabu
+2026-09-02,Pasar Raya,Lychee tea,2,10000,1,10000,1,Rabu
+2026-09-02,SD Min,Kopi Susu,15,10000,6,60000,9,Rabu
+2026-09-02,SD Min,Kopi Aren,5,12000,3,36000,2,Rabu
+2026-09-02,SD Min,Kopi Caramel,5,13000,0,0,5,Rabu
+2026-09-02,SD Min,Kopi Butterscotch,10,13000,3,39000,7,Rabu
+2026-09-02,SD Min,Americano,2,10000,2,20000,0,Rabu
+2026-09-02,SD Min,A. Americano,2,15000,0,0,2,Rabu
+2026-09-02,SD Min,Chocolate,2,15000,0,0,2,Rabu
+2026-09-02,SD Min,Matcha,4,15000,1,15000,3,Rabu
+2026-09-02,SD Min,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-03,Tuk-Tuk,Kopi Susu,20,10000,6,60000,14,Kamis
+2026-09-03,Tuk-Tuk,Kopi Aren,5,12000,1,12000,4,Kamis
+2026-09-03,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Kamis
+2026-09-03,Tuk-Tuk,Kopi Butterscotch,5,13000,4,52000,1,Kamis
+2026-09-03,Tuk-Tuk,Americano,2,10000,0,0,2,Kamis
+2026-09-03,Tuk-Tuk,A. Americano,1,15000,0,0,1,Kamis
+2026-09-03,Tuk-Tuk,Chocolate,2,15000,0,0,2,Kamis
+2026-09-03,Tuk-Tuk,Matcha,2,15000,2,30000,0,Kamis
+2026-09-03,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Kamis
+2026-09-03,Imigrasi,Kopi Susu,15,10000,11,110000,4,Kamis
+2026-09-03,Imigrasi,Kopi Aren,5,12000,1,12000,4,Kamis
+2026-09-03,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Kamis
+2026-09-03,Imigrasi,Kopi Butterscotch,5,13000,2,26000,3,Kamis
+2026-09-03,Imigrasi,Americano,2,10000,0,0,2,Kamis
+2026-09-03,Imigrasi,A. Americano,2,15000,0,0,2,Kamis
+2026-09-03,Imigrasi,Chocolate,2,15000,0,0,2,Kamis
+2026-09-03,Imigrasi,Matcha,4,15000,1,15000,3,Kamis
+2026-09-03,Imigrasi,Lychee tea,2,10000,0,0,2,Kamis
+2026-09-03,Pasar Raya,Kopi Susu,30,10000,18,180000,12,Kamis
+2026-09-03,Pasar Raya,Kopi Aren,10,12000,5,60000,5,Kamis
+2026-09-03,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Kamis
+2026-09-03,Pasar Raya,Kopi Butterscotch,7,13000,5,65000,2,Kamis
+2026-09-03,Pasar Raya,Americano,2,10000,2,20000,0,Kamis
+2026-09-03,Pasar Raya,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-03,Pasar Raya,Chocolate,2,15000,1,15000,1,Kamis
+2026-09-03,Pasar Raya,Matcha,5,15000,0,0,5,Kamis
+2026-09-03,Pasar Raya,Lychee tea,2,10000,0,0,2,Kamis
+2026-09-03,SD Min,Kopi Susu,15,10000,11,110000,4,Kamis
+2026-09-03,SD Min,Kopi Aren,5,12000,3,36000,2,Kamis
+2026-09-03,SD Min,Kopi Caramel,5,13000,3,39000,2,Kamis
+2026-09-03,SD Min,Kopi Butterscotch,8,13000,6,78000,2,Kamis
+2026-09-03,SD Min,Americano,2,10000,1,10000,1,Kamis
+2026-09-03,SD Min,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-03,SD Min,Chocolate,2,15000,1,15000,1,Kamis
+2026-09-03,SD Min,Matcha,3,15000,0,0,3,Kamis
+2026-09-03,SD Min,Lychee tea,2,10000,0,0,2,Kamis
+2026-09-04,Tuk-Tuk,Kopi Susu,20,10000,8,80000,12,Jumat
+2026-09-04,Tuk-Tuk,Kopi Aren,5,12000,2,24000,3,Jumat
+2026-09-04,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Jumat
+2026-09-04,Tuk-Tuk,Kopi Butterscotch,5,13000,2,26000,3,Jumat
+2026-09-04,Tuk-Tuk,Americano,2,10000,1,10000,1,Jumat
+2026-09-04,Tuk-Tuk,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-04,Tuk-Tuk,Chocolate,2,15000,2,30000,0,Jumat
+2026-09-04,Tuk-Tuk,Matcha,2,15000,0,0,2,Jumat
+2026-09-04,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-04,Imigrasi,Kopi Susu,15,10000,15,150000,0,Jumat
+2026-09-04,Imigrasi,Kopi Aren,5,12000,1,12000,4,Jumat
+2026-09-04,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Jumat
+2026-09-04,Imigrasi,Kopi Butterscotch,8,13000,4,52000,4,Jumat
+2026-09-04,Imigrasi,Americano,2,10000,2,20000,0,Jumat
+2026-09-04,Imigrasi,A. Americano,2,15000,0,0,2,Jumat
+2026-09-04,Imigrasi,Chocolate,2,15000,0,0,2,Jumat
+2026-09-04,Imigrasi,Matcha,4,15000,1,15000,3,Jumat
+2026-09-04,Imigrasi,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-04,SD Min,Kopi Susu,30,10000,26,260000,4,Jumat
+2026-09-04,SD Min,Kopi Aren,7,12000,4,48000,3,Jumat
+2026-09-04,SD Min,Kopi Caramel,5,13000,2,26000,3,Jumat
+2026-09-04,SD Min,Kopi Butterscotch,7,13000,3,39000,4,Jumat
+2026-09-04,SD Min,Americano,2,10000,1,10000,1,Jumat
+2026-09-04,SD Min,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-04,SD Min,Chocolate,2,15000,2,30000,0,Jumat
+2026-09-04,SD Min,Matcha,4,15000,0,0,4,Jumat
+2026-09-04,SD Min,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-04,Areca,Kopi Susu,20,10000,11,110000,9,Jumat
+2026-09-04,Areca,Kopi Aren,3,12000,1,12000,2,Jumat
+2026-09-04,Areca,Kopi Caramel,5,13000,1,13000,4,Jumat
+2026-09-04,Areca,Kopi Butterscotch,10,13000,6,78000,4,Jumat
+2026-09-04,Areca,Americano,2,10000,1,10000,1,Jumat
+2026-09-04,Areca,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-04,Areca,Chocolate,2,15000,2,30000,0,Jumat
+2026-09-04,Areca,Matcha,4,15000,3,45000,1,Jumat
+2026-09-04,Areca,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-05,Imigrasi,Kopi Susu,15,10000,12,120000,3,Sabtu
+2026-09-05,Imigrasi,Kopi Aren,5,12000,1,12000,4,Sabtu
+2026-09-05,Imigrasi,Kopi Caramel,5,13000,0,0,5,Sabtu
+2026-09-05,Imigrasi,Kopi Butterscotch,8,13000,3,39000,5,Sabtu
+2026-09-05,Imigrasi,Americano,2,10000,2,20000,0,Sabtu
+2026-09-05,Imigrasi,A. Americano,2,15000,0,0,2,Sabtu
+2026-09-05,Imigrasi,Chocolate,2,15000,2,30000,0,Sabtu
+2026-09-05,Imigrasi,Matcha,4,15000,1,15000,3,Sabtu
+2026-09-05,Imigrasi,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-05,Pasar Raya,Kopi Susu,35,10000,31,310000,4,Sabtu
+2026-09-05,Pasar Raya,Kopi Aren,7,12000,4,48000,3,Sabtu
+2026-09-05,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Sabtu
+2026-09-05,Pasar Raya,Kopi Butterscotch,10,13000,4,52000,6,Sabtu
+2026-09-05,Pasar Raya,Americano,2,10000,2,20000,0,Sabtu
+2026-09-05,Pasar Raya,A. Americano,2,15000,2,30000,0,Sabtu
+2026-09-05,Pasar Raya,Chocolate,2,15000,1,15000,1,Sabtu
+2026-09-05,Pasar Raya,Matcha,5,15000,1,15000,4,Sabtu
+2026-09-05,Pasar Raya,Lychee tea,2,10000,1,10000,1,Sabtu
+2026-09-05,Pasar,Kopi Susu,35,10000,35,350000,0,Sabtu
+2026-09-05,Pasar,Kopi Aren,7,12000,4,48000,3,Sabtu
+2026-09-05,Pasar,Kopi Caramel,5,13000,4,52000,1,Sabtu
+2026-09-05,Pasar,Kopi Butterscotch,10,13000,10,130000,0,Sabtu
+2026-09-05,Pasar,Americano,2,10000,1,10000,1,Sabtu
+2026-09-05,Pasar,A. Americano,2,15000,2,30000,0,Sabtu
+2026-09-05,Pasar,Chocolate,2,15000,0,0,2,Sabtu
+2026-09-05,Pasar,Matcha,5,15000,3,45000,2,Sabtu
+2026-09-05,Pasar,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-05,SD Min,Kopi Susu,35,10000,29,290000,6,Sabtu
+2026-09-05,SD Min,Kopi Aren,5,12000,3,36000,2,Sabtu
+2026-09-05,SD Min,Kopi Caramel,5,13000,4,52000,1,Sabtu
+2026-09-05,SD Min,Kopi Butterscotch,7,13000,3,39000,4,Sabtu
+2026-09-05,SD Min,Americano,2,10000,2,20000,0,Sabtu
+2026-09-05,SD Min,A. Americano,2,15000,0,0,2,Sabtu
+2026-09-05,SD Min,Chocolate,2,15000,0,0,2,Sabtu
+2026-09-05,SD Min,Matcha,3,15000,2,30000,1,Sabtu
+2026-09-05,SD Min,Lychee tea,1,10000,0,0,1,Sabtu
+2026-09-05,Areca,Kopi Susu,20,10000,11,110000,9,Sabtu
+2026-09-05,Areca,Kopi Aren,5,12000,1,12000,4,Sabtu
+2026-09-05,Areca,Kopi Caramel,5,13000,2,26000,3,Sabtu
+2026-09-05,Areca,Kopi Butterscotch,15,13000,10,130000,5,Sabtu
+2026-09-05,Areca,Americano,2,10000,0,0,2,Sabtu
+2026-09-05,Areca,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-05,Areca,Chocolate,2,15000,2,30000,0,Sabtu
+2026-09-05,Areca,Matcha,4,15000,4,60000,0,Sabtu
+2026-09-05,Areca,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-06,Tuk-Tuk,Kopi Susu,25,10000,6,60000,19,Minggu
+2026-09-06,Tuk-Tuk,Kopi Aren,3,12000,0,0,3,Minggu
+2026-09-06,Tuk-Tuk,Kopi Caramel,2,13000,0,0,2,Minggu
+2026-09-06,Tuk-Tuk,Kopi Butterscotch,5,13000,1,13000,4,Minggu
+2026-09-06,Tuk-Tuk,Americano,2,10000,1,10000,1,Minggu
+2026-09-06,Tuk-Tuk,A. Americano,2,15000,1,15000,1,Minggu
+2026-09-06,Tuk-Tuk,Chocolate,2,15000,1,15000,1,Minggu
+2026-09-06,Tuk-Tuk,Matcha,0,15000,0,0,0,Minggu
+2026-09-06,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-06,Imigrasi,Kopi Susu,10,10000,3,30000,7,Minggu
+2026-09-06,Imigrasi,Kopi Aren,5,12000,0,0,5,Minggu
+2026-09-06,Imigrasi,Kopi Caramel,5,13000,0,0,5,Minggu
+2026-09-06,Imigrasi,Kopi Butterscotch,5,13000,1,13000,4,Minggu
+2026-09-06,Imigrasi,Americano,2,10000,1,10000,1,Minggu
+2026-09-06,Imigrasi,A. Americano,2,15000,0,0,2,Minggu
+2026-09-06,Imigrasi,Chocolate,2,15000,0,0,2,Minggu
+2026-09-06,Imigrasi,Matcha,4,15000,1,15000,3,Minggu
+2026-09-06,Imigrasi,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-06,SD Min,Kopi Susu,15,10000,4,40000,11,Minggu
+2026-09-06,SD Min,Kopi Aren,7,12000,2,24000,5,Minggu
+2026-09-06,SD Min,Kopi Caramel,5,13000,2,26000,3,Minggu
+2026-09-06,SD Min,Kopi Butterscotch,7,13000,5,65000,2,Minggu
+2026-09-06,SD Min,Americano,2,10000,0,0,2,Minggu
+2026-09-06,SD Min,A. Americano,2,15000,1,15000,1,Minggu
+2026-09-06,SD Min,Chocolate,2,15000,0,0,2,Minggu
+2026-09-06,SD Min,Matcha,5,15000,1,15000,4,Minggu
+2026-09-06,SD Min,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-07,Tuk-Tuk,Kopi Susu,20,10000,4,40000,16,Senin
+2026-09-07,Tuk-Tuk,Kopi Aren,5,12000,1,12000,4,Senin
+2026-09-07,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Senin
+2026-09-07,Tuk-Tuk,Kopi Butterscotch,5,13000,2,26000,3,Senin
+2026-09-07,Tuk-Tuk,Americano,2,10000,0,0,2,Senin
+2026-09-07,Tuk-Tuk,A. Americano,1,15000,0,0,1,Senin
+2026-09-07,Tuk-Tuk,Chocolate,1,15000,0,0,1,Senin
+2026-09-07,Tuk-Tuk,Matcha,0,15000,0,0,0,Senin
+2026-09-07,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Senin
+2026-09-07,Imigrasi,Kopi Susu,20,10000,11,110000,9,Senin
+2026-09-07,Imigrasi,Kopi Aren,5,12000,1,12000,4,Senin
+2026-09-07,Imigrasi,Kopi Caramel,5,13000,0,0,5,Senin
+2026-09-07,Imigrasi,Kopi Butterscotch,5,13000,2,26000,3,Senin
+2026-09-07,Imigrasi,Americano,2,10000,2,20000,0,Senin
+2026-09-07,Imigrasi,A. Americano,2,15000,0,0,2,Senin
+2026-09-07,Imigrasi,Chocolate,2,15000,1,15000,1,Senin
+2026-09-07,Imigrasi,Matcha,4,15000,0,0,4,Senin
+2026-09-07,Imigrasi,Lychee tea,2,10000,0,0,2,Senin
+2026-09-07,Pasar Raya,Kopi Susu,30,10000,14,140000,16,Senin
+2026-09-07,Pasar Raya,Kopi Aren,7,12000,2,24000,5,Senin
+2026-09-07,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Senin
+2026-09-07,Pasar Raya,Kopi Butterscotch,7,13000,1,13000,6,Senin
+2026-09-07,Pasar Raya,Americano,2,10000,1,10000,1,Senin
+2026-09-07,Pasar Raya,A. Americano,2,15000,0,0,2,Senin
+2026-09-07,Pasar Raya,Chocolate,2,15000,0,0,2,Senin
+2026-09-07,Pasar Raya,Matcha,5,15000,1,15000,4,Senin
+2026-09-07,Pasar Raya,Lychee tea,2,10000,2,20000,0,Senin
+2026-09-07,SD Min,Kopi Susu,15,10000,3,30000,12,Senin
+2026-09-07,SD Min,Kopi Aren,7,12000,3,36000,4,Senin
+2026-09-07,SD Min,Kopi Caramel,5,13000,0,0,5,Senin
+2026-09-07,SD Min,Kopi Butterscotch,7,13000,1,13000,6,Senin
+2026-09-07,SD Min,Americano,2,10000,1,10000,1,Senin
+2026-09-07,SD Min,A. Americano,2,15000,0,0,2,Senin
+2026-09-07,SD Min,Chocolate,2,15000,0,0,2,Senin
+2026-09-07,SD Min,Matcha,4,15000,0,0,4,Senin
+2026-09-07,SD Min,Lychee tea,2,10000,1,10000,1,Senin
+2026-09-08,Imigrasi,Kopi Susu,15,10000,11,110000,4,Selasa
+2026-09-08,Imigrasi,Kopi Aren,5,12000,0,0,5,Selasa
+2026-09-08,Imigrasi,Kopi Caramel,5,13000,2,26000,3,Selasa
+2026-09-08,Imigrasi,Kopi Butterscotch,5,13000,2,26000,3,Selasa
+2026-09-08,Imigrasi,Americano,2,10000,1,10000,1,Selasa
+2026-09-08,Imigrasi,A. Americano,2,15000,0,0,2,Selasa
+2026-09-08,Imigrasi,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-08,Imigrasi,Matcha,3,15000,2,30000,1,Selasa
+2026-09-08,Imigrasi,Lychee tea,2,10000,1,10000,1,Selasa
+2026-09-08,Pasar,Kopi Susu,30,10000,23,230000,7,Selasa
+2026-09-08,Pasar,Kopi Aren,15,12000,5,60000,10,Selasa
+2026-09-08,Pasar,Kopi Caramel,5,13000,2,26000,3,Selasa
+2026-09-08,Pasar,Kopi Butterscotch,15,13000,7,91000,8,Selasa
+2026-09-08,Pasar,Americano,2,10000,2,20000,0,Selasa
+2026-09-08,Pasar,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-08,Pasar,Chocolate,2,15000,0,0,2,Selasa
+2026-09-08,Pasar,Matcha,5,15000,1,15000,4,Selasa
+2026-09-08,Pasar,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-08,SD Min,Kopi Susu,10,10000,8,80000,2,Selasa
+2026-09-08,SD Min,Kopi Aren,5,12000,4,48000,1,Selasa
+2026-09-08,SD Min,Kopi Caramel,5,13000,5,65000,0,Selasa
+2026-09-08,SD Min,Kopi Butterscotch,7,13000,3,39000,4,Selasa
+2026-09-08,SD Min,Americano,2,10000,0,0,2,Selasa
+2026-09-08,SD Min,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-08,SD Min,Chocolate,2,15000,0,0,2,Selasa
+2026-09-08,SD Min,Matcha,4,15000,0,0,4,Selasa
+2026-09-08,SD Min,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-08,Areca,Kopi Susu,20,10000,7,70000,13,Selasa
+2026-09-08,Areca,Kopi Aren,5,12000,1,12000,4,Selasa
+2026-09-08,Areca,Kopi Caramel,5,13000,0,0,5,Selasa
+2026-09-08,Areca,Kopi Butterscotch,10,13000,7,91000,3,Selasa
+2026-09-08,Areca,Americano,2,10000,1,10000,1,Selasa
+2026-09-08,Areca,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-08,Areca,Chocolate,2,15000,0,0,2,Selasa
+2026-09-08,Areca,Matcha,4,15000,3,45000,1,Selasa
+2026-09-08,Areca,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-09,Tuk-Tuk,Kopi Susu,15,10000,8,80000,7,Rabu
+2026-09-09,Tuk-Tuk,Kopi Aren,3,12000,1,12000,2,Rabu
+2026-09-09,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Rabu
+2026-09-09,Tuk-Tuk,Kopi Butterscotch,5,13000,1,13000,4,Rabu
+2026-09-09,Tuk-Tuk,Americano,2,10000,1,10000,1,Rabu
+2026-09-09,Tuk-Tuk,A. Americano,2,15000,0,0,2,Rabu
+2026-09-09,Tuk-Tuk,Chocolate,2,15000,0,0,2,Rabu
+2026-09-09,Tuk-Tuk,Matcha,2,15000,1,15000,1,Rabu
+2026-09-09,Tuk-Tuk,Lychee tea,1,10000,0,0,1,Rabu
+2026-09-09,Imigrasi,Kopi Susu,10,10000,10,100000,0,Rabu
+2026-09-09,Imigrasi,Kopi Aren,5,12000,0,0,5,Rabu
+2026-09-09,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Rabu
+2026-09-09,Imigrasi,Kopi Butterscotch,8,13000,3,39000,5,Rabu
+2026-09-09,Imigrasi,Americano,2,10000,1,10000,1,Rabu
+2026-09-09,Imigrasi,A. Americano,2,15000,0,0,2,Rabu
+2026-09-09,Imigrasi,Chocolate,2,15000,0,0,2,Rabu
+2026-09-09,Imigrasi,Matcha,4,15000,1,15000,3,Rabu
+2026-09-09,Imigrasi,Lychee tea,1,10000,0,0,1,Rabu
+2026-09-09,Pasar Raya,Kopi Susu,20,10000,13,130000,7,Rabu
+2026-09-09,Pasar Raya,Kopi Aren,7,12000,2,24000,5,Rabu
+2026-09-09,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Rabu
+2026-09-09,Pasar Raya,Kopi Butterscotch,15,13000,3,39000,12,Rabu
+2026-09-09,Pasar Raya,Americano,2,10000,2,20000,0,Rabu
+2026-09-09,Pasar Raya,A. Americano,2,15000,2,30000,0,Rabu
+2026-09-09,Pasar Raya,Chocolate,2,15000,0,0,2,Rabu
+2026-09-09,Pasar Raya,Matcha,5,15000,1,15000,4,Rabu
+2026-09-09,Pasar Raya,Lychee tea,0,10000,0,0,0,Rabu
+2026-09-09,SD Min,Kopi Susu,20,10000,12,120000,8,Rabu
+2026-09-09,SD Min,Kopi Aren,5,12000,1,12000,4,Rabu
+2026-09-09,SD Min,Kopi Caramel,5,13000,1,13000,4,Rabu
+2026-09-09,SD Min,Kopi Butterscotch,7,13000,4,52000,3,Rabu
+2026-09-09,SD Min,Americano,2,10000,0,0,2,Rabu
+2026-09-09,SD Min,A. Americano,2,15000,0,0,2,Rabu
+2026-09-09,SD Min,Chocolate,2,15000,1,15000,1,Rabu
+2026-09-09,SD Min,Matcha,5,15000,2,30000,3,Rabu
+2026-09-09,SD Min,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-10,Tuk-Tuk,Kopi Susu,20,10000,7,70000,13,Kamis
+2026-09-10,Tuk-Tuk,Kopi Aren,5,12000,1,12000,4,Kamis
+2026-09-10,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Kamis
+2026-09-10,Tuk-Tuk,Kopi Butterscotch,5,13000,1,13000,4,Kamis
+2026-09-10,Tuk-Tuk,Americano,2,10000,1,10000,1,Kamis
+2026-09-10,Tuk-Tuk,A. Americano,1,15000,0,0,1,Kamis
+2026-09-10,Tuk-Tuk,Chocolate,1,15000,1,15000,0,Kamis
+2026-09-10,Tuk-Tuk,Matcha,2,15000,0,0,2,Kamis
+2026-09-10,Tuk-Tuk,Lychee tea,2,10000,1,10000,1,Kamis
+2026-09-10,Imigrasi,Kopi Susu,15,10000,14,140000,1,Kamis
+2026-09-10,Imigrasi,Kopi Aren,5,12000,2,24000,3,Kamis
+2026-09-10,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Kamis
+2026-09-10,Imigrasi,Kopi Butterscotch,8,13000,2,26000,6,Kamis
+2026-09-10,Imigrasi,Americano,2,10000,1,10000,1,Kamis
+2026-09-10,Imigrasi,A. Americano,2,15000,0,0,2,Kamis
+2026-09-10,Imigrasi,Chocolate,2,15000,2,30000,0,Kamis
+2026-09-10,Imigrasi,Matcha,3,15000,2,30000,1,Kamis
+2026-09-10,Imigrasi,Lychee tea,1,10000,0,0,1,Kamis
+2026-09-10,Pasar Raya,Kopi Susu,30,10000,18,180000,12,Kamis
+2026-09-10,Pasar Raya,Kopi Aren,7,12000,1,12000,6,Kamis
+2026-09-10,Pasar Raya,Kopi Caramel,5,13000,1,13000,4,Kamis
+2026-09-10,Pasar Raya,Kopi Butterscotch,7,13000,4,52000,3,Kamis
+2026-09-10,Pasar Raya,Americano,2,10000,1,10000,1,Kamis
+2026-09-10,Pasar Raya,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-10,Pasar Raya,Chocolate,2,15000,0,0,2,Kamis
+2026-09-10,Pasar Raya,Matcha,5,15000,0,0,5,Kamis
+2026-09-10,Pasar Raya,Lychee tea,2,10000,1,10000,1,Kamis
+2026-09-10,SD Min,Kopi Susu,15,10000,10,100000,5,Kamis
+2026-09-10,SD Min,Kopi Aren,5,12000,2,24000,3,Kamis
+2026-09-10,SD Min,Kopi Caramel,5,13000,0,0,5,Kamis
+2026-09-10,SD Min,Kopi Butterscotch,8,13000,4,52000,4,Kamis
+2026-09-10,SD Min,Americano,2,10000,0,0,2,Kamis
+2026-09-10,SD Min,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-10,SD Min,Chocolate,2,15000,0,0,2,Kamis
+2026-09-10,SD Min,Matcha,4,15000,1,15000,3,Kamis
+2026-09-10,SD Min,Lychee tea,0,10000,0,0,0,Kamis
+2026-09-11,Tuk-Tuk,Kopi Susu,20,10000,6,60000,14,Jumat
+2026-09-11,Tuk-Tuk,Kopi Aren,5,12000,2,24000,3,Jumat
+2026-09-11,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Jumat
+2026-09-11,Tuk-Tuk,Kopi Butterscotch,5,13000,1,13000,4,Jumat
+2026-09-11,Tuk-Tuk,Americano,2,10000,1,10000,1,Jumat
+2026-09-11,Tuk-Tuk,A. Americano,2,15000,2,30000,0,Jumat
+2026-09-11,Tuk-Tuk,Chocolate,1,15000,1,15000,0,Jumat
+2026-09-11,Tuk-Tuk,Matcha,2,15000,1,15000,1,Jumat
+2026-09-11,Tuk-Tuk,Lychee tea,2,10000,1,10000,1,Jumat
+2026-09-11,Imigrasi,Kopi Susu,15,10000,15,150000,0,Jumat
+2026-09-11,Imigrasi,Kopi Aren,5,12000,4,48000,1,Jumat
+2026-09-11,Imigrasi,Kopi Caramel,5,13000,0,0,5,Jumat
+2026-09-11,Imigrasi,Kopi Butterscotch,5,13000,1,13000,4,Jumat
+2026-09-11,Imigrasi,Americano,2,10000,0,0,2,Jumat
+2026-09-11,Imigrasi,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-11,Imigrasi,Chocolate,2,15000,0,0,2,Jumat
+2026-09-11,Imigrasi,Matcha,4,15000,3,45000,1,Jumat
+2026-09-11,Imigrasi,Lychee tea,2,10000,1,10000,1,Jumat
+2026-09-11,Pasar Raya,Kopi Susu,25,10000,19,190000,6,Jumat
+2026-09-11,Pasar Raya,Kopi Aren,5,12000,1,12000,4,Jumat
+2026-09-11,Pasar Raya,Kopi Caramel,5,13000,1,13000,4,Jumat
+2026-09-11,Pasar Raya,Kopi Butterscotch,10,13000,9,117000,1,Jumat
+2026-09-11,Pasar Raya,Americano,2,10000,2,20000,0,Jumat
+2026-09-11,Pasar Raya,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-11,Pasar Raya,Chocolate,2,15000,0,0,2,Jumat
+2026-09-11,Pasar Raya,Matcha,5,15000,0,0,5,Jumat
+2026-09-11,Pasar Raya,Lychee tea,0,10000,0,0,0,Jumat
+2026-09-11,SD Min,Kopi Susu,15,10000,14,140000,1,Jumat
+2026-09-11,SD Min,Kopi Aren,5,12000,3,36000,2,Jumat
+2026-09-11,SD Min,Kopi Caramel,5,13000,4,52000,1,Jumat
+2026-09-11,SD Min,Kopi Butterscotch,7,13000,4,52000,3,Jumat
+2026-09-11,SD Min,Americano,2,10000,2,20000,0,Jumat
+2026-09-11,SD Min,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-11,SD Min,Chocolate,2,15000,0,0,2,Jumat
+2026-09-11,SD Min,Matcha,4,15000,1,15000,3,Jumat
+2026-09-11,SD Min,Lychee tea,1,10000,0,0,1,Jumat
+2026-09-11,Areca,Kopi Susu,22,10000,11,110000,11,Jumat
+2026-09-11,Areca,Kopi Aren,5,12000,2,24000,3,Jumat
+2026-09-11,Areca,Kopi Caramel,2,13000,0,0,2,Jumat
+2026-09-11,Areca,Kopi Butterscotch,10,13000,8,104000,2,Jumat
+2026-09-11,Areca,Americano,2,10000,1,10000,1,Jumat
+2026-09-11,Areca,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-11,Areca,Chocolate,2,15000,2,30000,0,Jumat
+2026-09-11,Areca,Matcha,4,15000,3,45000,1,Jumat
+2026-09-11,Areca,Lychee tea,0,10000,0,0,0,Jumat
+2026-09-12,Tuk-Tuk,Kopi Susu,25,10000,9,90000,16,Sabtu
+2026-09-12,Tuk-Tuk,Kopi Aren,5,12000,5,60000,0,Sabtu
+2026-09-12,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Sabtu
+2026-09-12,Tuk-Tuk,Kopi Butterscotch,5,13000,2,26000,3,Sabtu
+2026-09-12,Tuk-Tuk,Americano,2,10000,2,20000,0,Sabtu
+2026-09-12,Tuk-Tuk,A. Americano,1,15000,1,15000,0,Sabtu
+2026-09-12,Tuk-Tuk,Chocolate,1,15000,1,15000,0,Sabtu
+2026-09-12,Tuk-Tuk,Matcha,2,15000,1,15000,1,Sabtu
+2026-09-12,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-12,Imigrasi,Kopi Susu,15,10000,14,140000,1,Sabtu
+2026-09-12,Imigrasi,Kopi Aren,5,12000,3,36000,2,Sabtu
+2026-09-12,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Sabtu
+2026-09-12,Imigrasi,Kopi Butterscotch,5,13000,3,39000,2,Sabtu
+2026-09-12,Imigrasi,Americano,2,10000,2,20000,0,Sabtu
+2026-09-12,Imigrasi,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-12,Imigrasi,Chocolate,2,15000,0,0,2,Sabtu
+2026-09-12,Imigrasi,Matcha,4,15000,0,0,4,Sabtu
+2026-09-12,Imigrasi,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-12,Pasar Raya,Kopi Susu,25,10000,22,220000,3,Sabtu
+2026-09-12,Pasar Raya,Kopi Aren,5,12000,2,24000,3,Sabtu
+2026-09-12,Pasar Raya,Kopi Caramel,5,13000,1,13000,4,Sabtu
+2026-09-12,Pasar Raya,Kopi Butterscotch,7,13000,4,52000,3,Sabtu
+2026-09-12,Pasar Raya,Americano,2,10000,2,20000,0,Sabtu
+2026-09-12,Pasar Raya,A. Americano,2,15000,2,30000,0,Sabtu
+2026-09-12,Pasar Raya,Chocolate,2,15000,0,0,2,Sabtu
+2026-09-12,Pasar Raya,Matcha,5,15000,0,0,5,Sabtu
+2026-09-12,Pasar Raya,Lychee tea,2,10000,1,10000,1,Sabtu
+2026-09-12,Pasar,Kopi Susu,25,10000,23,230000,2,Sabtu
+2026-09-12,Pasar,Kopi Aren,10,12000,5,60000,5,Sabtu
+2026-09-12,Pasar,Kopi Caramel,5,13000,5,65000,0,Sabtu
+2026-09-12,Pasar,Kopi Butterscotch,10,13000,10,130000,0,Sabtu
+2026-09-12,Pasar,Americano,2,10000,1,10000,1,Sabtu
+2026-09-12,Pasar,A. Americano,2,15000,2,30000,0,Sabtu
+2026-09-12,Pasar,Chocolate,2,15000,0,0,2,Sabtu
+2026-09-12,Pasar,Matcha,5,15000,2,30000,3,Sabtu
+2026-09-12,Pasar,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-12,SD Min,Kopi Susu,20,10000,17,170000,3,Sabtu
+2026-09-12,SD Min,Kopi Aren,5,12000,4,48000,1,Sabtu
+2026-09-12,SD Min,Kopi Caramel,5,13000,2,26000,3,Sabtu
+2026-09-12,SD Min,Kopi Butterscotch,8,13000,4,52000,4,Sabtu
+2026-09-12,SD Min,Americano,2,10000,1,10000,1,Sabtu
+2026-09-12,SD Min,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-12,SD Min,Chocolate,2,15000,1,15000,1,Sabtu
+2026-09-12,SD Min,Matcha,3,15000,0,0,3,Sabtu
+2026-09-12,SD Min,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-12,Areca,Kopi Susu,27,10000,14,140000,13,Sabtu
+2026-09-12,Areca,Kopi Aren,3,12000,0,0,3,Sabtu
+2026-09-12,Areca,Kopi Caramel,5,13000,1,13000,4,Sabtu
+2026-09-12,Areca,Kopi Butterscotch,7,13000,7,91000,0,Sabtu
+2026-09-12,Areca,Americano,2,10000,2,20000,0,Sabtu
+2026-09-12,Areca,A. Americano,2,15000,0,0,2,Sabtu
+2026-09-12,Areca,Chocolate,2,15000,2,30000,0,Sabtu
+2026-09-12,Areca,Matcha,5,15000,3,45000,2,Sabtu
+2026-09-12,Areca,Lychee tea,0,10000,0,0,0,Sabtu
+2026-09-13,Tuk-Tuk,Kopi Susu,30,10000,5,50000,25,Minggu
+2026-09-13,Tuk-Tuk,Kopi Aren,3,12000,0,0,3,Minggu
+2026-09-13,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Minggu
+2026-09-13,Tuk-Tuk,Kopi Butterscotch,3,13000,1,13000,2,Minggu
+2026-09-13,Tuk-Tuk,Americano,2,10000,0,0,2,Minggu
+2026-09-13,Tuk-Tuk,A. Americano,2,15000,2,30000,0,Minggu
+2026-09-13,Tuk-Tuk,Chocolate,1,15000,1,15000,0,Minggu
+2026-09-13,Tuk-Tuk,Matcha,2,15000,0,0,2,Minggu
+2026-09-13,Tuk-Tuk,Lychee tea,1,10000,0,0,1,Minggu
+2026-09-13,Imigrasi,Kopi Susu,15,10000,9,90000,6,Minggu
+2026-09-13,Imigrasi,Kopi Aren,5,12000,0,0,5,Minggu
+2026-09-13,Imigrasi,Kopi Caramel,5,13000,0,0,5,Minggu
+2026-09-13,Imigrasi,Kopi Butterscotch,8,13000,2,26000,6,Minggu
+2026-09-13,Imigrasi,Americano,2,10000,0,0,2,Minggu
+2026-09-13,Imigrasi,A. Americano,2,15000,0,0,2,Minggu
+2026-09-13,Imigrasi,Chocolate,2,15000,0,0,2,Minggu
+2026-09-13,Imigrasi,Matcha,4,15000,1,15000,3,Minggu
+2026-09-13,Imigrasi,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-13,Pasar Raya,Kopi Susu,30,10000,17,170000,13,Minggu
+2026-09-13,Pasar Raya,Kopi Aren,15,12000,6,72000,9,Minggu
+2026-09-13,Pasar Raya,Kopi Caramel,5,13000,1,13000,4,Minggu
+2026-09-13,Pasar Raya,Kopi Butterscotch,7,13000,4,52000,3,Minggu
+2026-09-13,Pasar Raya,Americano,2,10000,1,10000,1,Minggu
+2026-09-13,Pasar Raya,A. Americano,2,15000,1,15000,1,Minggu
+2026-09-13,Pasar Raya,Chocolate,2,15000,0,0,2,Minggu
+2026-09-13,Pasar Raya,Matcha,5,15000,0,0,5,Minggu
+2026-09-13,Pasar Raya,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-13,SD Min,Kopi Susu,15,10000,6,60000,9,Minggu
+2026-09-13,SD Min,Kopi Aren,5,12000,1,12000,4,Minggu
+2026-09-13,SD Min,Kopi Caramel,5,13000,3,39000,2,Minggu
+2026-09-13,SD Min,Kopi Butterscotch,8,13000,1,13000,7,Minggu
+2026-09-13,SD Min,Americano,2,10000,0,0,2,Minggu
+2026-09-13,SD Min,A. Americano,2,15000,1,15000,1,Minggu
+2026-09-13,SD Min,Chocolate,2,15000,0,0,2,Minggu
+2026-09-13,SD Min,Matcha,4,15000,1,15000,3,Minggu
+2026-09-13,SD Min,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-14,Tuk-Tuk,Kopi Susu,20,10000,6,60000,14,Senin
+2026-09-14,Tuk-Tuk,Kopi Aren,3,12000,1,12000,2,Senin
+2026-09-14,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Senin
+2026-09-14,Tuk-Tuk,Kopi Butterscotch,5,13000,2,26000,3,Senin
+2026-09-14,Tuk-Tuk,Americano,2,10000,1,10000,1,Senin
+2026-09-14,Tuk-Tuk,A. Americano,2,15000,1,15000,1,Senin
+2026-09-14,Tuk-Tuk,Chocolate,1,15000,0,0,1,Senin
+2026-09-14,Tuk-Tuk,Matcha,2,15000,0,0,2,Senin
+2026-09-14,Tuk-Tuk,Lychee tea,1,10000,0,0,1,Senin
+2026-09-14,Imigrasi,Kopi Susu,15,10000,9,90000,6,Senin
+2026-09-14,Imigrasi,Kopi Aren,5,12000,2,24000,3,Senin
+2026-09-14,Imigrasi,Kopi Caramel,5,13000,0,0,5,Senin
+2026-09-14,Imigrasi,Kopi Butterscotch,8,13000,0,0,8,Senin
+2026-09-14,Imigrasi,Americano,2,10000,0,0,2,Senin
+2026-09-14,Imigrasi,A. Americano,2,15000,0,0,2,Senin
+2026-09-14,Imigrasi,Chocolate,2,15000,0,0,2,Senin
+2026-09-14,Imigrasi,Matcha,4,15000,0,0,4,Senin
+2026-09-14,Imigrasi,Lychee tea,2,10000,0,0,2,Senin
+2026-09-14,Pasar Raya,Kopi Susu,35,10000,20,200000,15,Senin
+2026-09-14,Pasar Raya,Kopi Aren,10,12000,3,36000,7,Senin
+2026-09-14,Pasar Raya,Kopi Caramel,5,13000,3,39000,2,Senin
+2026-09-14,Pasar Raya,Kopi Butterscotch,7,13000,2,26000,5,Senin
+2026-09-14,Pasar Raya,Americano,2,10000,1,10000,1,Senin
+2026-09-14,Pasar Raya,A. Americano,2,15000,2,30000,0,Senin
+2026-09-14,Pasar Raya,Chocolate,2,15000,0,0,2,Senin
+2026-09-14,Pasar Raya,Matcha,5,15000,0,0,5,Senin
+2026-09-14,Pasar Raya,Lychee tea,0,10000,0,0,0,Senin
+2026-09-14,SD Min,Kopi Susu,20,10000,7,70000,13,Senin
+2026-09-14,SD Min,Kopi Aren,7,12000,4,48000,3,Senin
+2026-09-14,SD Min,Kopi Caramel,5,13000,3,39000,2,Senin
+2026-09-14,SD Min,Kopi Butterscotch,7,13000,4,52000,3,Senin
+2026-09-14,SD Min,Americano,2,10000,1,10000,1,Senin
+2026-09-14,SD Min,A. Americano,2,15000,0,0,2,Senin
+2026-09-14,SD Min,Chocolate,2,15000,1,15000,1,Senin
+2026-09-14,SD Min,Matcha,3,15000,2,30000,1,Senin
+2026-09-14,SD Min,Lychee tea,1,10000,1,10000,0,Senin
+2026-09-15,Imigrasi,Kopi Susu,15,10000,10,100000,5,Selasa
+2026-09-15,Imigrasi,Kopi Aren,5,12000,3,36000,2,Selasa
+2026-09-15,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Selasa
+2026-09-15,Imigrasi,Kopi Butterscotch,8,13000,4,52000,4,Selasa
+2026-09-15,Imigrasi,Americano,2,10000,0,0,2,Selasa
+2026-09-15,Imigrasi,A. Americano,2,15000,2,30000,0,Selasa
+2026-09-15,Imigrasi,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-15,Imigrasi,Matcha,4,15000,0,0,4,Selasa
+2026-09-15,Imigrasi,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-15,Pasar,Kopi Susu,30,10000,29,290000,1,Selasa
+2026-09-15,Pasar,Kopi Aren,7,12000,3,36000,4,Selasa
+2026-09-15,Pasar,Kopi Caramel,5,13000,3,39000,2,Selasa
+2026-09-15,Pasar,Kopi Butterscotch,10,13000,6,78000,4,Selasa
+2026-09-15,Pasar,Americano,2,10000,1,10000,1,Selasa
+2026-09-15,Pasar,A. Americano,2,15000,2,30000,0,Selasa
+2026-09-15,Pasar,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-15,Pasar,Matcha,5,15000,3,45000,2,Selasa
+2026-09-15,Pasar,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-15,SD Min,Kopi Susu,15,10000,10,100000,5,Selasa
+2026-09-15,SD Min,Kopi Aren,5,12000,2,24000,3,Selasa
+2026-09-15,SD Min,Kopi Caramel,5,13000,3,39000,2,Selasa
+2026-09-15,SD Min,Kopi Butterscotch,7,13000,2,26000,5,Selasa
+2026-09-15,SD Min,Americano,2,10000,0,0,2,Selasa
+2026-09-15,SD Min,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-15,SD Min,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-15,SD Min,Matcha,3,15000,1,15000,2,Selasa
+2026-09-15,SD Min,Lychee tea,2,10000,1,10000,1,Selasa
+2026-09-15,Areca,Kopi Susu,15,10000,5,50000,10,Selasa
+2026-09-15,Areca,Kopi Aren,5,12000,0,0,5,Selasa
+2026-09-15,Areca,Kopi Caramel,2,13000,0,0,2,Selasa
+2026-09-15,Areca,Kopi Butterscotch,10,13000,6,78000,4,Selasa
+2026-09-15,Areca,Americano,2,10000,2,20000,0,Selasa
+2026-09-15,Areca,A. Americano,2,15000,0,0,2,Selasa
+2026-09-15,Areca,Chocolate,2,15000,2,30000,0,Selasa
+2026-09-15,Areca,Matcha,4,15000,2,30000,2,Selasa
+2026-09-15,Areca,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-16,Tuk-Tuk,Kopi Susu,20,10000,5,50000,15,Rabu
+2026-09-16,Tuk-Tuk,Kopi Aren,3,12000,1,12000,2,Rabu
+2026-09-16,Tuk-Tuk,Kopi Caramel,2,13000,0,0,2,Rabu
+2026-09-16,Tuk-Tuk,Kopi Butterscotch,5,13000,2,26000,3,Rabu
+2026-09-16,Tuk-Tuk,Americano,2,10000,1,10000,1,Rabu
+2026-09-16,Tuk-Tuk,A. Americano,2,15000,0,0,2,Rabu
+2026-09-16,Tuk-Tuk,Chocolate,2,15000,1,15000,1,Rabu
+2026-09-16,Tuk-Tuk,Matcha,2,15000,2,30000,0,Rabu
+2026-09-16,Tuk-Tuk,Lychee tea,1,10000,0,0,1,Rabu
+2026-09-16,Imigrasi,Kopi Susu,20,10000,16,160000,4,Rabu
+2026-09-16,Imigrasi,Kopi Aren,5,12000,0,0,5,Rabu
+2026-09-16,Imigrasi,Kopi Caramel,5,13000,0,0,5,Rabu
+2026-09-16,Imigrasi,Kopi Butterscotch,8,13000,2,26000,6,Rabu
+2026-09-16,Imigrasi,Americano,2,10000,0,0,2,Rabu
+2026-09-16,Imigrasi,A. Americano,2,15000,0,0,2,Rabu
+2026-09-16,Imigrasi,Chocolate,2,15000,1,15000,1,Rabu
+2026-09-16,Imigrasi,Matcha,3,15000,1,15000,2,Rabu
+2026-09-16,Imigrasi,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-16,Pasar Raya,Kopi Susu,30,10000,18,180000,12,Rabu
+2026-09-16,Pasar Raya,Kopi Aren,10,12000,3,36000,7,Rabu
+2026-09-16,Pasar Raya,Kopi Caramel,5,13000,1,13000,4,Rabu
+2026-09-16,Pasar Raya,Kopi Butterscotch,5,13000,1,13000,4,Rabu
+2026-09-16,Pasar Raya,Americano,2,10000,2,20000,0,Rabu
+2026-09-16,Pasar Raya,A. Americano,2,15000,0,0,2,Rabu
+2026-09-16,Pasar Raya,Chocolate,2,15000,0,0,2,Rabu
+2026-09-16,Pasar Raya,Matcha,4,15000,0,0,4,Rabu
+2026-09-16,Pasar Raya,Lychee tea,0,10000,0,0,0,Rabu
+2026-09-16,SD Min,Kopi Susu,15,10000,7,70000,8,Rabu
+2026-09-16,SD Min,Kopi Aren,5,12000,4,48000,1,Rabu
+2026-09-16,SD Min,Kopi Caramel,5,13000,1,13000,4,Rabu
+2026-09-16,SD Min,Kopi Butterscotch,10,13000,7,91000,3,Rabu
+2026-09-16,SD Min,Americano,2,10000,0,0,2,Rabu
+2026-09-16,SD Min,A. Americano,2,15000,2,30000,0,Rabu
+2026-09-16,SD Min,Chocolate,2,15000,0,0,2,Rabu
+2026-09-16,SD Min,Matcha,4,15000,2,30000,2,Rabu
+2026-09-16,SD Min,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-17,Tuk-Tuk,Kopi Susu,20,10000,5,50000,15,Kamis
+2026-09-17,Tuk-Tuk,Kopi Aren,5,12000,2,24000,3,Kamis
+2026-09-17,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Kamis
+2026-09-17,Tuk-Tuk,Kopi Butterscotch,3,13000,1,13000,2,Kamis
+2026-09-17,Tuk-Tuk,Americano,2,10000,0,0,2,Kamis
+2026-09-17,Tuk-Tuk,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-17,Tuk-Tuk,Chocolate,2,15000,2,30000,0,Kamis
+2026-09-17,Tuk-Tuk,Matcha,0,15000,0,0,0,Kamis
+2026-09-17,Tuk-Tuk,Lychee tea,1,10000,0,0,1,Kamis
+2026-09-17,Imigrasi,Kopi Susu,15,10000,14,140000,1,Kamis
+2026-09-17,Imigrasi,Kopi Aren,5,12000,1,12000,4,Kamis
+2026-09-17,Imigrasi,Kopi Caramel,5,13000,2,26000,3,Kamis
+2026-09-17,Imigrasi,Kopi Butterscotch,8,13000,1,13000,7,Kamis
+2026-09-17,Imigrasi,Americano,2,10000,1,10000,1,Kamis
+2026-09-17,Imigrasi,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-17,Imigrasi,Chocolate,2,15000,1,15000,1,Kamis
+2026-09-17,Imigrasi,Matcha,3,15000,1,15000,2,Kamis
+2026-09-17,Imigrasi,Lychee tea,2,10000,0,0,2,Kamis
+2026-09-17,Pasar Raya,Kopi Susu,30,10000,13,130000,17,Kamis
+2026-09-17,Pasar Raya,Kopi Aren,15,12000,4,48000,11,Kamis
+2026-09-17,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Kamis
+2026-09-17,Pasar Raya,Kopi Butterscotch,15,13000,8,104000,7,Kamis
+2026-09-17,Pasar Raya,Americano,2,10000,2,20000,0,Kamis
+2026-09-17,Pasar Raya,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-17,Pasar Raya,Chocolate,2,15000,0,0,2,Kamis
+2026-09-17,Pasar Raya,Matcha,5,15000,1,15000,4,Kamis
+2026-09-17,Pasar Raya,Lychee tea,2,10000,1,10000,1,Kamis
+2026-09-17,SD Min,Kopi Susu,20,10000,15,150000,5,Kamis
+2026-09-17,SD Min,Kopi Aren,7,12000,3,36000,4,Kamis
+2026-09-17,SD Min,Kopi Caramel,5,13000,4,52000,1,Kamis
+2026-09-17,SD Min,Kopi Butterscotch,8,13000,5,65000,3,Kamis
+2026-09-17,SD Min,Americano,2,10000,0,0,2,Kamis
+2026-09-17,SD Min,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-17,SD Min,Chocolate,2,15000,1,15000,1,Kamis
+2026-09-17,SD Min,Matcha,3,15000,1,15000,2,Kamis
+2026-09-17,SD Min,Lychee tea,1,10000,1,10000,0,Kamis
+2026-09-18,Tuk-Tuk,Kopi Susu,20,10000,9,90000,11,Jumat
+2026-09-18,Tuk-Tuk,Kopi Aren,5,12000,2,24000,3,Jumat
+2026-09-18,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Jumat
+2026-09-18,Tuk-Tuk,Kopi Butterscotch,5,13000,1,13000,4,Jumat
+2026-09-18,Tuk-Tuk,Americano,2,10000,2,20000,0,Jumat
+2026-09-18,Tuk-Tuk,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-18,Tuk-Tuk,Chocolate,1,15000,0,0,1,Jumat
+2026-09-18,Tuk-Tuk,Matcha,2,15000,0,0,2,Jumat
+2026-09-18,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-18,Imigrasi,Kopi Susu,15,10000,14,140000,1,Jumat
+2026-09-18,Imigrasi,Kopi Aren,5,12000,3,36000,2,Jumat
+2026-09-18,Imigrasi,Kopi Caramel,5,13000,0,0,5,Jumat
+2026-09-18,Imigrasi,Kopi Butterscotch,8,13000,5,65000,3,Jumat
+2026-09-18,Imigrasi,Americano,2,10000,2,20000,0,Jumat
+2026-09-18,Imigrasi,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-18,Imigrasi,Chocolate,2,15000,1,15000,1,Jumat
+2026-09-18,Imigrasi,Matcha,4,15000,1,15000,3,Jumat
+2026-09-18,Imigrasi,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-18,Pasar Raya,Kopi Susu,35,10000,21,210000,14,Jumat
+2026-09-18,Pasar Raya,Kopi Aren,7,12000,2,24000,5,Jumat
+2026-09-18,Pasar Raya,Kopi Caramel,5,13000,2,26000,3,Jumat
+2026-09-18,Pasar Raya,Kopi Butterscotch,5,13000,4,52000,1,Jumat
+2026-09-18,Pasar Raya,Americano,2,10000,0,0,2,Jumat
+2026-09-18,Pasar Raya,A. Americano,2,15000,0,0,2,Jumat
+2026-09-18,Pasar Raya,Chocolate,2,15000,0,0,2,Jumat
+2026-09-18,Pasar Raya,Matcha,5,15000,1,15000,4,Jumat
+2026-09-18,Pasar Raya,Lychee tea,5,10000,3,30000,2,Jumat
+2026-09-18,SD Min,Kopi Susu,15,10000,12,120000,3,Jumat
+2026-09-18,SD Min,Kopi Aren,5,12000,1,12000,4,Jumat
+2026-09-18,SD Min,Kopi Caramel,5,13000,0,0,5,Jumat
+2026-09-18,SD Min,Kopi Butterscotch,8,13000,7,91000,1,Jumat
+2026-09-18,SD Min,Americano,2,10000,2,20000,0,Jumat
+2026-09-18,SD Min,A. Americano,2,15000,2,30000,0,Jumat
+2026-09-18,SD Min,Chocolate,2,15000,0,0,2,Jumat
+2026-09-18,SD Min,Matcha,4,15000,4,60000,0,Jumat
+2026-09-18,SD Min,Lychee tea,0,10000,0,0,0,Jumat
+2026-09-18,Areca,Kopi Susu,10,10000,5,50000,5,Jumat
+2026-09-18,Areca,Kopi Aren,3,12000,1,12000,2,Jumat
+2026-09-18,Areca,Kopi Caramel,5,13000,1,13000,4,Jumat
+2026-09-18,Areca,Kopi Butterscotch,7,13000,5,65000,2,Jumat
+2026-09-18,Areca,Americano,2,10000,0,0,2,Jumat
+2026-09-18,Areca,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-18,Areca,Chocolate,2,15000,2,30000,0,Jumat
+2026-09-18,Areca,Matcha,4,15000,4,60000,0,Jumat
+2026-09-18,Areca,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-19,Tuk-Tuk,Kopi Susu,20,10000,6,60000,14,Sabtu
+2026-09-19,Tuk-Tuk,Kopi Aren,3,12000,1,12000,2,Sabtu
+2026-09-19,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Sabtu
+2026-09-19,Tuk-Tuk,Kopi Butterscotch,5,13000,3,39000,2,Sabtu
+2026-09-19,Tuk-Tuk,Americano,2,10000,1,10000,1,Sabtu
+2026-09-19,Tuk-Tuk,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-19,Tuk-Tuk,Chocolate,1,15000,0,0,1,Sabtu
+2026-09-19,Tuk-Tuk,Matcha,2,15000,1,15000,1,Sabtu
+2026-09-19,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-19,Imigrasi,Kopi Susu,15,10000,14,140000,1,Sabtu
+2026-09-19,Imigrasi,Kopi Aren,5,12000,3,36000,2,Sabtu
+2026-09-19,Imigrasi,Kopi Caramel,5,13000,0,0,5,Sabtu
+2026-09-19,Imigrasi,Kopi Butterscotch,8,13000,4,52000,4,Sabtu
+2026-09-19,Imigrasi,Americano,2,10000,0,0,2,Sabtu
+2026-09-19,Imigrasi,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-19,Imigrasi,Chocolate,2,15000,1,15000,1,Sabtu
+2026-09-19,Imigrasi,Matcha,4,15000,2,30000,2,Sabtu
+2026-09-19,Imigrasi,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-19,Pasar Raya,Kopi Susu,25,10000,15,150000,10,Sabtu
+2026-09-19,Pasar Raya,Kopi Aren,7,12000,3,36000,4,Sabtu
+2026-09-19,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Sabtu
+2026-09-19,Pasar Raya,Kopi Butterscotch,7,13000,7,91000,0,Sabtu
+2026-09-19,Pasar Raya,Americano,2,10000,0,0,2,Sabtu
+2026-09-19,Pasar Raya,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-19,Pasar Raya,Chocolate,2,15000,0,0,2,Sabtu
+2026-09-19,Pasar Raya,Matcha,5,15000,0,0,5,Sabtu
+2026-09-19,Pasar Raya,Lychee tea,2,10000,2,20000,0,Sabtu
+2026-09-19,Pasar,Kopi Susu,25,10000,24,240000,1,Sabtu
+2026-09-19,Pasar,Kopi Aren,5,12000,2,24000,3,Sabtu
+2026-09-19,Pasar,Kopi Caramel,5,13000,5,65000,0,Sabtu
+2026-09-19,Pasar,Kopi Butterscotch,10,13000,8,104000,2,Sabtu
+2026-09-19,Pasar,Americano,2,10000,1,10000,1,Sabtu
+2026-09-19,Pasar,A. Americano,2,15000,2,30000,0,Sabtu
+2026-09-19,Pasar,Chocolate,2,15000,2,30000,0,Sabtu
+2026-09-19,Pasar,Matcha,5,15000,5,75000,0,Sabtu
+2026-09-19,Pasar,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-19,SD Min,Kopi Susu,25,10000,20,200000,5,Sabtu
+2026-09-19,SD Min,Kopi Aren,5,12000,3,36000,2,Sabtu
+2026-09-19,SD Min,Kopi Caramel,5,13000,2,26000,3,Sabtu
+2026-09-19,SD Min,Kopi Butterscotch,8,13000,8,104000,0,Sabtu
+2026-09-19,SD Min,Americano,2,10000,1,10000,1,Sabtu
+2026-09-19,SD Min,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-19,SD Min,Chocolate,2,15000,2,30000,0,Sabtu
+2026-09-19,SD Min,Matcha,3,15000,3,45000,0,Sabtu
+2026-09-19,SD Min,Lychee tea,2,10000,1,10000,1,Sabtu
+2026-09-19,Areca,Kopi Susu,22,10000,11,110000,11,Sabtu
+2026-09-19,Areca,Kopi Aren,3,12000,2,24000,1,Sabtu
+2026-09-19,Areca,Kopi Caramel,5,13000,2,26000,3,Sabtu
+2026-09-19,Areca,Kopi Butterscotch,15,13000,10,130000,5,Sabtu
+2026-09-19,Areca,Americano,2,10000,1,10000,1,Sabtu
+2026-09-19,Areca,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-19,Areca,Chocolate,2,15000,2,30000,0,Sabtu
+2026-09-19,Areca,Matcha,4,15000,3,45000,1,Sabtu
+2026-09-19,Areca,Lychee tea,0,10000,0,0,0,Sabtu
+2026-09-20,Tuk-Tuk,Kopi Susu,15,10000,0,0,15,Minggu
+2026-09-20,Tuk-Tuk,Kopi Aren,5,12000,0,0,5,Minggu
+2026-09-20,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Minggu
+2026-09-20,Tuk-Tuk,Kopi Butterscotch,5,13000,0,0,5,Minggu
+2026-09-20,Tuk-Tuk,Americano,2,10000,1,10000,1,Minggu
+2026-09-20,Tuk-Tuk,A. Americano,2,15000,0,0,2,Minggu
+2026-09-20,Tuk-Tuk,Chocolate,1,15000,0,0,1,Minggu
+2026-09-20,Tuk-Tuk,Matcha,2,15000,1,15000,1,Minggu
+2026-09-20,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-20,Imigrasi,Kopi Susu,15,10000,7,70000,8,Minggu
+2026-09-20,Imigrasi,Kopi Aren,5,12000,0,0,5,Minggu
+2026-09-20,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Minggu
+2026-09-20,Imigrasi,Kopi Butterscotch,8,13000,2,26000,6,Minggu
+2026-09-20,Imigrasi,Americano,2,10000,1,10000,1,Minggu
+2026-09-20,Imigrasi,A. Americano,2,15000,0,0,2,Minggu
+2026-09-20,Imigrasi,Chocolate,2,15000,0,0,2,Minggu
+2026-09-20,Imigrasi,Matcha,3,15000,1,15000,2,Minggu
+2026-09-20,Imigrasi,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-20,Pasar Raya,Kopi Susu,25,10000,16,160000,9,Minggu
+2026-09-20,Pasar Raya,Kopi Aren,15,12000,5,60000,10,Minggu
+2026-09-20,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Minggu
+2026-09-20,Pasar Raya,Kopi Butterscotch,10,13000,2,26000,8,Minggu
+2026-09-20,Pasar Raya,Americano,2,10000,0,0,2,Minggu
+2026-09-20,Pasar Raya,A. Americano,2,15000,1,15000,1,Minggu
+2026-09-20,Pasar Raya,Chocolate,2,15000,1,15000,1,Minggu
+2026-09-20,Pasar Raya,Matcha,5,15000,1,15000,4,Minggu
+2026-09-20,Pasar Raya,Lychee tea,2,10000,1,10000,1,Minggu
+2026-09-20,SD Min,Kopi Susu,30,10000,18,180000,12,Minggu
+2026-09-20,SD Min,Kopi Aren,5,12000,4,48000,1,Minggu
+2026-09-20,SD Min,Kopi Caramel,5,13000,1,13000,4,Minggu
+2026-09-20,SD Min,Kopi Butterscotch,7,13000,4,52000,3,Minggu
+2026-09-20,SD Min,Americano,2,10000,2,20000,0,Minggu
+2026-09-20,SD Min,A. Americano,2,15000,1,15000,1,Minggu
+2026-09-20,SD Min,Chocolate,2,15000,0,0,2,Minggu
+2026-09-20,SD Min,Matcha,4,15000,2,30000,2,Minggu
+2026-09-20,SD Min,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-21,Tuk-Tuk,Kopi Susu,20,10000,4,40000,16,Senin
+2026-09-21,Tuk-Tuk,Kopi Aren,5,12000,3,36000,2,Senin
+2026-09-21,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Senin
+2026-09-21,Tuk-Tuk,Kopi Butterscotch,5,13000,2,26000,3,Senin
+2026-09-21,Tuk-Tuk,Americano,2,10000,1,10000,1,Senin
+2026-09-21,Tuk-Tuk,A. Americano,1,15000,1,15000,0,Senin
+2026-09-21,Tuk-Tuk,Chocolate,1,15000,0,0,1,Senin
+2026-09-21,Tuk-Tuk,Matcha,2,15000,1,15000,1,Senin
+2026-09-21,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Senin
+2026-09-21,Imigrasi,Kopi Susu,15,10000,7,70000,8,Senin
+2026-09-21,Imigrasi,Kopi Aren,5,12000,3,36000,2,Senin
+2026-09-21,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Senin
+2026-09-21,Imigrasi,Kopi Butterscotch,8,13000,3,39000,5,Senin
+2026-09-21,Imigrasi,Americano,2,10000,1,10000,1,Senin
+2026-09-21,Imigrasi,A. Americano,2,15000,0,0,2,Senin
+2026-09-21,Imigrasi,Chocolate,2,15000,0,0,2,Senin
+2026-09-21,Imigrasi,Matcha,3,15000,1,15000,2,Senin
+2026-09-21,Imigrasi,Lychee tea,2,10000,0,0,2,Senin
+2026-09-21,Pasar Raya,Kopi Susu,30,10000,20,200000,10,Senin
+2026-09-21,Pasar Raya,Kopi Aren,5,12000,0,0,5,Senin
+2026-09-21,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Senin
+2026-09-21,Pasar Raya,Kopi Butterscotch,5,13000,0,0,5,Senin
+2026-09-21,Pasar Raya,Americano,2,10000,1,10000,1,Senin
+2026-09-21,Pasar Raya,A. Americano,2,15000,1,15000,1,Senin
+2026-09-21,Pasar Raya,Chocolate,2,15000,0,0,2,Senin
+2026-09-21,Pasar Raya,Matcha,5,15000,3,45000,2,Senin
+2026-09-21,Pasar Raya,Lychee tea,2,10000,1,10000,1,Senin
+2026-09-21,SD Min,Kopi Susu,25,10000,10,100000,15,Senin
+2026-09-21,SD Min,Kopi Aren,5,12000,3,36000,2,Senin
+2026-09-21,SD Min,Kopi Caramel,5,13000,1,13000,4,Senin
+2026-09-21,SD Min,Kopi Butterscotch,7,13000,2,26000,5,Senin
+2026-09-21,SD Min,Americano,2,10000,1,10000,1,Senin
+2026-09-21,SD Min,A. Americano,2,15000,1,15000,1,Senin
+2026-09-21,SD Min,Chocolate,2,15000,1,15000,1,Senin
+2026-09-21,SD Min,Matcha,4,15000,1,15000,3,Senin
+2026-09-21,SD Min,Lychee tea,2,10000,0,0,2,Senin
+2026-09-22,Imigrasi,Kopi Susu,15,10000,10,100000,5,Selasa
+2026-09-22,Imigrasi,Kopi Aren,5,12000,2,24000,3,Selasa
+2026-09-22,Imigrasi,Kopi Caramel,5,13000,2,26000,3,Selasa
+2026-09-22,Imigrasi,Kopi Butterscotch,5,13000,3,39000,2,Selasa
+2026-09-22,Imigrasi,Americano,2,10000,2,20000,0,Selasa
+2026-09-22,Imigrasi,A. Americano,2,15000,0,0,2,Selasa
+2026-09-22,Imigrasi,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-22,Imigrasi,Matcha,4,15000,4,60000,0,Selasa
+2026-09-22,Imigrasi,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-22,Pasar,Kopi Susu,40,10000,33,330000,7,Selasa
+2026-09-22,Pasar,Kopi Aren,7,12000,4,48000,3,Selasa
+2026-09-22,Pasar,Kopi Caramel,5,13000,2,26000,3,Selasa
+2026-09-22,Pasar,Kopi Butterscotch,10,13000,3,39000,7,Selasa
+2026-09-22,Pasar,Americano,2,10000,1,10000,1,Selasa
+2026-09-22,Pasar,A. Americano,2,15000,2,30000,0,Selasa
+2026-09-22,Pasar,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-22,Pasar,Matcha,5,15000,1,15000,4,Selasa
+2026-09-22,Pasar,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-22,SD Min,Kopi Susu,35,10000,23,230000,12,Selasa
+2026-09-22,SD Min,Kopi Aren,5,12000,1,12000,4,Selasa
+2026-09-22,SD Min,Kopi Caramel,5,13000,2,26000,3,Selasa
+2026-09-22,SD Min,Kopi Butterscotch,8,13000,5,65000,3,Selasa
+2026-09-22,SD Min,Americano,2,10000,1,10000,1,Selasa
+2026-09-22,SD Min,A. Americano,2,15000,2,30000,0,Selasa
+2026-09-22,SD Min,Chocolate,2,15000,0,0,2,Selasa
+2026-09-22,SD Min,Matcha,4,15000,2,30000,2,Selasa
+2026-09-22,SD Min,Lychee tea,1,10000,0,0,1,Selasa
+2026-09-22,Areca,Kopi Susu,10,10000,3,30000,7,Selasa
+2026-09-22,Areca,Kopi Aren,3,12000,0,0,3,Selasa
+2026-09-22,Areca,Kopi Caramel,5,13000,0,0,5,Selasa
+2026-09-22,Areca,Kopi Butterscotch,7,13000,6,78000,1,Selasa
+2026-09-22,Areca,Americano,2,10000,1,10000,1,Selasa
+2026-09-22,Areca,A. Americano,2,15000,0,0,2,Selasa
+2026-09-22,Areca,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-22,Areca,Matcha,5,15000,2,30000,3,Selasa
+2026-09-22,Areca,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-23,Tuk-Tuk,Kopi Susu,20,10000,5,50000,15,Rabu
+2026-09-23,Tuk-Tuk,Kopi Aren,5,12000,2,24000,3,Rabu
+2026-09-23,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Rabu
+2026-09-23,Tuk-Tuk,Kopi Butterscotch,3,13000,0,0,3,Rabu
+2026-09-23,Tuk-Tuk,Americano,2,10000,1,10000,1,Rabu
+2026-09-23,Tuk-Tuk,A. Americano,1,15000,0,0,1,Rabu
+2026-09-23,Tuk-Tuk,Chocolate,1,15000,0,0,1,Rabu
+2026-09-23,Tuk-Tuk,Matcha,0,15000,0,0,0,Rabu
+2026-09-23,Tuk-Tuk,Lychee tea,1,10000,0,0,1,Rabu
+2026-09-23,Imigrasi,Kopi Susu,15,10000,12,120000,3,Rabu
+2026-09-23,Imigrasi,Kopi Aren,5,12000,0,0,5,Rabu
+2026-09-23,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Rabu
+2026-09-23,Imigrasi,Kopi Butterscotch,5,13000,4,52000,1,Rabu
+2026-09-23,Imigrasi,Americano,2,10000,1,10000,1,Rabu
+2026-09-23,Imigrasi,A. Americano,2,15000,0,0,2,Rabu
+2026-09-23,Imigrasi,Chocolate,2,15000,0,0,2,Rabu
+2026-09-23,Imigrasi,Matcha,3,15000,1,15000,2,Rabu
+2026-09-23,Imigrasi,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-23,Pasar Raya,Kopi Susu,35,10000,18,180000,17,Rabu
+2026-09-23,Pasar Raya,Kopi Aren,7,12000,1,12000,6,Rabu
+2026-09-23,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Rabu
+2026-09-23,Pasar Raya,Kopi Butterscotch,5,13000,3,39000,2,Rabu
+2026-09-23,Pasar Raya,Americano,2,10000,1,10000,1,Rabu
+2026-09-23,Pasar Raya,A. Americano,2,15000,2,30000,0,Rabu
+2026-09-23,Pasar Raya,Chocolate,2,15000,0,0,2,Rabu
+2026-09-23,Pasar Raya,Matcha,4,15000,1,15000,3,Rabu
+2026-09-23,Pasar Raya,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-23,SD Min,Kopi Susu,10,10000,5,50000,5,Rabu
+2026-09-23,SD Min,Kopi Aren,5,12000,1,12000,4,Rabu
+2026-09-23,SD Min,Kopi Caramel,5,13000,0,0,5,Rabu
+2026-09-23,SD Min,Kopi Butterscotch,8,13000,4,52000,4,Rabu
+2026-09-23,SD Min,Americano,2,10000,1,10000,1,Rabu
+2026-09-23,SD Min,A. Americano,2,15000,1,15000,1,Rabu
+2026-09-23,SD Min,Chocolate,2,15000,1,15000,1,Rabu
+2026-09-23,SD Min,Matcha,3,15000,0,0,3,Rabu
+2026-09-23,SD Min,Lychee tea,1,10000,0,0,1,Rabu
+2026-09-24,Tuk-Tuk,Kopi Susu,20,10000,7,70000,13,Kamis
+2026-09-24,Tuk-Tuk,Kopi Aren,3,12000,0,0,3,Kamis
+2026-09-24,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Kamis
+2026-09-24,Tuk-Tuk,Kopi Butterscotch,5,13000,1,13000,4,Kamis
+2026-09-24,Tuk-Tuk,Americano,2,10000,1,10000,1,Kamis
+2026-09-24,Tuk-Tuk,A. Americano,2,15000,2,30000,0,Kamis
+2026-09-24,Tuk-Tuk,Chocolate,1,15000,1,15000,0,Kamis
+2026-09-24,Tuk-Tuk,Matcha,0,15000,0,0,0,Kamis
+2026-09-24,Tuk-Tuk,Lychee tea,2,10000,1,10000,1,Kamis
+2026-09-24,Imigrasi,Kopi Susu,15,10000,11,110000,4,Kamis
+2026-09-24,Imigrasi,Kopi Aren,5,12000,0,0,5,Kamis
+2026-09-24,Imigrasi,Kopi Caramel,5,13000,0,0,5,Kamis
+2026-09-24,Imigrasi,Kopi Butterscotch,8,13000,2,26000,6,Kamis
+2026-09-24,Imigrasi,Americano,2,10000,0,0,2,Kamis
+2026-09-24,Imigrasi,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-24,Imigrasi,Chocolate,2,15000,0,0,2,Kamis
+2026-09-24,Imigrasi,Matcha,4,15000,1,15000,3,Kamis
+2026-09-24,Imigrasi,Lychee tea,2,10000,0,0,2,Kamis
+2026-09-24,Pasar Raya,Kopi Susu,35,10000,22,220000,13,Kamis
+2026-09-24,Pasar Raya,Kopi Aren,10,12000,5,60000,5,Kamis
+2026-09-24,Pasar Raya,Kopi Caramel,5,13000,1,13000,4,Kamis
+2026-09-24,Pasar Raya,Kopi Butterscotch,10,13000,4,52000,6,Kamis
+2026-09-24,Pasar Raya,Americano,2,10000,0,0,2,Kamis
+2026-09-24,Pasar Raya,A. Americano,2,15000,1,15000,1,Kamis
+2026-09-24,Pasar Raya,Chocolate,2,15000,1,15000,1,Kamis
+2026-09-24,Pasar Raya,Matcha,5,15000,1,15000,4,Kamis
+2026-09-24,Pasar Raya,Lychee tea,2,10000,1,10000,1,Kamis
+2026-09-24,SD Min,Kopi Susu,20,10000,9,90000,11,Kamis
+2026-09-24,SD Min,Kopi Aren,5,12000,2,24000,3,Kamis
+2026-09-24,SD Min,Kopi Caramel,5,13000,1,13000,4,Kamis
+2026-09-24,SD Min,Kopi Butterscotch,10,13000,7,91000,3,Kamis
+2026-09-24,SD Min,Americano,2,10000,2,20000,0,Kamis
+2026-09-24,SD Min,A. Americano,2,15000,0,0,2,Kamis
+2026-09-24,SD Min,Chocolate,2,15000,2,30000,0,Kamis
+2026-09-24,SD Min,Matcha,4,15000,0,0,4,Kamis
+2026-09-24,SD Min,Lychee tea,2,10000,2,20000,0,Kamis
+2026-09-25,Tuk-Tuk,Kopi Susu,20,10000,5,50000,15,Jumat
+2026-09-25,Tuk-Tuk,Kopi Aren,5,12000,1,12000,4,Jumat
+2026-09-25,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Jumat
+2026-09-25,Tuk-Tuk,Kopi Butterscotch,5,13000,2,26000,3,Jumat
+2026-09-25,Tuk-Tuk,Americano,2,10000,1,10000,1,Jumat
+2026-09-25,Tuk-Tuk,A. Americano,2,15000,2,30000,0,Jumat
+2026-09-25,Tuk-Tuk,Chocolate,1,15000,0,0,1,Jumat
+2026-09-25,Tuk-Tuk,Matcha,2,15000,2,30000,0,Jumat
+2026-09-25,Tuk-Tuk,Lychee tea,1,10000,0,0,1,Jumat
+2026-09-25,Imigrasi,Kopi Susu,15,10000,13,130000,2,Jumat
+2026-09-25,Imigrasi,Kopi Aren,5,12000,1,12000,4,Jumat
+2026-09-25,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Jumat
+2026-09-25,Imigrasi,Kopi Butterscotch,8,13000,6,78000,2,Jumat
+2026-09-25,Imigrasi,Americano,2,10000,0,0,2,Jumat
+2026-09-25,Imigrasi,A. Americano,2,15000,0,0,2,Jumat
+2026-09-25,Imigrasi,Chocolate,2,15000,1,15000,1,Jumat
+2026-09-25,Imigrasi,Matcha,4,15000,0,0,4,Jumat
+2026-09-25,Imigrasi,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-25,SD Min,Kopi Susu,15,10000,13,130000,2,Jumat
+2026-09-25,SD Min,Kopi Aren,5,12000,3,36000,2,Jumat
+2026-09-25,SD Min,Kopi Caramel,5,13000,2,26000,3,Jumat
+2026-09-25,SD Min,Kopi Butterscotch,7,13000,4,52000,3,Jumat
+2026-09-25,SD Min,Americano,2,10000,0,0,2,Jumat
+2026-09-25,SD Min,A. Americano,2,15000,0,0,2,Jumat
+2026-09-25,SD Min,Chocolate,2,15000,0,0,2,Jumat
+2026-09-25,SD Min,Matcha,4,15000,2,30000,2,Jumat
+2026-09-25,SD Min,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-25,Areca,Kopi Susu,10,10000,5,50000,5,Jumat
+2026-09-25,Areca,Kopi Aren,15,12000,2,24000,13,Jumat
+2026-09-25,Areca,Kopi Caramel,2,13000,0,0,2,Jumat
+2026-09-25,Areca,Kopi Butterscotch,10,13000,9,117000,1,Jumat
+2026-09-25,Areca,Americano,2,10000,2,20000,0,Jumat
+2026-09-25,Areca,A. Americano,2,15000,1,15000,1,Jumat
+2026-09-25,Areca,Chocolate,2,15000,2,30000,0,Jumat
+2026-09-25,Areca,Matcha,5,15000,5,75000,0,Jumat
+2026-09-25,Areca,Lychee tea,2,10000,0,0,2,Jumat
+2026-09-26,Tuk-Tuk,Kopi Susu,25,10000,5,50000,20,Sabtu
+2026-09-26,Tuk-Tuk,Kopi Aren,3,12000,1,12000,2,Sabtu
+2026-09-26,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Sabtu
+2026-09-26,Tuk-Tuk,Kopi Butterscotch,3,13000,2,26000,1,Sabtu
+2026-09-26,Tuk-Tuk,Americano,2,10000,0,0,2,Sabtu
+2026-09-26,Tuk-Tuk,A. Americano,2,15000,2,30000,0,Sabtu
+2026-09-26,Tuk-Tuk,Chocolate,2,15000,1,15000,1,Sabtu
+2026-09-26,Tuk-Tuk,Matcha,2,15000,2,30000,0,Sabtu
+2026-09-26,Tuk-Tuk,Lychee tea,2,10000,1,10000,1,Sabtu
+2026-09-26,Imigrasi,Kopi Susu,15,10000,15,150000,0,Sabtu
+2026-09-26,Imigrasi,Kopi Aren,5,12000,5,60000,0,Sabtu
+2026-09-26,Imigrasi,Kopi Caramel,5,13000,2,26000,3,Sabtu
+2026-09-26,Imigrasi,Kopi Butterscotch,5,13000,5,65000,0,Sabtu
+2026-09-26,Imigrasi,Americano,2,10000,1,10000,1,Sabtu
+2026-09-26,Imigrasi,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-26,Imigrasi,Chocolate,2,15000,2,30000,0,Sabtu
+2026-09-26,Imigrasi,Matcha,3,15000,3,45000,0,Sabtu
+2026-09-26,Imigrasi,Lychee tea,1,10000,1,10000,0,Sabtu
+2026-09-26,Pasar Raya,Kopi Susu,30,10000,24,240000,6,Sabtu
+2026-09-26,Pasar Raya,Kopi Aren,10,12000,4,48000,6,Sabtu
+2026-09-26,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Sabtu
+2026-09-26,Pasar Raya,Kopi Butterscotch,10,13000,1,13000,9,Sabtu
+2026-09-26,Pasar Raya,Americano,2,10000,1,10000,1,Sabtu
+2026-09-26,Pasar Raya,A. Americano,2,15000,2,30000,0,Sabtu
+2026-09-26,Pasar Raya,Chocolate,2,15000,0,0,2,Sabtu
+2026-09-26,Pasar Raya,Matcha,5,15000,1,15000,4,Sabtu
+2026-09-26,Pasar Raya,Lychee tea,5,10000,5,50000,0,Sabtu
+2026-09-26,Pasar,Kopi Susu,35,10000,35,350000,0,Sabtu
+2026-09-26,Pasar,Kopi Aren,10,12000,6,72000,4,Sabtu
+2026-09-26,Pasar,Kopi Caramel,5,13000,5,65000,0,Sabtu
+2026-09-26,Pasar,Kopi Butterscotch,10,13000,6,78000,4,Sabtu
+2026-09-26,Pasar,Americano,2,10000,2,20000,0,Sabtu
+2026-09-26,Pasar,A. Americano,2,15000,2,30000,0,Sabtu
+2026-09-26,Pasar,Chocolate,2,15000,1,15000,1,Sabtu
+2026-09-26,Pasar,Matcha,5,15000,3,45000,2,Sabtu
+2026-09-26,Pasar,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-26,SD Min,Kopi Susu,15,10000,8,80000,7,Sabtu
+2026-09-26,SD Min,Kopi Aren,5,12000,1,12000,4,Sabtu
+2026-09-26,SD Min,Kopi Caramel,5,13000,0,0,5,Sabtu
+2026-09-26,SD Min,Kopi Butterscotch,7,13000,3,39000,4,Sabtu
+2026-09-26,SD Min,Americano,2,10000,1,10000,1,Sabtu
+2026-09-26,SD Min,A. Americano,2,15000,0,0,2,Sabtu
+2026-09-26,SD Min,Chocolate,2,15000,1,15000,1,Sabtu
+2026-09-26,SD Min,Matcha,3,15000,2,30000,1,Sabtu
+2026-09-26,SD Min,Lychee tea,1,10000,0,0,1,Sabtu
+2026-09-26,Areca,Kopi Susu,15,10000,5,50000,10,Sabtu
+2026-09-26,Areca,Kopi Aren,10,12000,0,0,10,Sabtu
+2026-09-26,Areca,Kopi Caramel,5,13000,0,0,5,Sabtu
+2026-09-26,Areca,Kopi Butterscotch,10,13000,4,52000,6,Sabtu
+2026-09-26,Areca,Americano,2,10000,1,10000,1,Sabtu
+2026-09-26,Areca,A. Americano,2,15000,1,15000,1,Sabtu
+2026-09-26,Areca,Chocolate,2,15000,2,30000,0,Sabtu
+2026-09-26,Areca,Matcha,4,15000,2,30000,2,Sabtu
+2026-09-26,Areca,Lychee tea,2,10000,0,0,2,Sabtu
+2026-09-27,Tuk-Tuk,Kopi Susu,20,10000,2,20000,18,Minggu
+2026-09-27,Tuk-Tuk,Kopi Aren,3,12000,2,24000,1,Minggu
+2026-09-27,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Minggu
+2026-09-27,Tuk-Tuk,Kopi Butterscotch,3,13000,0,0,3,Minggu
+2026-09-27,Tuk-Tuk,Americano,2,10000,0,0,2,Minggu
+2026-09-27,Tuk-Tuk,A. Americano,1,15000,0,0,1,Minggu
+2026-09-27,Tuk-Tuk,Chocolate,2,15000,0,0,2,Minggu
+2026-09-27,Tuk-Tuk,Matcha,0,15000,0,0,0,Minggu
+2026-09-27,Tuk-Tuk,Lychee tea,1,10000,0,0,1,Minggu
+2026-09-27,Imigrasi,Kopi Susu,15,10000,10,100000,5,Minggu
+2026-09-27,Imigrasi,Kopi Aren,5,12000,2,24000,3,Minggu
+2026-09-27,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Minggu
+2026-09-27,Imigrasi,Kopi Butterscotch,5,13000,0,0,5,Minggu
+2026-09-27,Imigrasi,Americano,2,10000,0,0,2,Minggu
+2026-09-27,Imigrasi,A. Americano,2,15000,0,0,2,Minggu
+2026-09-27,Imigrasi,Chocolate,2,15000,0,0,2,Minggu
+2026-09-27,Imigrasi,Matcha,3,15000,1,15000,2,Minggu
+2026-09-27,Imigrasi,Lychee tea,2,10000,0,0,2,Minggu
+2026-09-27,Pasar Raya,Kopi Susu,30,10000,8,80000,22,Minggu
+2026-09-27,Pasar Raya,Kopi Aren,10,12000,0,0,10,Minggu
+2026-09-27,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Minggu
+2026-09-27,Pasar Raya,Kopi Butterscotch,10,13000,0,0,10,Minggu
+2026-09-27,Pasar Raya,Americano,2,10000,0,0,2,Minggu
+2026-09-27,Pasar Raya,A. Americano,2,15000,0,0,2,Minggu
+2026-09-27,Pasar Raya,Chocolate,2,15000,0,0,2,Minggu
+2026-09-27,Pasar Raya,Matcha,4,15000,0,0,4,Minggu
+2026-09-27,Pasar Raya,Lychee tea,0,10000,0,0,0,Minggu
+2026-09-27,SD Min,Kopi Susu,15,10000,5,50000,10,Minggu
+2026-09-27,SD Min,Kopi Aren,5,12000,0,0,5,Minggu
+2026-09-27,SD Min,Kopi Caramel,5,13000,0,0,5,Minggu
+2026-09-27,SD Min,Kopi Butterscotch,7,13000,1,13000,6,Minggu
+2026-09-27,SD Min,Americano,2,10000,1,10000,1,Minggu
+2026-09-27,SD Min,A. Americano,2,15000,0,0,2,Minggu
+2026-09-27,SD Min,Chocolate,2,15000,0,0,2,Minggu
+2026-09-27,SD Min,Matcha,3,15000,1,15000,2,Minggu
+2026-09-27,SD Min,Lychee tea,0,10000,0,0,0,Minggu
+2026-09-28,Tuk-Tuk,Kopi Susu,20,10000,2,20000,18,Senin
+2026-09-28,Tuk-Tuk,Kopi Aren,5,12000,1,12000,4,Senin
+2026-09-28,Tuk-Tuk,Kopi Caramel,2,13000,0,0,2,Senin
+2026-09-28,Tuk-Tuk,Kopi Butterscotch,5,13000,1,13000,4,Senin
+2026-09-28,Tuk-Tuk,Americano,2,10000,1,10000,1,Senin
+2026-09-28,Tuk-Tuk,A. Americano,2,15000,0,0,2,Senin
+2026-09-28,Tuk-Tuk,Chocolate,1,15000,0,0,1,Senin
+2026-09-28,Tuk-Tuk,Matcha,2,15000,0,0,2,Senin
+2026-09-28,Tuk-Tuk,Lychee tea,1,10000,0,0,1,Senin
+2026-09-28,Imigrasi,Kopi Susu,15,10000,9,90000,6,Senin
+2026-09-28,Imigrasi,Kopi Aren,5,12000,1,12000,4,Senin
+2026-09-28,Imigrasi,Kopi Caramel,5,13000,0,0,5,Senin
+2026-09-28,Imigrasi,Kopi Butterscotch,8,13000,2,26000,6,Senin
+2026-09-28,Imigrasi,Americano,2,10000,0,0,2,Senin
+2026-09-28,Imigrasi,A. Americano,2,15000,0,0,2,Senin
+2026-09-28,Imigrasi,Chocolate,2,15000,0,0,2,Senin
+2026-09-28,Imigrasi,Matcha,4,15000,0,0,4,Senin
+2026-09-28,Imigrasi,Lychee tea,2,10000,0,0,2,Senin
+2026-09-28,Pasar Raya,Kopi Susu,25,10000,20,200000,5,Senin
+2026-09-28,Pasar Raya,Kopi Aren,5,12000,2,24000,3,Senin
+2026-09-28,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Senin
+2026-09-28,Pasar Raya,Kopi Butterscotch,7,13000,3,39000,4,Senin
+2026-09-28,Pasar Raya,Americano,2,10000,2,20000,0,Senin
+2026-09-28,Pasar Raya,A. Americano,2,15000,0,0,2,Senin
+2026-09-28,Pasar Raya,Chocolate,2,15000,1,15000,1,Senin
+2026-09-28,Pasar Raya,Matcha,5,15000,0,0,5,Senin
+2026-09-28,Pasar Raya,Lychee tea,2,10000,0,0,2,Senin
+2026-09-28,SD Min,Kopi Susu,20,10000,6,60000,14,Senin
+2026-09-28,SD Min,Kopi Aren,5,12000,0,0,5,Senin
+2026-09-28,SD Min,Kopi Caramel,5,13000,0,0,5,Senin
+2026-09-28,SD Min,Kopi Butterscotch,8,13000,2,26000,6,Senin
+2026-09-28,SD Min,Americano,2,10000,1,10000,1,Senin
+2026-09-28,SD Min,A. Americano,2,15000,0,0,2,Senin
+2026-09-28,SD Min,Chocolate,2,15000,0,0,2,Senin
+2026-09-28,SD Min,Matcha,4,15000,1,15000,3,Senin
+2026-09-28,SD Min,Lychee tea,2,10000,0,0,2,Senin
+2026-09-29,Imigrasi,Kopi Susu,15,10000,15,150000,0,Selasa
+2026-09-29,Imigrasi,Kopi Aren,5,12000,0,0,5,Selasa
+2026-09-29,Imigrasi,Kopi Caramel,5,13000,0,0,5,Selasa
+2026-09-29,Imigrasi,Kopi Butterscotch,8,13000,1,13000,7,Selasa
+2026-09-29,Imigrasi,Americano,2,10000,2,20000,0,Selasa
+2026-09-29,Imigrasi,A. Americano,2,15000,0,0,2,Selasa
+2026-09-29,Imigrasi,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-29,Imigrasi,Matcha,4,15000,0,0,4,Selasa
+2026-09-29,Imigrasi,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-29,Pasar,Kopi Susu,30,10000,27,270000,3,Selasa
+2026-09-29,Pasar,Kopi Aren,7,12000,1,12000,6,Selasa
+2026-09-29,Pasar,Kopi Caramel,5,13000,1,13000,4,Selasa
+2026-09-29,Pasar,Kopi Butterscotch,10,13000,4,52000,6,Selasa
+2026-09-29,Pasar,Americano,2,10000,1,10000,1,Selasa
+2026-09-29,Pasar,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-29,Pasar,Chocolate,2,15000,0,0,2,Selasa
+2026-09-29,Pasar,Matcha,5,15000,2,30000,3,Selasa
+2026-09-29,Pasar,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-29,SD Min,Kopi Susu,20,10000,3,30000,17,Selasa
+2026-09-29,SD Min,Kopi Aren,5,12000,2,24000,3,Selasa
+2026-09-29,SD Min,Kopi Caramel,5,13000,0,0,5,Selasa
+2026-09-29,SD Min,Kopi Butterscotch,8,13000,2,26000,6,Selasa
+2026-09-29,SD Min,Americano,2,10000,1,10000,1,Selasa
+2026-09-29,SD Min,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-29,SD Min,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-29,SD Min,Matcha,4,15000,0,0,4,Selasa
+2026-09-29,SD Min,Lychee tea,2,10000,0,0,2,Selasa
+2026-09-29,Areca,Kopi Susu,22,10000,4,40000,18,Selasa
+2026-09-29,Areca,Kopi Aren,5,12000,0,0,5,Selasa
+2026-09-29,Areca,Kopi Caramel,5,13000,0,0,5,Selasa
+2026-09-29,Areca,Kopi Butterscotch,7,13000,5,65000,2,Selasa
+2026-09-29,Areca,Americano,2,10000,1,10000,1,Selasa
+2026-09-29,Areca,A. Americano,2,15000,1,15000,1,Selasa
+2026-09-29,Areca,Chocolate,2,15000,1,15000,1,Selasa
+2026-09-29,Areca,Matcha,5,15000,1,15000,4,Selasa
+2026-09-29,Areca,Lychee tea,0,10000,0,0,0,Selasa
+2026-09-30,Tuk-Tuk,Kopi Susu,20,10000,7,70000,13,Rabu
+2026-09-30,Tuk-Tuk,Kopi Aren,5,12000,0,0,5,Rabu
+2026-09-30,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Rabu
+2026-09-30,Tuk-Tuk,Kopi Butterscotch,5,13000,0,0,5,Rabu
+2026-09-30,Tuk-Tuk,Americano,2,10000,2,20000,0,Rabu
+2026-09-30,Tuk-Tuk,A. Americano,2,15000,2,30000,0,Rabu
+2026-09-30,Tuk-Tuk,Chocolate,1,15000,1,15000,0,Rabu
+2026-09-30,Tuk-Tuk,Matcha,2,15000,0,0,2,Rabu
+2026-09-30,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-30,Imigrasi,Kopi Susu,15,10000,12,120000,3,Rabu
+2026-09-30,Imigrasi,Kopi Aren,5,12000,0,0,5,Rabu
+2026-09-30,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Rabu
+2026-09-30,Imigrasi,Kopi Butterscotch,8,13000,2,26000,6,Rabu
+2026-09-30,Imigrasi,Americano,2,10000,0,0,2,Rabu
+2026-09-30,Imigrasi,A. Americano,2,15000,0,0,2,Rabu
+2026-09-30,Imigrasi,Chocolate,2,15000,0,0,2,Rabu
+2026-09-30,Imigrasi,Matcha,4,15000,0,0,4,Rabu
+2026-09-30,Imigrasi,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-30,Pasar Raya,Kopi Susu,30,10000,16,160000,14,Rabu
+2026-09-30,Pasar Raya,Kopi Aren,7,12000,5,60000,2,Rabu
+2026-09-30,Pasar Raya,Kopi Caramel,5,13000,0,0,5,Rabu
+2026-09-30,Pasar Raya,Kopi Butterscotch,10,13000,10,130000,0,Rabu
+2026-09-30,Pasar Raya,Americano,2,10000,0,0,2,Rabu
+2026-09-30,Pasar Raya,A. Americano,2,15000,0,0,2,Rabu
+2026-09-30,Pasar Raya,Chocolate,2,15000,0,0,2,Rabu
+2026-09-30,Pasar Raya,Matcha,5,15000,0,0,5,Rabu
+2026-09-30,Pasar Raya,Lychee tea,2,10000,0,0,2,Rabu
+2026-09-30,SD Min,Kopi Susu,15,10000,15,150000,0,Rabu
+2026-09-30,SD Min,Kopi Aren,5,12000,4,48000,1,Rabu
+2026-09-30,SD Min,Kopi Caramel,5,13000,2,26000,3,Rabu
+2026-09-30,SD Min,Kopi Butterscotch,8,13000,4,52000,4,Rabu
+2026-09-30,SD Min,Americano,2,10000,1,10000,1,Rabu
+2026-09-30,SD Min,A. Americano,2,15000,2,30000,0,Rabu
+2026-09-30,SD Min,Chocolate,2,15000,0,0,2,Rabu
+2026-09-30,SD Min,Matcha,4,15000,0,0,4,Rabu
+2026-09-30,SD Min,Lychee tea,2,10000,1,10000,1,Rabu
+2026-10-01,Tuk-Tuk,Kopi Susu,20,10000,7,70000,13,Kamis
+2026-10-01,Tuk-Tuk,Kopi Aren,5,12000,0,0,5,Kamis
+2026-10-01,Tuk-Tuk,Kopi Caramel,2,13000,1,13000,1,Kamis
+2026-10-01,Tuk-Tuk,Kopi Butterscotch,5,13000,0,0,5,Kamis
+2026-10-01,Tuk-Tuk,Americano,2,10000,2,20000,0,Kamis
+2026-10-01,Tuk-Tuk,A. Americano,2,15000,2,30000,0,Kamis
+2026-10-01,Tuk-Tuk,Chocolate,1,15000,1,15000,0,Kamis
+2026-10-01,Tuk-Tuk,Matcha,2,15000,0,0,2,Kamis
+2026-10-01,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Kamis
+2026-10-01,Imigrasi,Kopi Susu,15,10000,12,120000,3,Kamis
+2026-10-01,Imigrasi,Kopi Aren,5,12000,0,0,5,Kamis
+2026-10-01,Imigrasi,Kopi Caramel,5,13000,0,0,5,Kamis
+2026-10-01,Imigrasi,Kopi Butterscotch,8,13000,3,39000,5,Kamis
+2026-10-01,Imigrasi,Americano,2,10000,2,20000,0,Kamis
+2026-10-01,Imigrasi,A. Americano,2,15000,0,0,2,Kamis
+2026-10-01,Imigrasi,Chocolate,2,15000,0,0,2,Kamis
+2026-10-01,Imigrasi,Matcha,4,15000,0,0,4,Kamis
+2026-10-01,Imigrasi,Lychee tea,2,10000,0,0,2,Kamis
+2026-10-01,Pasar Raya,Kopi Susu,30,10000,17,170000,13,Kamis
+2026-10-01,Pasar Raya,Kopi Aren,7,12000,1,12000,6,Kamis
+2026-10-01,Pasar Raya,Kopi Caramel,5,13000,2,26000,3,Kamis
+2026-10-01,Pasar Raya,Kopi Butterscotch,10,13000,5,65000,5,Kamis
+2026-10-01,Pasar Raya,Americano,2,10000,2,20000,0,Kamis
+2026-10-01,Pasar Raya,A. Americano,2,15000,2,30000,0,Kamis
+2026-10-01,Pasar Raya,Chocolate,2,15000,2,30000,0,Kamis
+2026-10-01,Pasar Raya,Matcha,5,15000,1,15000,4,Kamis
+2026-10-01,Pasar Raya,Lychee tea,2,10000,1,10000,1,Kamis
+2026-10-01,SD Min,Kopi Susu,15,10000,15,150000,0,Kamis
+2026-10-01,SD Min,Kopi Aren,5,12000,5,60000,0,Kamis
+2026-10-01,SD Min,Kopi Caramel,5,13000,5,65000,0,Kamis
+2026-10-01,SD Min,Kopi Butterscotch,8,13000,8,104000,0,Kamis
+2026-10-01,SD Min,Americano,2,10000,0,0,2,Kamis
+2026-10-01,SD Min,A. Americano,2,15000,1,15000,1,Kamis
+2026-10-01,SD Min,Chocolate,2,15000,1,15000,1,Kamis
+2026-10-01,SD Min,Matcha,4,15000,1,15000,3,Kamis
+2026-10-01,SD Min,Lychee tea,2,10000,0,0,2,Kamis
+2026-10-02,Tuk-Tuk,Kopi Susu,20,10000,12,120000,8,Jumat
+2026-10-02,Tuk-Tuk,Kopi Aren,5,12000,5,60000,0,Jumat
+2026-10-02,Tuk-Tuk,Kopi Caramel,2,13000,2,26000,0,Jumat
+2026-10-02,Tuk-Tuk,Kopi Butterscotch,5,13000,5,65000,0,Jumat
+2026-10-02,Tuk-Tuk,Americano,2,10000,1,10000,1,Jumat
+2026-10-02,Tuk-Tuk,A. Americano,2,15000,1,15000,1,Jumat
+2026-10-02,Tuk-Tuk,Chocolate,1,15000,0,0,1,Jumat
+2026-10-02,Tuk-Tuk,Matcha,2,15000,1,15000,1,Jumat
+2026-10-02,Tuk-Tuk,Lychee tea,2,10000,0,0,2,Jumat
+2026-10-02,Imigrasi,Kopi Susu,15,10000,11,110000,4,Jumat
+2026-10-02,Imigrasi,Kopi Aren,5,12000,1,12000,4,Jumat
+2026-10-02,Imigrasi,Kopi Caramel,5,13000,1,13000,4,Jumat
+2026-10-02,Imigrasi,Kopi Butterscotch,8,13000,4,52000,4,Jumat
+2026-10-02,Imigrasi,Americano,2,10000,1,10000,1,Jumat
+2026-10-02,Imigrasi,A. Americano,2,15000,2,30000,0,Jumat
+2026-10-02,Imigrasi,Chocolate,2,15000,0,0,2,Jumat
+2026-10-02,Imigrasi,Matcha,4,15000,2,30000,2,Jumat
+2026-10-02,Imigrasi,Lychee tea,2,10000,0,0,2,Jumat
+2026-10-02,Pasar Raya,Kopi Susu,30,10000,19,190000,11,Jumat
+2026-10-02,Pasar Raya,Kopi Aren,7,12000,2,24000,5,Jumat
+2026-10-02,Pasar Raya,Kopi Caramel,5,13000,2,26000,3,Jumat
+2026-10-02,Pasar Raya,Kopi Butterscotch,10,13000,6,78000,4,Jumat
+2026-10-02,Pasar Raya,Americano,2,10000,2,20000,0,Jumat
+2026-10-02,Pasar Raya,A. Americano,2,15000,2,30000,0,Jumat
+2026-10-02,Pasar Raya,Chocolate,2,15000,0,0,2,Jumat
+2026-10-02,Pasar Raya,Matcha,5,15000,1,15000,4,Jumat
+2026-10-02,Pasar Raya,Lychee tea,2,10000,0,0,2,Jumat
+2026-10-02,SD Min,Kopi Susu,30,10000,30,300000,0,Jumat
+2026-10-02,SD Min,Kopi Aren,7,12000,7,84000,0,Jumat
+2026-10-02,SD Min,Kopi Caramel,5,13000,5,65000,0,Jumat
+2026-10-02,SD Min,Kopi Butterscotch,10,13000,10,130000,0,Jumat
+2026-10-02,SD Min,Americano,2,10000,1,10000,1,Jumat
+2026-10-02,SD Min,A. Americano,2,15000,2,30000,0,Jumat
+2026-10-02,SD Min,Chocolate,2,15000,1,15000,1,Jumat
+2026-10-02,SD Min,Matcha,5,15000,1,15000,4,Jumat
+2026-10-02,SD Min,Lychee tea,2,10000,0,0,2,Jumat
+2026-10-02,Areca,Kopi Susu,20,10000,10,100000,10,Jumat
+2026-10-02,Areca,Kopi Aren,3,12000,3,36000,0,Jumat
+2026-10-02,Areca,Kopi Caramel,2,13000,2,26000,0,Jumat
+2026-10-02,Areca,Kopi Butterscotch,10,13000,8,104000,2,Jumat
+2026-10-02,Areca,Americano,2,10000,0,0,2,Jumat
+2026-10-02,Areca,A. Americano,2,15000,0,0,2,Jumat
+2026-10-02,Areca,Chocolate,2,15000,1,15000,1,Jumat
+2026-10-02,Areca,Matcha,4,15000,4,60000,0,Jumat
+2026-10-02,Areca,Lychee tea,2,10000,0,0,2,Jumat

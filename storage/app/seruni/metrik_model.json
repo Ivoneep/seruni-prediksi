@@ -1,0 +1,220 @@
+{
+ "periode": [
+  "2026-09-01",
+  "2026-10-02"
+ ],
+ "split": {
+  "Training": [
+   "2026-09-02",
+   "2026-09-22",
+   792
+  ],
+  "Validation": [
+   "2026-09-23",
+   "2026-09-27",
+   198
+  ],
+  "Testing": [
+   "2026-09-28",
+   "2026-10-02",
+   189
+  ]
+ },
+ "proyeksi": [
+  "2026-10-03",
+  "2026-10-09"
+ ],
+ "model": "RandomForestRegressor(n_estimators=200, max_depth=15, min_samples_leaf=3, random_state=42)",
+ "fitur": [
+  "Hari dalam minggu",
+  "Harga satuan",
+  "Penjualan tercatat sebelumnya",
+  "Lokasi",
+  "Menu"
+ ],
+ "evaluasi_akhir": [
+  {
+   "Dataset": "Training",
+   "n": 792,
+   "MAE": 0.8305317876774003,
+   "RMSE": 1.442293123745749,
+   "R2": 0.9012446209802237,
+   "WAPE": 31.27822994961964,
+   "MAPE": 32.047138826152654
+  },
+  {
+   "Dataset": "Validation",
+   "n": 198,
+   "MAE": 1.2465520134809949,
+   "RMSE": 2.103765641023617,
+   "R2": 0.7575863531043622,
+   "WAPE": 53.772831954082136,
+   "MAPE": 48.99220389917344
+  },
+  {
+   "Dataset": "Testing",
+   "n": 189,
+   "MAE": 1.2222445120817467,
+   "RMSE": 2.086416487261636,
+   "R2": 0.800392940146943,
+   "WAPE": 47.24012531358898,
+   "MAPE": 46.7963226645118
+  }
+ ],
+ "pembanding": [
+  {
+   "Dataset": "Validation",
+   "Model": "Random Forest",
+   "MAE": 1.2465520134809949,
+   "RMSE": 2.103765641023617,
+   "Arah_Sesuai": 57.57575757575758,
+   "Arah_NaikTurun": 59.183673469387756
+  },
+  {
+   "Dataset": "Validation",
+   "Model": "Lag (penjualan sebelumnya)",
+   "MAE": 1.4494949494949494,
+   "RMSE": 2.4463949977157173,
+   "Arah_Sesuai": 25.757575757575758,
+   "Arah_NaikTurun": 0.0
+  },
+  {
+   "Dataset": "Validation",
+   "Model": "Rata-rata per kombinasi",
+   "MAE": 1.1516905162738496,
+   "RMSE": 1.8475277735281364,
+   "Arah_Sesuai": 59.09090909090909,
+   "Arah_NaikTurun": 59.863945578231295
+  },
+  {
+   "Dataset": "Validation",
+   "Model": "Rata-rata per kombinasi x hari",
+   "MAE": 1.255050505050505,
+   "RMSE": 2.0514906572897793,
+   "Arah_Sesuai": 59.09090909090909,
+   "Arah_NaikTurun": 60.544217687074834
+  },
+  {
+   "Dataset": "Testing",
+   "Model": "Random Forest",
+   "MAE": 1.2222445120817467,
+   "RMSE": 2.086416487261636,
+   "Arah_Sesuai": 54.4973544973545,
+   "Arah_NaikTurun": 60.526315789473685
+  },
+  {
+   "Dataset": "Testing",
+   "Model": "Lag (penjualan sebelumnya)",
+   "MAE": 1.3174603174603174,
+   "RMSE": 2.461341312821336,
+   "Arah_Sesuai": 39.682539682539684,
+   "Arah_NaikTurun": 0.0
+  },
+  {
+   "Dataset": "Testing",
+   "Model": "Rata-rata per kombinasi",
+   "MAE": 1.2422713529856386,
+   "RMSE": 2.1560777136577944,
+   "Arah_Sesuai": 53.96825396825397,
+   "Arah_NaikTurun": 63.1578947368421
+  },
+  {
+   "Dataset": "Testing",
+   "Model": "Rata-rata per kombinasi x hari",
+   "MAE": 1.1869488536155204,
+   "RMSE": 1.9839894132201277,
+   "Arah_Sesuai": 56.613756613756614,
+   "Arah_NaikTurun": 62.28070175438597
+  }
+ ],
+ "optimasi": [
+  {
+   "Konfigurasi": 1,
+   "n_estimators": 100,
+   "max_depth": null,
+   "min_samples_leaf": 1,
+   "MAE": 1.3264695366362034,
+   "RMSE": 2.2811966705013473,
+   "R2": 0.7149718148744479
+  },
+  {
+   "Konfigurasi": 2,
+   "n_estimators": 100,
+   "max_depth": 10,
+   "min_samples_leaf": 2,
+   "MAE": 1.2503319302349118,
+   "RMSE": 2.1189022840887572,
+   "R2": 0.7540854600116422
+  },
+  {
+   "Konfigurasi": 3,
+   "n_estimators": 200,
+   "max_depth": 10,
+   "min_samples_leaf": 2,
+   "MAE": 1.2505096328983947,
+   "RMSE": 2.106924995274331,
+   "R2": 0.7568577114265194
+  },
+  {
+   "Konfigurasi": 4,
+   "n_estimators": 200,
+   "max_depth": 15,
+   "min_samples_leaf": 3,
+   "MAE": 1.2465520134809946,
+   "RMSE": 2.103765641023617,
+   "R2": 0.7575863531043622
+  }
+ ],
+ "importance": [
+  {
+   "Dataset": "Validation",
+   "Fitur": "Nomor_Hari",
+   "Naik_MAE": 0.05098396334925332
+  },
+  {
+   "Dataset": "Validation",
+   "Fitur": "Harga Satuan",
+   "Naik_MAE": -0.0047271043929163255
+  },
+  {
+   "Dataset": "Validation",
+   "Fitur": "Terjual_Hari_Sebelumnya",
+   "Naik_MAE": 0.7872378452713619
+  },
+  {
+   "Dataset": "Validation",
+   "Fitur": "Lokasi",
+   "Naik_MAE": 0.2402085670432984
+  },
+  {
+   "Dataset": "Validation",
+   "Fitur": "Menu Minuman",
+   "Naik_MAE": 0.8003366926309948
+  },
+  {
+   "Dataset": "Testing",
+   "Fitur": "Nomor_Hari",
+   "Naik_MAE": 0.10453220835128609
+  },
+  {
+   "Dataset": "Testing",
+   "Fitur": "Harga Satuan",
+   "Naik_MAE": 0.01685366304451664
+  },
+  {
+   "Dataset": "Testing",
+   "Fitur": "Terjual_Hari_Sebelumnya",
+   "Naik_MAE": 0.8512156785599583
+  },
+  {
+   "Dataset": "Testing",
+   "Fitur": "Lokasi",
+   "Naik_MAE": 0.1749779935578423
+  },
+  {
+   "Dataset": "Testing",
+   "Fitur": "Menu Minuman",
+   "Naik_MAE": 1.009149070027291
+  }
+ ]
+}

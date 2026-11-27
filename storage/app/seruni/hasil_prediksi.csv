@@ -1,0 +1,1558 @@
+Tanggal,Lokasi,Menu,Stok,Sisa,Harga,Aktual,Baseline,Prediksi,Dataset
+2026-09-04,Areca,A. Americano,2.0,1,15000,1,1.0,0.91,Training
+2026-09-05,Areca,A. Americano,2.0,1,15000,1,1.0,0.902,Training
+2026-09-08,Areca,A. Americano,2.0,1,15000,1,1.0,0.673,Training
+2026-09-11,Areca,A. Americano,2.0,1,15000,1,1.0,0.91,Training
+2026-09-12,Areca,A. Americano,2.0,2,15000,0,1.0,0.902,Training
+2026-09-15,Areca,A. Americano,2.0,2,15000,0,0.0,0.609,Training
+2026-09-18,Areca,A. Americano,2.0,1,15000,1,0.0,0.87,Training
+2026-09-19,Areca,A. Americano,2.0,1,15000,1,1.0,0.902,Training
+2026-09-22,Areca,A. Americano,2.0,2,15000,0,1.0,0.673,Training
+2026-09-25,Areca,A. Americano,2.0,1,15000,1,0.0,0.87,Validation
+2026-09-26,Areca,A. Americano,2.0,1,15000,1,1.0,0.902,Validation
+2026-09-29,Areca,A. Americano,2.0,1,15000,1,1.0,0.673,Testing
+2026-10-02,Areca,A. Americano,2.0,2,15000,0,1.0,0.91,Testing
+2026-09-04,Areca,Americano,2.0,1,10000,1,0.0,1.093,Training
+2026-09-05,Areca,Americano,2.0,2,10000,0,1.0,1.209,Training
+2026-09-08,Areca,Americano,2.0,1,10000,1,0.0,0.763,Training
+2026-09-11,Areca,Americano,2.0,1,10000,1,1.0,0.997,Training
+2026-09-12,Areca,Americano,2.0,0,10000,2,1.0,1.209,Training
+2026-09-15,Areca,Americano,2.0,0,10000,2,2.0,1.015,Training
+2026-09-18,Areca,Americano,2.0,2,10000,0,2.0,1.019,Training
+2026-09-19,Areca,Americano,2.0,1,10000,1,0.0,1.079,Training
+2026-09-22,Areca,Americano,2.0,1,10000,1,1.0,0.953,Training
+2026-09-25,Areca,Americano,2.0,0,10000,2,1.0,0.997,Validation
+2026-09-26,Areca,Americano,2.0,1,10000,1,2.0,1.257,Validation
+2026-09-29,Areca,Americano,2.0,1,10000,1,1.0,0.953,Testing
+2026-10-02,Areca,Americano,2.0,2,10000,0,1.0,0.997,Testing
+2026-09-04,Areca,Chocolate,2.0,0,15000,2,1.0,1.63,Training
+2026-09-05,Areca,Chocolate,2.0,0,15000,2,2.0,1.883,Training
+2026-09-08,Areca,Chocolate,2.0,2,15000,0,2.0,1.32,Training
+2026-09-11,Areca,Chocolate,2.0,0,15000,2,0.0,1.339,Training
+2026-09-12,Areca,Chocolate,2.0,0,15000,2,2.0,1.883,Training
+2026-09-15,Areca,Chocolate,2.0,0,15000,2,2.0,1.32,Training
+2026-09-18,Areca,Chocolate,2.0,0,15000,2,2.0,1.804,Training
+2026-09-19,Areca,Chocolate,2.0,0,15000,2,2.0,1.883,Training
+2026-09-22,Areca,Chocolate,2.0,1,15000,1,2.0,1.32,Training
+2026-09-25,Areca,Chocolate,2.0,0,15000,2,1.0,1.63,Validation
+2026-09-26,Areca,Chocolate,2.0,0,15000,2,2.0,1.883,Validation
+2026-09-29,Areca,Chocolate,2.0,1,15000,1,2.0,1.32,Testing
+2026-10-02,Areca,Chocolate,2.0,1,15000,1,1.0,1.63,Testing
+2026-09-04,Areca,Kopi Aren,3.0,2,12000,1,3.0,2.152,Training
+2026-09-05,Areca,Kopi Aren,5.0,4,12000,1,1.0,1.261,Training
+2026-09-08,Areca,Kopi Aren,5.0,4,12000,1,1.0,0.881,Training
+2026-09-11,Areca,Kopi Aren,5.0,3,12000,2,1.0,1.443,Training
+2026-09-12,Areca,Kopi Aren,3.0,3,12000,0,2.0,1.781,Training
+2026-09-15,Areca,Kopi Aren,5.0,5,12000,0,0.0,0.762,Training
+2026-09-18,Areca,Kopi Aren,3.0,2,12000,1,0.0,1.23,Training
+2026-09-19,Areca,Kopi Aren,3.0,1,12000,2,1.0,1.261,Training
+2026-09-22,Areca,Kopi Aren,3.0,3,12000,0,2.0,1.372,Training
+2026-09-25,Areca,Kopi Aren,15.0,13,12000,2,0.0,1.23,Validation
+2026-09-26,Areca,Kopi Aren,10.0,10,12000,0,2.0,1.781,Validation
+2026-09-29,Areca,Kopi Aren,5.0,5,12000,0,0.0,0.762,Testing
+2026-10-02,Areca,Kopi Aren,3.0,0,12000,3,0.0,1.23,Testing
+2026-09-04,Areca,Kopi Butterscotch,10.0,4,13000,6,6.0,6.253,Training
+2026-09-05,Areca,Kopi Butterscotch,15.0,5,13000,10,6.0,7.502,Training
+2026-09-08,Areca,Kopi Butterscotch,10.0,3,13000,7,10.0,6.396,Training
+2026-09-11,Areca,Kopi Butterscotch,10.0,2,13000,8,7.0,6.635,Training
+2026-09-12,Areca,Kopi Butterscotch,7.0,0,13000,7,8.0,7.272,Training
+2026-09-15,Areca,Kopi Butterscotch,10.0,4,13000,6,7.0,6.071,Training
+2026-09-18,Areca,Kopi Butterscotch,7.0,2,13000,5,6.0,6.253,Training
+2026-09-19,Areca,Kopi Butterscotch,15.0,5,13000,10,5.0,6.194,Training
+2026-09-22,Areca,Kopi Butterscotch,7.0,1,13000,6,10.0,6.396,Training
+2026-09-25,Areca,Kopi Butterscotch,10.0,1,13000,9,6.0,6.253,Validation
+2026-09-26,Areca,Kopi Butterscotch,10.0,6,13000,4,9.0,7.294,Validation
+2026-09-29,Areca,Kopi Butterscotch,7.0,2,13000,5,4.0,3.063,Testing
+2026-10-02,Areca,Kopi Butterscotch,10.0,2,13000,8,5.0,5.651,Testing
+2026-09-04,Areca,Kopi Caramel,5.0,4,13000,1,0.0,0.999,Training
+2026-09-05,Areca,Kopi Caramel,5.0,3,13000,2,1.0,1.544,Training
+2026-09-08,Areca,Kopi Caramel,5.0,5,13000,0,2.0,0.662,Training
+2026-09-11,Areca,Kopi Caramel,2.0,2,13000,0,0.0,0.999,Training
+2026-09-12,Areca,Kopi Caramel,5.0,4,13000,1,0.0,1.015,Training
+2026-09-15,Areca,Kopi Caramel,2.0,2,13000,0,1.0,0.756,Training
+2026-09-18,Areca,Kopi Caramel,5.0,4,13000,1,0.0,0.999,Training
+2026-09-19,Areca,Kopi Caramel,5.0,3,13000,2,1.0,1.544,Training
+2026-09-22,Areca,Kopi Caramel,5.0,5,13000,0,2.0,0.662,Training
+2026-09-25,Areca,Kopi Caramel,2.0,2,13000,0,0.0,0.999,Validation
+2026-09-26,Areca,Kopi Caramel,5.0,5,13000,0,0.0,1.015,Validation
+2026-09-29,Areca,Kopi Caramel,5.0,5,13000,0,0.0,0.917,Testing
+2026-10-02,Areca,Kopi Caramel,2.0,0,13000,2,0.0,0.999,Testing
+2026-09-04,Areca,Kopi Susu,20.0,9,10000,11,4.0,8.959,Training
+2026-09-05,Areca,Kopi Susu,20.0,9,10000,11,11.0,11.561,Training
+2026-09-08,Areca,Kopi Susu,20.0,13,10000,7,11.0,7.275,Training
+2026-09-11,Areca,Kopi Susu,22.0,11,10000,11,7.0,10.624,Training
+2026-09-12,Areca,Kopi Susu,27.0,13,10000,14,11.0,11.561,Training
+2026-09-15,Areca,Kopi Susu,15.0,10,10000,5,14.0,7.376,Training
+2026-09-18,Areca,Kopi Susu,10.0,5,10000,5,5.0,9.243,Training
+2026-09-19,Areca,Kopi Susu,22.0,11,10000,11,5.0,9.245,Training
+2026-09-22,Areca,Kopi Susu,10.0,7,10000,3,11.0,7.275,Training
+2026-09-25,Areca,Kopi Susu,10.0,5,10000,5,3.0,8.376,Validation
+2026-09-26,Areca,Kopi Susu,15.0,10,10000,5,5.0,9.245,Validation
+2026-09-29,Areca,Kopi Susu,22.0,18,10000,4,5.0,7.619,Testing
+2026-10-02,Areca,Kopi Susu,20.0,10,10000,10,4.0,8.959,Testing
+2026-09-04,Areca,Lychee tea,2.0,2,10000,0,0.0,0.048,Training
+2026-09-05,Areca,Lychee tea,2.0,2,10000,0,0.0,0.003,Training
+2026-09-08,Areca,Lychee tea,2.0,2,10000,0,0.0,0.021,Training
+2026-09-11,Areca,Lychee tea,0.0,0,10000,0,0.0,0.048,Training
+2026-09-12,Areca,Lychee tea,0.0,0,10000,0,0.0,0.003,Training
+2026-09-15,Areca,Lychee tea,2.0,2,10000,0,0.0,0.021,Training
+2026-09-18,Areca,Lychee tea,2.0,2,10000,0,0.0,0.048,Training
+2026-09-19,Areca,Lychee tea,0.0,0,10000,0,0.0,0.003,Training
+2026-09-22,Areca,Lychee tea,2.0,2,10000,0,0.0,0.021,Training
+2026-09-25,Areca,Lychee tea,2.0,2,10000,0,0.0,0.048,Validation
+2026-09-26,Areca,Lychee tea,2.0,2,10000,0,0.0,0.003,Validation
+2026-09-29,Areca,Lychee tea,0.0,0,10000,0,0.0,0.021,Testing
+2026-10-02,Areca,Lychee tea,2.0,2,10000,0,0.0,0.048,Testing
+2026-09-04,Areca,Matcha,4.0,1,15000,3,2.0,2.31,Training
+2026-09-05,Areca,Matcha,4.0,0,15000,4,3.0,3.226,Training
+2026-09-08,Areca,Matcha,4.0,1,15000,3,4.0,2.426,Training
+2026-09-11,Areca,Matcha,4.0,1,15000,3,3.0,2.659,Training
+2026-09-12,Areca,Matcha,5.0,2,15000,3,3.0,3.226,Training
+2026-09-15,Areca,Matcha,4.0,2,15000,2,3.0,2.245,Training
+2026-09-18,Areca,Matcha,4.0,0,15000,4,2.0,2.31,Training
+2026-09-19,Areca,Matcha,4.0,1,15000,3,4.0,3.206,Training
+2026-09-22,Areca,Matcha,5.0,3,15000,2,3.0,2.245,Training
+2026-09-25,Areca,Matcha,5.0,0,15000,5,2.0,2.31,Validation
+2026-09-26,Areca,Matcha,4.0,2,15000,2,5.0,4.186,Validation
+2026-09-29,Areca,Matcha,5.0,4,15000,1,2.0,1.627,Testing
+2026-10-02,Areca,Matcha,4.0,0,15000,4,1.0,1.642,Testing
+2026-09-02,Imigrasi,A. Americano,2.0,1,15000,1,1.0,0.482,Training
+2026-09-03,Imigrasi,A. Americano,2.0,2,15000,0,1.0,0.564,Training
+2026-09-04,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.547,Training
+2026-09-05,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.525,Training
+2026-09-06,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.312,Training
+2026-09-07,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.166,Training
+2026-09-08,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.589,Training
+2026-09-09,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.437,Training
+2026-09-10,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.498,Training
+2026-09-11,Imigrasi,A. Americano,2.0,1,15000,1,0.0,0.547,Training
+2026-09-12,Imigrasi,A. Americano,2.0,1,15000,1,1.0,0.86,Training
+2026-09-13,Imigrasi,A. Americano,2.0,2,15000,0,1.0,0.386,Training
+2026-09-14,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.166,Training
+2026-09-15,Imigrasi,A. Americano,2.0,0,15000,2,0.0,0.589,Training
+2026-09-16,Imigrasi,A. Americano,2.0,2,15000,0,2.0,0.444,Training
+2026-09-17,Imigrasi,A. Americano,2.0,1,15000,1,0.0,0.498,Training
+2026-09-18,Imigrasi,A. Americano,2.0,1,15000,1,1.0,0.817,Training
+2026-09-19,Imigrasi,A. Americano,2.0,1,15000,1,1.0,0.86,Training
+2026-09-20,Imigrasi,A. Americano,2.0,2,15000,0,1.0,0.386,Training
+2026-09-21,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.166,Training
+2026-09-22,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.589,Training
+2026-09-23,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.437,Validation
+2026-09-24,Imigrasi,A. Americano,2.0,1,15000,1,0.0,0.498,Validation
+2026-09-25,Imigrasi,A. Americano,2.0,2,15000,0,1.0,0.817,Validation
+2026-09-26,Imigrasi,A. Americano,2.0,1,15000,1,0.0,0.525,Validation
+2026-09-27,Imigrasi,A. Americano,2.0,2,15000,0,1.0,0.386,Validation
+2026-09-28,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.166,Testing
+2026-09-29,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.589,Testing
+2026-09-30,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.437,Testing
+2026-10-01,Imigrasi,A. Americano,2.0,2,15000,0,0.0,0.498,Testing
+2026-10-02,Imigrasi,A. Americano,2.0,0,15000,2,0.0,0.547,Testing
+2026-09-02,Imigrasi,Americano,2.0,2,10000,0,1.0,0.875,Training
+2026-09-03,Imigrasi,Americano,2.0,2,10000,0,0.0,0.695,Training
+2026-09-04,Imigrasi,Americano,2.0,0,10000,2,0.0,1.201,Training
+2026-09-05,Imigrasi,Americano,2.0,0,10000,2,2.0,1.038,Training
+2026-09-06,Imigrasi,Americano,2.0,1,10000,1,2.0,0.539,Training
+2026-09-07,Imigrasi,Americano,2.0,0,10000,2,1.0,1.106,Training
+2026-09-08,Imigrasi,Americano,2.0,1,10000,1,2.0,1.151,Training
+2026-09-09,Imigrasi,Americano,2.0,1,10000,1,1.0,0.875,Training
+2026-09-10,Imigrasi,Americano,2.0,1,10000,1,1.0,0.913,Training
+2026-09-11,Imigrasi,Americano,2.0,2,10000,0,1.0,1.053,Training
+2026-09-12,Imigrasi,Americano,2.0,0,10000,2,0.0,1.193,Training
+2026-09-13,Imigrasi,Americano,2.0,2,10000,0,2.0,0.539,Training
+2026-09-14,Imigrasi,Americano,2.0,2,10000,0,0.0,0.556,Training
+2026-09-15,Imigrasi,Americano,2.0,2,10000,0,0.0,0.677,Training
+2026-09-16,Imigrasi,Americano,2.0,2,10000,0,0.0,0.482,Training
+2026-09-17,Imigrasi,Americano,2.0,1,10000,1,0.0,0.695,Training
+2026-09-18,Imigrasi,Americano,2.0,0,10000,2,1.0,1.053,Training
+2026-09-19,Imigrasi,Americano,2.0,2,10000,0,2.0,1.038,Training
+2026-09-20,Imigrasi,Americano,2.0,1,10000,1,0.0,0.781,Training
+2026-09-21,Imigrasi,Americano,2.0,1,10000,1,1.0,1.106,Training
+2026-09-22,Imigrasi,Americano,2.0,0,10000,2,1.0,1.242,Training
+2026-09-23,Imigrasi,Americano,2.0,1,10000,1,2.0,0.801,Validation
+2026-09-24,Imigrasi,Americano,2.0,2,10000,0,1.0,0.913,Validation
+2026-09-25,Imigrasi,Americano,2.0,2,10000,0,0.0,1.201,Validation
+2026-09-26,Imigrasi,Americano,2.0,1,10000,1,0.0,1.193,Validation
+2026-09-27,Imigrasi,Americano,2.0,2,10000,0,1.0,0.642,Validation
+2026-09-28,Imigrasi,Americano,2.0,2,10000,0,0.0,0.556,Testing
+2026-09-29,Imigrasi,Americano,2.0,0,10000,2,0.0,0.677,Testing
+2026-09-30,Imigrasi,Americano,2.0,2,10000,0,2.0,0.801,Testing
+2026-10-01,Imigrasi,Americano,2.0,0,10000,2,0.0,0.695,Testing
+2026-10-02,Imigrasi,Americano,2.0,1,10000,1,2.0,0.861,Testing
+2026-09-02,Imigrasi,Chocolate,2.0,2,15000,0,1.0,0.482,Training
+2026-09-03,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.825,Training
+2026-09-04,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.646,Training
+2026-09-05,Imigrasi,Chocolate,2.0,0,15000,2,0.0,0.703,Training
+2026-09-06,Imigrasi,Chocolate,2.0,2,15000,0,2.0,0.265,Training
+2026-09-07,Imigrasi,Chocolate,2.0,1,15000,1,0.0,0.372,Training
+2026-09-08,Imigrasi,Chocolate,2.0,1,15000,1,1.0,0.705,Training
+2026-09-09,Imigrasi,Chocolate,2.0,2,15000,0,1.0,0.482,Training
+2026-09-10,Imigrasi,Chocolate,2.0,0,15000,2,0.0,0.825,Training
+2026-09-11,Imigrasi,Chocolate,2.0,2,15000,0,2.0,0.449,Training
+2026-09-12,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.703,Training
+2026-09-13,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.298,Training
+2026-09-14,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.372,Training
+2026-09-15,Imigrasi,Chocolate,2.0,1,15000,1,0.0,0.715,Training
+2026-09-16,Imigrasi,Chocolate,2.0,1,15000,1,1.0,0.482,Training
+2026-09-17,Imigrasi,Chocolate,2.0,1,15000,1,1.0,0.75,Training
+2026-09-18,Imigrasi,Chocolate,2.0,1,15000,1,1.0,0.825,Training
+2026-09-19,Imigrasi,Chocolate,2.0,1,15000,1,1.0,0.855,Training
+2026-09-20,Imigrasi,Chocolate,2.0,2,15000,0,1.0,0.321,Training
+2026-09-21,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.372,Training
+2026-09-22,Imigrasi,Chocolate,2.0,1,15000,1,0.0,0.715,Training
+2026-09-23,Imigrasi,Chocolate,2.0,2,15000,0,1.0,0.482,Validation
+2026-09-24,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.825,Validation
+2026-09-25,Imigrasi,Chocolate,2.0,1,15000,1,0.0,0.646,Validation
+2026-09-26,Imigrasi,Chocolate,2.0,0,15000,2,1.0,0.855,Validation
+2026-09-27,Imigrasi,Chocolate,2.0,2,15000,0,2.0,0.265,Validation
+2026-09-28,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.372,Testing
+2026-09-29,Imigrasi,Chocolate,2.0,1,15000,1,0.0,0.715,Testing
+2026-09-30,Imigrasi,Chocolate,2.0,2,15000,0,1.0,0.482,Testing
+2026-10-01,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.825,Testing
+2026-10-02,Imigrasi,Chocolate,2.0,2,15000,0,0.0,0.646,Testing
+2026-09-02,Imigrasi,Kopi Aren,5.0,5,12000,0,2.0,1.503,Training
+2026-09-03,Imigrasi,Kopi Aren,5.0,4,12000,1,0.0,1.193,Training
+2026-09-04,Imigrasi,Kopi Aren,5.0,4,12000,1,1.0,1.691,Training
+2026-09-05,Imigrasi,Kopi Aren,5.0,4,12000,1,1.0,1.406,Training
+2026-09-06,Imigrasi,Kopi Aren,5.0,5,12000,0,1.0,0.927,Training
+2026-09-07,Imigrasi,Kopi Aren,5.0,4,12000,1,0.0,1.699,Training
+2026-09-08,Imigrasi,Kopi Aren,5.0,5,12000,0,1.0,1.076,Training
+2026-09-09,Imigrasi,Kopi Aren,5.0,5,12000,0,0.0,0.771,Training
+2026-09-10,Imigrasi,Kopi Aren,5.0,3,12000,2,0.0,1.193,Training
+2026-09-11,Imigrasi,Kopi Aren,5.0,1,12000,4,2.0,2.488,Training
+2026-09-12,Imigrasi,Kopi Aren,5.0,2,12000,3,4.0,2.147,Training
+2026-09-13,Imigrasi,Kopi Aren,5.0,5,12000,0,3.0,1.097,Training
+2026-09-14,Imigrasi,Kopi Aren,5.0,3,12000,2,0.0,1.699,Training
+2026-09-15,Imigrasi,Kopi Aren,5.0,2,12000,3,2.0,1.755,Training
+2026-09-16,Imigrasi,Kopi Aren,5.0,5,12000,0,3.0,1.381,Training
+2026-09-17,Imigrasi,Kopi Aren,5.0,4,12000,1,0.0,1.193,Training
+2026-09-18,Imigrasi,Kopi Aren,5.0,2,12000,3,1.0,1.691,Training
+2026-09-19,Imigrasi,Kopi Aren,5.0,2,12000,3,3.0,1.845,Training
+2026-09-20,Imigrasi,Kopi Aren,5.0,5,12000,0,3.0,1.097,Training
+2026-09-21,Imigrasi,Kopi Aren,5.0,2,12000,3,0.0,1.699,Training
+2026-09-22,Imigrasi,Kopi Aren,5.0,3,12000,2,3.0,1.598,Training
+2026-09-23,Imigrasi,Kopi Aren,5.0,5,12000,0,2.0,1.503,Validation
+2026-09-24,Imigrasi,Kopi Aren,5.0,5,12000,0,0.0,1.193,Validation
+2026-09-25,Imigrasi,Kopi Aren,5.0,4,12000,1,0.0,1.524,Validation
+2026-09-26,Imigrasi,Kopi Aren,5.0,0,12000,5,1.0,1.406,Validation
+2026-09-27,Imigrasi,Kopi Aren,5.0,3,12000,2,5.0,2.096,Validation
+2026-09-28,Imigrasi,Kopi Aren,5.0,4,12000,1,2.0,1.91,Testing
+2026-09-29,Imigrasi,Kopi Aren,5.0,5,12000,0,1.0,1.076,Testing
+2026-09-30,Imigrasi,Kopi Aren,5.0,5,12000,0,0.0,0.771,Testing
+2026-10-01,Imigrasi,Kopi Aren,5.0,5,12000,0,0.0,1.193,Testing
+2026-10-02,Imigrasi,Kopi Aren,5.0,4,12000,1,0.0,1.524,Testing
+2026-09-02,Imigrasi,Kopi Butterscotch,8.0,6,13000,2,2.0,2.253,Training
+2026-09-03,Imigrasi,Kopi Butterscotch,5.0,3,13000,2,2.0,2.133,Training
+2026-09-04,Imigrasi,Kopi Butterscotch,8.0,4,13000,4,2.0,2.31,Training
+2026-09-05,Imigrasi,Kopi Butterscotch,8.0,5,13000,3,4.0,3.176,Training
+2026-09-06,Imigrasi,Kopi Butterscotch,5.0,4,13000,1,3.0,1.791,Training
+2026-09-07,Imigrasi,Kopi Butterscotch,5.0,3,13000,2,1.0,2.927,Training
+2026-09-08,Imigrasi,Kopi Butterscotch,5.0,3,13000,2,2.0,2.145,Training
+2026-09-09,Imigrasi,Kopi Butterscotch,8.0,5,13000,3,2.0,2.253,Training
+2026-09-10,Imigrasi,Kopi Butterscotch,8.0,6,13000,2,3.0,2.609,Training
+2026-09-11,Imigrasi,Kopi Butterscotch,5.0,4,13000,1,2.0,2.31,Training
+2026-09-12,Imigrasi,Kopi Butterscotch,5.0,2,13000,3,1.0,3.607,Training
+2026-09-13,Imigrasi,Kopi Butterscotch,8.0,6,13000,2,3.0,1.791,Training
+2026-09-14,Imigrasi,Kopi Butterscotch,8.0,8,13000,0,2.0,1.831,Training
+2026-09-15,Imigrasi,Kopi Butterscotch,8.0,4,13000,4,0.0,3.106,Training
+2026-09-16,Imigrasi,Kopi Butterscotch,8.0,6,13000,2,4.0,2.338,Training
+2026-09-17,Imigrasi,Kopi Butterscotch,8.0,7,13000,1,2.0,2.133,Training
+2026-09-18,Imigrasi,Kopi Butterscotch,8.0,3,13000,5,1.0,3.549,Training
+2026-09-19,Imigrasi,Kopi Butterscotch,8.0,4,13000,4,5.0,4.916,Training
+2026-09-20,Imigrasi,Kopi Butterscotch,8.0,6,13000,2,4.0,2.008,Training
+2026-09-21,Imigrasi,Kopi Butterscotch,8.0,5,13000,3,2.0,1.831,Training
+2026-09-22,Imigrasi,Kopi Butterscotch,5.0,2,13000,3,3.0,2.32,Training
+2026-09-23,Imigrasi,Kopi Butterscotch,5.0,1,13000,4,3.0,2.264,Validation
+2026-09-24,Imigrasi,Kopi Butterscotch,8.0,6,13000,2,4.0,2.955,Validation
+2026-09-25,Imigrasi,Kopi Butterscotch,8.0,2,13000,6,2.0,2.31,Validation
+2026-09-26,Imigrasi,Kopi Butterscotch,5.0,0,13000,5,6.0,6.354,Validation
+2026-09-27,Imigrasi,Kopi Butterscotch,5.0,5,13000,0,5.0,3.679,Validation
+2026-09-28,Imigrasi,Kopi Butterscotch,8.0,6,13000,2,0.0,2.798,Testing
+2026-09-29,Imigrasi,Kopi Butterscotch,8.0,7,13000,1,2.0,2.145,Testing
+2026-09-30,Imigrasi,Kopi Butterscotch,8.0,6,13000,2,1.0,3.276,Testing
+2026-10-01,Imigrasi,Kopi Butterscotch,8.0,5,13000,3,2.0,2.133,Testing
+2026-10-02,Imigrasi,Kopi Butterscotch,8.0,4,13000,4,3.0,2.72,Testing
+2026-09-02,Imigrasi,Kopi Caramel,5.0,4,13000,1,1.0,0.728,Training
+2026-09-03,Imigrasi,Kopi Caramel,5.0,4,13000,1,1.0,0.92,Training
+2026-09-04,Imigrasi,Kopi Caramel,5.0,4,13000,1,1.0,0.668,Training
+2026-09-05,Imigrasi,Kopi Caramel,5.0,5,13000,0,1.0,0.865,Training
+2026-09-06,Imigrasi,Kopi Caramel,5.0,5,13000,0,0.0,0.571,Training
+2026-09-07,Imigrasi,Kopi Caramel,5.0,5,13000,0,0.0,0.563,Training
+2026-09-08,Imigrasi,Kopi Caramel,5.0,3,13000,2,0.0,1.17,Training
+2026-09-09,Imigrasi,Kopi Caramel,5.0,4,13000,1,2.0,0.642,Training
+2026-09-10,Imigrasi,Kopi Caramel,5.0,4,13000,1,1.0,0.92,Training
+2026-09-11,Imigrasi,Kopi Caramel,5.0,5,13000,0,1.0,0.668,Training
+2026-09-12,Imigrasi,Kopi Caramel,5.0,4,13000,1,0.0,0.801,Training
+2026-09-13,Imigrasi,Kopi Caramel,5.0,5,13000,0,1.0,0.502,Training
+2026-09-14,Imigrasi,Kopi Caramel,5.0,5,13000,0,0.0,0.563,Training
+2026-09-15,Imigrasi,Kopi Caramel,5.0,4,13000,1,0.0,1.17,Training
+2026-09-16,Imigrasi,Kopi Caramel,5.0,5,13000,0,1.0,0.728,Training
+2026-09-17,Imigrasi,Kopi Caramel,5.0,3,13000,2,0.0,1.123,Training
+2026-09-18,Imigrasi,Kopi Caramel,5.0,5,13000,0,2.0,0.653,Training
+2026-09-19,Imigrasi,Kopi Caramel,5.0,5,13000,0,0.0,0.801,Training
+2026-09-20,Imigrasi,Kopi Caramel,5.0,4,13000,1,0.0,0.571,Training
+2026-09-21,Imigrasi,Kopi Caramel,5.0,4,13000,1,1.0,0.99,Training
+2026-09-22,Imigrasi,Kopi Caramel,5.0,3,13000,2,1.0,1.24,Training
+2026-09-23,Imigrasi,Kopi Caramel,5.0,4,13000,1,2.0,0.642,Validation
+2026-09-24,Imigrasi,Kopi Caramel,5.0,5,13000,0,1.0,0.92,Validation
+2026-09-25,Imigrasi,Kopi Caramel,5.0,4,13000,1,0.0,0.958,Validation
+2026-09-26,Imigrasi,Kopi Caramel,5.0,3,13000,2,1.0,0.865,Validation
+2026-09-27,Imigrasi,Kopi Caramel,5.0,4,13000,1,2.0,0.67,Validation
+2026-09-28,Imigrasi,Kopi Caramel,5.0,5,13000,0,1.0,0.99,Testing
+2026-09-29,Imigrasi,Kopi Caramel,5.0,5,13000,0,0.0,1.17,Testing
+2026-09-30,Imigrasi,Kopi Caramel,5.0,4,13000,1,0.0,0.905,Testing
+2026-10-01,Imigrasi,Kopi Caramel,5.0,5,13000,0,1.0,0.92,Testing
+2026-10-02,Imigrasi,Kopi Caramel,5.0,4,13000,1,0.0,0.958,Testing
+2026-09-02,Imigrasi,Kopi Susu,20.0,5,10000,15,10.0,13.139,Training
+2026-09-03,Imigrasi,Kopi Susu,15.0,4,10000,11,15.0,12.07,Training
+2026-09-04,Imigrasi,Kopi Susu,15.0,0,10000,15,11.0,14.44,Training
+2026-09-05,Imigrasi,Kopi Susu,15.0,3,10000,12,15.0,12.533,Training
+2026-09-06,Imigrasi,Kopi Susu,10.0,7,10000,3,12.0,9.158,Training
+2026-09-07,Imigrasi,Kopi Susu,20.0,9,10000,11,3.0,7.175,Training
+2026-09-08,Imigrasi,Kopi Susu,15.0,4,10000,11,11.0,10.563,Training
+2026-09-09,Imigrasi,Kopi Susu,10.0,0,10000,10,11.0,12.025,Training
+2026-09-10,Imigrasi,Kopi Susu,15.0,1,10000,14,10.0,13.733,Training
+2026-09-11,Imigrasi,Kopi Susu,15.0,0,10000,15,14.0,13.704,Training
+2026-09-12,Imigrasi,Kopi Susu,15.0,1,10000,14,15.0,12.533,Training
+2026-09-13,Imigrasi,Kopi Susu,15.0,6,10000,9,14.0,8.93,Training
+2026-09-14,Imigrasi,Kopi Susu,15.0,6,10000,9,9.0,9.107,Training
+2026-09-15,Imigrasi,Kopi Susu,15.0,5,10000,10,9.0,9.821,Training
+2026-09-16,Imigrasi,Kopi Susu,20.0,4,10000,16,10.0,13.139,Training
+2026-09-17,Imigrasi,Kopi Susu,15.0,1,10000,14,16.0,13.07,Training
+2026-09-18,Imigrasi,Kopi Susu,15.0,1,10000,14,14.0,13.704,Training
+2026-09-19,Imigrasi,Kopi Susu,15.0,1,10000,14,14.0,13.261,Training
+2026-09-20,Imigrasi,Kopi Susu,15.0,8,10000,7,14.0,8.93,Training
+2026-09-21,Imigrasi,Kopi Susu,15.0,8,10000,7,7.0,8.945,Training
+2026-09-22,Imigrasi,Kopi Susu,15.0,5,10000,10,7.0,9.695,Training
+2026-09-23,Imigrasi,Kopi Susu,15.0,3,10000,12,10.0,13.139,Validation
+2026-09-24,Imigrasi,Kopi Susu,15.0,4,10000,11,12.0,12.926,Validation
+2026-09-25,Imigrasi,Kopi Susu,15.0,2,10000,13,11.0,14.44,Validation
+2026-09-26,Imigrasi,Kopi Susu,15.0,0,10000,15,13.0,13.917,Validation
+2026-09-27,Imigrasi,Kopi Susu,15.0,5,10000,10,15.0,8.793,Validation
+2026-09-28,Imigrasi,Kopi Susu,15.0,6,10000,9,10.0,11.291,Testing
+2026-09-29,Imigrasi,Kopi Susu,15.0,0,10000,15,9.0,9.821,Testing
+2026-09-30,Imigrasi,Kopi Susu,15.0,3,10000,12,15.0,11.253,Testing
+2026-10-01,Imigrasi,Kopi Susu,15.0,3,10000,12,12.0,12.926,Testing
+2026-10-02,Imigrasi,Kopi Susu,15.0,4,10000,11,12.0,14.374,Testing
+2026-09-02,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.054,Training
+2026-09-03,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.128,Training
+2026-09-04,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.183,Training
+2026-09-05,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.039,Training
+2026-09-06,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.023,Training
+2026-09-07,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.111,Training
+2026-09-08,Imigrasi,Lychee tea,2.0,1,10000,1,0.0,0.153,Training
+2026-09-09,Imigrasi,Lychee tea,1.0,1,10000,0,1.0,0.223,Training
+2026-09-10,Imigrasi,Lychee tea,1.0,1,10000,0,0.0,0.128,Training
+2026-09-11,Imigrasi,Lychee tea,2.0,1,10000,1,0.0,0.183,Training
+2026-09-12,Imigrasi,Lychee tea,2.0,2,10000,0,1.0,0.196,Training
+2026-09-13,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.023,Training
+2026-09-14,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.111,Training
+2026-09-15,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.153,Training
+2026-09-16,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.054,Training
+2026-09-17,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.128,Training
+2026-09-18,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.183,Training
+2026-09-19,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.039,Training
+2026-09-20,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.023,Training
+2026-09-21,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.111,Training
+2026-09-22,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.153,Training
+2026-09-23,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.054,Validation
+2026-09-24,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.128,Validation
+2026-09-25,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.183,Validation
+2026-09-26,Imigrasi,Lychee tea,1.0,0,10000,1,0.0,0.039,Validation
+2026-09-27,Imigrasi,Lychee tea,2.0,2,10000,0,1.0,0.123,Validation
+2026-09-28,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.111,Testing
+2026-09-29,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.153,Testing
+2026-09-30,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.054,Testing
+2026-10-01,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.128,Testing
+2026-10-02,Imigrasi,Lychee tea,2.0,2,10000,0,0.0,0.183,Testing
+2026-09-02,Imigrasi,Matcha,4.0,3,15000,1,0.0,1.012,Training
+2026-09-03,Imigrasi,Matcha,4.0,3,15000,1,1.0,1.165,Training
+2026-09-04,Imigrasi,Matcha,4.0,3,15000,1,1.0,1.351,Training
+2026-09-05,Imigrasi,Matcha,4.0,3,15000,1,1.0,1.204,Training
+2026-09-06,Imigrasi,Matcha,4.0,3,15000,1,1.0,0.814,Training
+2026-09-07,Imigrasi,Matcha,4.0,4,15000,0,1.0,0.845,Training
+2026-09-08,Imigrasi,Matcha,3.0,1,15000,2,0.0,0.978,Training
+2026-09-09,Imigrasi,Matcha,4.0,3,15000,1,2.0,1.211,Training
+2026-09-10,Imigrasi,Matcha,3.0,1,15000,2,1.0,1.165,Training
+2026-09-11,Imigrasi,Matcha,4.0,1,15000,3,2.0,1.568,Training
+2026-09-12,Imigrasi,Matcha,4.0,4,15000,0,3.0,1.85,Training
+2026-09-13,Imigrasi,Matcha,4.0,3,15000,1,0.0,0.671,Training
+2026-09-14,Imigrasi,Matcha,4.0,4,15000,0,1.0,0.845,Training
+2026-09-15,Imigrasi,Matcha,4.0,4,15000,0,0.0,0.978,Training
+2026-09-16,Imigrasi,Matcha,3.0,2,15000,1,0.0,1.012,Training
+2026-09-17,Imigrasi,Matcha,3.0,2,15000,1,1.0,1.165,Training
+2026-09-18,Imigrasi,Matcha,4.0,3,15000,1,1.0,1.351,Training
+2026-09-19,Imigrasi,Matcha,4.0,2,15000,2,1.0,1.204,Training
+2026-09-20,Imigrasi,Matcha,3.0,2,15000,1,2.0,1.039,Training
+2026-09-21,Imigrasi,Matcha,3.0,2,15000,1,1.0,0.845,Training
+2026-09-22,Imigrasi,Matcha,4.0,0,15000,4,1.0,1.618,Training
+2026-09-23,Imigrasi,Matcha,3.0,2,15000,1,4.0,1.605,Validation
+2026-09-24,Imigrasi,Matcha,4.0,3,15000,1,1.0,1.165,Validation
+2026-09-25,Imigrasi,Matcha,4.0,4,15000,0,1.0,1.351,Validation
+2026-09-26,Imigrasi,Matcha,3.0,0,15000,3,0.0,0.898,Validation
+2026-09-27,Imigrasi,Matcha,3.0,2,15000,1,3.0,1.253,Validation
+2026-09-28,Imigrasi,Matcha,4.0,4,15000,0,1.0,0.845,Testing
+2026-09-29,Imigrasi,Matcha,4.0,4,15000,0,0.0,0.978,Testing
+2026-09-30,Imigrasi,Matcha,4.0,4,15000,0,0.0,1.012,Testing
+2026-10-01,Imigrasi,Matcha,4.0,4,15000,0,0.0,1.021,Testing
+2026-10-02,Imigrasi,Matcha,4.0,2,15000,2,0.0,0.897,Testing
+2026-09-05,Pasar,A. Americano,2.0,0,15000,2,1.0,1.841,Training
+2026-09-08,Pasar,A. Americano,2.0,1,15000,1,2.0,1.829,Training
+2026-09-12,Pasar,A. Americano,2.0,0,15000,2,1.0,1.841,Training
+2026-09-15,Pasar,A. Americano,2.0,0,15000,2,2.0,1.829,Training
+2026-09-19,Pasar,A. Americano,2.0,0,15000,2,2.0,1.985,Training
+2026-09-22,Pasar,A. Americano,2.0,0,15000,2,2.0,1.829,Training
+2026-09-26,Pasar,A. Americano,2.0,0,15000,2,2.0,1.985,Validation
+2026-09-29,Pasar,A. Americano,2.0,1,15000,1,2.0,1.829,Testing
+2026-09-05,Pasar,Americano,2.0,1,10000,1,1.0,1.497,Training
+2026-09-08,Pasar,Americano,2.0,0,10000,2,1.0,1.367,Training
+2026-09-12,Pasar,Americano,2.0,1,10000,1,2.0,1.676,Training
+2026-09-15,Pasar,Americano,2.0,1,10000,1,1.0,1.367,Training
+2026-09-19,Pasar,Americano,2.0,1,10000,1,1.0,1.497,Training
+2026-09-22,Pasar,Americano,2.0,1,10000,1,1.0,1.367,Training
+2026-09-26,Pasar,Americano,2.0,0,10000,2,1.0,1.497,Validation
+2026-09-29,Pasar,Americano,2.0,1,10000,1,2.0,1.571,Testing
+2026-09-05,Pasar,Chocolate,2.0,2,15000,0,1.0,1.265,Training
+2026-09-08,Pasar,Chocolate,2.0,2,15000,0,0.0,0.614,Training
+2026-09-12,Pasar,Chocolate,2.0,2,15000,0,0.0,0.722,Training
+2026-09-15,Pasar,Chocolate,2.0,1,15000,1,0.0,0.614,Training
+2026-09-19,Pasar,Chocolate,2.0,0,15000,2,1.0,1.265,Training
+2026-09-22,Pasar,Chocolate,2.0,1,15000,1,2.0,1.337,Training
+2026-09-26,Pasar,Chocolate,2.0,1,15000,1,1.0,1.265,Validation
+2026-09-29,Pasar,Chocolate,2.0,2,15000,0,1.0,1.038,Testing
+2026-09-05,Pasar,Kopi Aren,7.0,3,12000,4,6.0,5.511,Training
+2026-09-08,Pasar,Kopi Aren,15.0,10,12000,5,4.0,2.908,Training
+2026-09-12,Pasar,Kopi Aren,10.0,5,12000,5,5.0,4.18,Training
+2026-09-15,Pasar,Kopi Aren,7.0,4,12000,3,5.0,2.691,Training
+2026-09-19,Pasar,Kopi Aren,5.0,3,12000,2,3.0,3.414,Training
+2026-09-22,Pasar,Kopi Aren,7.0,3,12000,4,2.0,2.529,Training
+2026-09-26,Pasar,Kopi Aren,10.0,4,12000,6,4.0,3.435,Validation
+2026-09-29,Pasar,Kopi Aren,7.0,6,12000,1,6.0,3.874,Testing
+2026-09-05,Pasar,Kopi Butterscotch,10.0,0,13000,10,7.0,7.78,Training
+2026-09-08,Pasar,Kopi Butterscotch,15.0,8,13000,7,10.0,8.053,Training
+2026-09-12,Pasar,Kopi Butterscotch,10.0,0,13000,10,7.0,7.78,Training
+2026-09-15,Pasar,Kopi Butterscotch,10.0,4,13000,6,10.0,8.053,Training
+2026-09-19,Pasar,Kopi Butterscotch,10.0,2,13000,8,6.0,7.124,Training
+2026-09-22,Pasar,Kopi Butterscotch,10.0,7,13000,3,8.0,5.104,Training
+2026-09-26,Pasar,Kopi Butterscotch,10.0,4,13000,6,3.0,3.803,Validation
+2026-09-29,Pasar,Kopi Butterscotch,10.0,6,13000,4,6.0,4.774,Testing
+2026-09-05,Pasar,Kopi Caramel,5.0,1,13000,4,1.0,2.523,Training
+2026-09-08,Pasar,Kopi Caramel,5.0,3,13000,2,4.0,2.417,Training
+2026-09-12,Pasar,Kopi Caramel,5.0,0,13000,5,2.0,2.78,Training
+2026-09-15,Pasar,Kopi Caramel,5.0,2,13000,3,5.0,2.344,Training
+2026-09-19,Pasar,Kopi Caramel,5.0,0,13000,5,3.0,3.404,Training
+2026-09-22,Pasar,Kopi Caramel,5.0,3,13000,2,5.0,2.344,Training
+2026-09-26,Pasar,Kopi Caramel,5.0,0,13000,5,2.0,2.78,Validation
+2026-09-29,Pasar,Kopi Caramel,5.0,4,13000,1,5.0,2.344,Testing
+2026-09-05,Pasar,Kopi Susu,35.0,0,10000,35,30.0,26.884,Training
+2026-09-08,Pasar,Kopi Susu,30.0,7,10000,23,35.0,26.607,Training
+2026-09-12,Pasar,Kopi Susu,25.0,2,10000,23,23.0,27.08,Training
+2026-09-15,Pasar,Kopi Susu,30.0,1,10000,29,23.0,26.767,Training
+2026-09-19,Pasar,Kopi Susu,25.0,1,10000,24,29.0,26.897,Training
+2026-09-22,Pasar,Kopi Susu,40.0,7,10000,33,24.0,27.145,Training
+2026-09-26,Pasar,Kopi Susu,35.0,0,10000,35,33.0,26.884,Validation
+2026-09-29,Pasar,Kopi Susu,30.0,3,10000,27,35.0,26.607,Testing
+2026-09-05,Pasar,Lychee tea,2.0,2,10000,0,0.0,0.011,Training
+2026-09-08,Pasar,Lychee tea,2.0,2,10000,0,0.0,0.026,Training
+2026-09-12,Pasar,Lychee tea,2.0,2,10000,0,0.0,0.011,Training
+2026-09-15,Pasar,Lychee tea,2.0,2,10000,0,0.0,0.026,Training
+2026-09-19,Pasar,Lychee tea,2.0,2,10000,0,0.0,0.011,Training
+2026-09-22,Pasar,Lychee tea,2.0,2,10000,0,0.0,0.026,Training
+2026-09-26,Pasar,Lychee tea,2.0,2,10000,0,0.0,0.011,Validation
+2026-09-29,Pasar,Lychee tea,2.0,2,10000,0,0.0,0.026,Testing
+2026-09-05,Pasar,Matcha,5.0,2,15000,3,2.0,2.559,Training
+2026-09-08,Pasar,Matcha,5.0,4,15000,1,3.0,2.194,Training
+2026-09-12,Pasar,Matcha,5.0,3,15000,2,1.0,2.226,Training
+2026-09-15,Pasar,Matcha,5.0,2,15000,3,2.0,2.37,Training
+2026-09-19,Pasar,Matcha,5.0,0,15000,5,3.0,3.503,Training
+2026-09-22,Pasar,Matcha,5.0,4,15000,1,5.0,2.191,Training
+2026-09-26,Pasar,Matcha,5.0,2,15000,3,1.0,2.226,Validation
+2026-09-29,Pasar,Matcha,5.0,3,15000,2,3.0,2.194,Testing
+2026-09-03,Pasar Raya,A. Americano,2.0,1,15000,1,1.0,0.832,Training
+2026-09-05,Pasar Raya,A. Americano,2.0,0,15000,2,1.0,1.256,Training
+2026-09-07,Pasar Raya,A. Americano,2.0,2,15000,0,2.0,0.793,Training
+2026-09-09,Pasar Raya,A. Americano,2.0,0,15000,2,0.0,0.789,Training
+2026-09-10,Pasar Raya,A. Americano,2.0,1,15000,1,2.0,0.737,Training
+2026-09-11,Pasar Raya,A. Americano,2.0,1,15000,1,1.0,0.978,Training
+2026-09-12,Pasar Raya,A. Americano,2.0,0,15000,2,1.0,1.256,Training
+2026-09-13,Pasar Raya,A. Americano,2.0,1,15000,1,2.0,0.953,Training
+2026-09-14,Pasar Raya,A. Americano,2.0,0,15000,2,1.0,0.988,Training
+2026-09-16,Pasar Raya,A. Americano,2.0,2,15000,0,2.0,0.578,Training
+2026-09-17,Pasar Raya,A. Americano,2.0,1,15000,1,0.0,0.839,Training
+2026-09-18,Pasar Raya,A. Americano,2.0,2,15000,0,1.0,0.978,Training
+2026-09-19,Pasar Raya,A. Americano,2.0,1,15000,1,0.0,0.787,Training
+2026-09-20,Pasar Raya,A. Americano,2.0,1,15000,1,1.0,0.99,Training
+2026-09-21,Pasar Raya,A. Americano,2.0,1,15000,1,1.0,0.988,Training
+2026-09-23,Pasar Raya,A. Americano,2.0,0,15000,2,1.0,0.77,Validation
+2026-09-24,Pasar Raya,A. Americano,2.0,1,15000,1,2.0,0.737,Validation
+2026-09-26,Pasar Raya,A. Americano,2.0,0,15000,2,1.0,1.256,Validation
+2026-09-27,Pasar Raya,A. Americano,2.0,2,15000,0,2.0,0.953,Validation
+2026-09-28,Pasar Raya,A. Americano,2.0,2,15000,0,0.0,0.506,Testing
+2026-09-30,Pasar Raya,A. Americano,2.0,2,15000,0,0.0,0.789,Testing
+2026-10-01,Pasar Raya,A. Americano,2.0,0,15000,2,0.0,0.839,Testing
+2026-10-02,Pasar Raya,A. Americano,2.0,0,15000,2,2.0,0.827,Testing
+2026-09-03,Pasar Raya,Americano,2.0,0,10000,2,1.0,1.45,Training
+2026-09-05,Pasar Raya,Americano,2.0,0,10000,2,2.0,1.383,Training
+2026-09-07,Pasar Raya,Americano,2.0,1,10000,1,2.0,1.236,Training
+2026-09-09,Pasar Raya,Americano,2.0,0,10000,2,1.0,1.551,Training
+2026-09-10,Pasar Raya,Americano,2.0,1,10000,1,2.0,1.239,Training
+2026-09-11,Pasar Raya,Americano,2.0,0,10000,2,1.0,1.364,Training
+2026-09-12,Pasar Raya,Americano,2.0,0,10000,2,2.0,1.383,Training
+2026-09-13,Pasar Raya,Americano,2.0,1,10000,1,2.0,0.885,Training
+2026-09-14,Pasar Raya,Americano,2.0,1,10000,1,1.0,1.457,Training
+2026-09-16,Pasar Raya,Americano,2.0,0,10000,2,1.0,1.551,Training
+2026-09-17,Pasar Raya,Americano,2.0,0,10000,2,2.0,1.239,Training
+2026-09-18,Pasar Raya,Americano,2.0,2,10000,0,2.0,1.152,Training
+2026-09-19,Pasar Raya,Americano,2.0,2,10000,0,0.0,0.731,Training
+2026-09-20,Pasar Raya,Americano,2.0,2,10000,0,0.0,0.52,Training
+2026-09-21,Pasar Raya,Americano,2.0,1,10000,1,0.0,0.725,Training
+2026-09-23,Pasar Raya,Americano,2.0,1,10000,1,1.0,1.551,Validation
+2026-09-24,Pasar Raya,Americano,2.0,2,10000,0,1.0,1.45,Validation
+2026-09-26,Pasar Raya,Americano,2.0,1,10000,1,0.0,0.731,Validation
+2026-09-27,Pasar Raya,Americano,2.0,2,10000,0,1.0,0.975,Validation
+2026-09-28,Pasar Raya,Americano,2.0,0,10000,2,0.0,0.725,Testing
+2026-09-30,Pasar Raya,Americano,2.0,2,10000,0,2.0,1.245,Testing
+2026-10-01,Pasar Raya,Americano,2.0,0,10000,2,0.0,0.819,Testing
+2026-10-02,Pasar Raya,Americano,2.0,0,10000,2,2.0,1.152,Testing
+2026-09-03,Pasar Raya,Chocolate,2.0,1,15000,1,0.0,0.32,Training
+2026-09-05,Pasar Raya,Chocolate,2.0,1,15000,1,1.0,0.808,Training
+2026-09-07,Pasar Raya,Chocolate,2.0,2,15000,0,1.0,0.314,Training
+2026-09-09,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.187,Training
+2026-09-10,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.32,Training
+2026-09-11,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.171,Training
+2026-09-12,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.255,Training
+2026-09-13,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.276,Training
+2026-09-14,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.157,Training
+2026-09-16,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.187,Training
+2026-09-17,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.32,Training
+2026-09-18,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.171,Training
+2026-09-19,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.255,Training
+2026-09-20,Pasar Raya,Chocolate,2.0,1,15000,1,0.0,0.276,Training
+2026-09-21,Pasar Raya,Chocolate,2.0,2,15000,0,1.0,0.314,Training
+2026-09-23,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.187,Validation
+2026-09-24,Pasar Raya,Chocolate,2.0,1,15000,1,0.0,0.32,Validation
+2026-09-26,Pasar Raya,Chocolate,2.0,2,15000,0,1.0,0.808,Validation
+2026-09-27,Pasar Raya,Chocolate,2.0,2,15000,0,0.0,0.276,Validation
+2026-09-28,Pasar Raya,Chocolate,2.0,1,15000,1,0.0,0.157,Testing
+2026-09-30,Pasar Raya,Chocolate,2.0,2,15000,0,1.0,0.375,Testing
+2026-10-01,Pasar Raya,Chocolate,2.0,0,15000,2,0.0,0.32,Testing
+2026-10-02,Pasar Raya,Chocolate,2.0,2,15000,0,2.0,0.476,Testing
+2026-09-03,Pasar Raya,Kopi Aren,10.0,5,12000,5,3.0,3.475,Training
+2026-09-05,Pasar Raya,Kopi Aren,7.0,3,12000,4,5.0,3.621,Training
+2026-09-07,Pasar Raya,Kopi Aren,7.0,5,12000,2,4.0,2.082,Training
+2026-09-09,Pasar Raya,Kopi Aren,7.0,5,12000,2,2.0,2.089,Training
+2026-09-10,Pasar Raya,Kopi Aren,7.0,6,12000,1,2.0,2.272,Training
+2026-09-11,Pasar Raya,Kopi Aren,5.0,4,12000,1,1.0,2.017,Training
+2026-09-12,Pasar Raya,Kopi Aren,5.0,3,12000,2,1.0,2.005,Training
+2026-09-13,Pasar Raya,Kopi Aren,15.0,9,12000,6,2.0,2.797,Training
+2026-09-14,Pasar Raya,Kopi Aren,10.0,7,12000,3,6.0,2.985,Training
+2026-09-16,Pasar Raya,Kopi Aren,10.0,7,12000,3,3.0,2.492,Training
+2026-09-17,Pasar Raya,Kopi Aren,15.0,11,12000,4,3.0,3.475,Training
+2026-09-18,Pasar Raya,Kopi Aren,7.0,5,12000,2,4.0,3.178,Training
+2026-09-19,Pasar Raya,Kopi Aren,7.0,4,12000,3,2.0,3.04,Training
+2026-09-20,Pasar Raya,Kopi Aren,15.0,10,12000,5,3.0,3.427,Training
+2026-09-21,Pasar Raya,Kopi Aren,5.0,5,12000,0,5.0,1.846,Training
+2026-09-23,Pasar Raya,Kopi Aren,7.0,6,12000,1,0.0,1.151,Validation
+2026-09-24,Pasar Raya,Kopi Aren,10.0,5,12000,5,1.0,1.799,Validation
+2026-09-26,Pasar Raya,Kopi Aren,10.0,6,12000,4,5.0,3.621,Validation
+2026-09-27,Pasar Raya,Kopi Aren,10.0,10,12000,0,4.0,3.066,Validation
+2026-09-28,Pasar Raya,Kopi Aren,5.0,3,12000,2,0.0,1.777,Testing
+2026-09-30,Pasar Raya,Kopi Aren,7.0,2,12000,5,2.0,2.089,Testing
+2026-10-01,Pasar Raya,Kopi Aren,7.0,6,12000,1,5.0,3.261,Testing
+2026-10-02,Pasar Raya,Kopi Aren,7.0,5,12000,2,1.0,2.017,Testing
+2026-09-03,Pasar Raya,Kopi Butterscotch,7.0,2,13000,5,5.0,5.022,Training
+2026-09-05,Pasar Raya,Kopi Butterscotch,10.0,6,13000,4,5.0,5.478,Training
+2026-09-07,Pasar Raya,Kopi Butterscotch,7.0,6,13000,1,4.0,2.254,Training
+2026-09-09,Pasar Raya,Kopi Butterscotch,15.0,12,13000,3,1.0,3.605,Training
+2026-09-10,Pasar Raya,Kopi Butterscotch,7.0,3,13000,4,3.0,4.619,Training
+2026-09-11,Pasar Raya,Kopi Butterscotch,10.0,1,13000,9,4.0,5.292,Training
+2026-09-12,Pasar Raya,Kopi Butterscotch,7.0,3,13000,4,9.0,5.529,Training
+2026-09-13,Pasar Raya,Kopi Butterscotch,7.0,3,13000,4,4.0,4.331,Training
+2026-09-14,Pasar Raya,Kopi Butterscotch,7.0,5,13000,2,4.0,2.254,Training
+2026-09-16,Pasar Raya,Kopi Butterscotch,5.0,4,13000,1,2.0,2.481,Training
+2026-09-17,Pasar Raya,Kopi Butterscotch,15.0,7,13000,8,1.0,4.262,Training
+2026-09-18,Pasar Raya,Kopi Butterscotch,5.0,1,13000,4,8.0,4.704,Training
+2026-09-19,Pasar Raya,Kopi Butterscotch,7.0,0,13000,7,4.0,5.297,Training
+2026-09-20,Pasar Raya,Kopi Butterscotch,10.0,8,13000,2,7.0,4.944,Training
+2026-09-21,Pasar Raya,Kopi Butterscotch,5.0,5,13000,0,2.0,1.872,Training
+2026-09-23,Pasar Raya,Kopi Butterscotch,5.0,2,13000,3,0.0,3.366,Validation
+2026-09-24,Pasar Raya,Kopi Butterscotch,10.0,6,13000,4,3.0,4.619,Validation
+2026-09-26,Pasar Raya,Kopi Butterscotch,10.0,9,13000,1,4.0,5.297,Validation
+2026-09-27,Pasar Raya,Kopi Butterscotch,10.0,10,13000,0,1.0,4.065,Validation
+2026-09-28,Pasar Raya,Kopi Butterscotch,7.0,4,13000,3,0.0,2.895,Testing
+2026-09-30,Pasar Raya,Kopi Butterscotch,10.0,0,13000,10,3.0,2.986,Testing
+2026-10-01,Pasar Raya,Kopi Butterscotch,10.0,5,13000,5,10.0,8.743,Testing
+2026-10-02,Pasar Raya,Kopi Butterscotch,10.0,4,13000,6,5.0,5.421,Testing
+2026-09-03,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.655,Training
+2026-09-05,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.54,Training
+2026-09-07,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.44,Training
+2026-09-09,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.528,Training
+2026-09-10,Pasar Raya,Kopi Caramel,5.0,4,13000,1,0.0,0.655,Training
+2026-09-11,Pasar Raya,Kopi Caramel,5.0,4,13000,1,1.0,1.056,Training
+2026-09-12,Pasar Raya,Kopi Caramel,5.0,4,13000,1,1.0,1.198,Training
+2026-09-13,Pasar Raya,Kopi Caramel,5.0,4,13000,1,1.0,0.877,Training
+2026-09-14,Pasar Raya,Kopi Caramel,5.0,2,13000,3,1.0,1.413,Training
+2026-09-16,Pasar Raya,Kopi Caramel,5.0,4,13000,1,3.0,1.948,Training
+2026-09-17,Pasar Raya,Kopi Caramel,5.0,5,13000,0,1.0,0.959,Training
+2026-09-18,Pasar Raya,Kopi Caramel,5.0,3,13000,2,0.0,0.783,Training
+2026-09-19,Pasar Raya,Kopi Caramel,5.0,5,13000,0,2.0,1.181,Training
+2026-09-20,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.375,Training
+2026-09-21,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.44,Training
+2026-09-23,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.528,Validation
+2026-09-24,Pasar Raya,Kopi Caramel,5.0,4,13000,1,0.0,0.655,Validation
+2026-09-26,Pasar Raya,Kopi Caramel,5.0,5,13000,0,1.0,1.198,Validation
+2026-09-27,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.375,Validation
+2026-09-28,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.44,Testing
+2026-09-30,Pasar Raya,Kopi Caramel,5.0,5,13000,0,0.0,0.528,Testing
+2026-10-01,Pasar Raya,Kopi Caramel,5.0,3,13000,2,0.0,0.655,Testing
+2026-10-02,Pasar Raya,Kopi Caramel,5.0,3,13000,2,2.0,0.947,Testing
+2026-09-03,Pasar Raya,Kopi Susu,30.0,12,10000,18,20.0,17.091,Training
+2026-09-05,Pasar Raya,Kopi Susu,35.0,4,10000,31,18.0,20.641,Training
+2026-09-07,Pasar Raya,Kopi Susu,30.0,16,10000,14,31.0,18.61,Training
+2026-09-09,Pasar Raya,Kopi Susu,20.0,7,10000,13,14.0,15.492,Training
+2026-09-10,Pasar Raya,Kopi Susu,30.0,12,10000,18,13.0,16.398,Training
+2026-09-11,Pasar Raya,Kopi Susu,25.0,6,10000,19,18.0,19.159,Training
+2026-09-12,Pasar Raya,Kopi Susu,25.0,3,10000,22,19.0,20.836,Training
+2026-09-13,Pasar Raya,Kopi Susu,30.0,13,10000,17,22.0,17.474,Training
+2026-09-14,Pasar Raya,Kopi Susu,35.0,15,10000,20,17.0,17.094,Training
+2026-09-16,Pasar Raya,Kopi Susu,30.0,12,10000,18,20.0,17.186,Training
+2026-09-17,Pasar Raya,Kopi Susu,30.0,17,10000,13,18.0,17.65,Training
+2026-09-18,Pasar Raya,Kopi Susu,35.0,14,10000,21,13.0,18.094,Training
+2026-09-19,Pasar Raya,Kopi Susu,25.0,10,10000,15,21.0,19.085,Training
+2026-09-20,Pasar Raya,Kopi Susu,25.0,9,10000,16,15.0,15.503,Training
+2026-09-21,Pasar Raya,Kopi Susu,30.0,10,10000,20,16.0,16.388,Training
+2026-09-23,Pasar Raya,Kopi Susu,35.0,17,10000,18,20.0,17.186,Validation
+2026-09-24,Pasar Raya,Kopi Susu,35.0,13,10000,22,18.0,17.65,Validation
+2026-09-26,Pasar Raya,Kopi Susu,30.0,6,10000,24,22.0,19.202,Validation
+2026-09-27,Pasar Raya,Kopi Susu,30.0,22,10000,8,24.0,19.306,Validation
+2026-09-28,Pasar Raya,Kopi Susu,25.0,5,10000,20,8.0,10.234,Testing
+2026-09-30,Pasar Raya,Kopi Susu,30.0,14,10000,16,20.0,17.186,Testing
+2026-10-01,Pasar Raya,Kopi Susu,30.0,13,10000,17,16.0,16.722,Testing
+2026-10-02,Pasar Raya,Kopi Susu,30.0,11,10000,19,17.0,18.472,Testing
+2026-09-03,Pasar Raya,Lychee tea,2.0,2,10000,0,1.0,0.741,Training
+2026-09-05,Pasar Raya,Lychee tea,2.0,1,10000,1,0.0,0.847,Training
+2026-09-07,Pasar Raya,Lychee tea,2.0,0,10000,2,1.0,0.788,Training
+2026-09-09,Pasar Raya,Lychee tea,0.0,0,10000,0,2.0,0.601,Training
+2026-09-10,Pasar Raya,Lychee tea,2.0,1,10000,1,0.0,0.652,Training
+2026-09-11,Pasar Raya,Lychee tea,0.0,0,10000,0,1.0,0.993,Training
+2026-09-12,Pasar Raya,Lychee tea,2.0,1,10000,1,0.0,0.847,Training
+2026-09-13,Pasar Raya,Lychee tea,2.0,2,10000,0,1.0,0.879,Training
+2026-09-14,Pasar Raya,Lychee tea,0.0,0,10000,0,0.0,0.592,Training
+2026-09-16,Pasar Raya,Lychee tea,0.0,0,10000,0,0.0,0.542,Training
+2026-09-17,Pasar Raya,Lychee tea,2.0,1,10000,1,0.0,0.652,Training
+2026-09-18,Pasar Raya,Lychee tea,5.0,2,10000,3,1.0,0.993,Training
+2026-09-19,Pasar Raya,Lychee tea,2.0,0,10000,2,3.0,3.619,Training
+2026-09-20,Pasar Raya,Lychee tea,2.0,1,10000,1,2.0,0.89,Training
+2026-09-21,Pasar Raya,Lychee tea,2.0,1,10000,1,1.0,0.788,Training
+2026-09-23,Pasar Raya,Lychee tea,2.0,2,10000,0,1.0,0.68,Validation
+2026-09-24,Pasar Raya,Lychee tea,2.0,1,10000,1,0.0,0.652,Validation
+2026-09-26,Pasar Raya,Lychee tea,5.0,0,10000,5,1.0,0.977,Validation
+2026-09-27,Pasar Raya,Lychee tea,0.0,0,10000,0,5.0,3.22,Validation
+2026-09-28,Pasar Raya,Lychee tea,2.0,2,10000,0,0.0,0.592,Testing
+2026-09-30,Pasar Raya,Lychee tea,2.0,2,10000,0,0.0,0.542,Testing
+2026-10-01,Pasar Raya,Lychee tea,2.0,1,10000,1,0.0,0.652,Testing
+2026-10-02,Pasar Raya,Lychee tea,2.0,2,10000,0,1.0,0.993,Testing
+2026-09-03,Pasar Raya,Matcha,5.0,5,15000,0,1.0,0.61,Training
+2026-09-05,Pasar Raya,Matcha,5.0,4,15000,1,0.0,0.465,Training
+2026-09-07,Pasar Raya,Matcha,5.0,4,15000,1,1.0,1.228,Training
+2026-09-09,Pasar Raya,Matcha,5.0,4,15000,1,1.0,0.917,Training
+2026-09-10,Pasar Raya,Matcha,5.0,5,15000,0,1.0,0.61,Training
+2026-09-11,Pasar Raya,Matcha,5.0,5,15000,0,0.0,0.499,Training
+2026-09-12,Pasar Raya,Matcha,5.0,5,15000,0,0.0,0.465,Training
+2026-09-13,Pasar Raya,Matcha,5.0,5,15000,0,0.0,0.464,Training
+2026-09-14,Pasar Raya,Matcha,5.0,5,15000,0,0.0,0.318,Training
+2026-09-16,Pasar Raya,Matcha,4.0,4,15000,0,0.0,0.569,Training
+2026-09-17,Pasar Raya,Matcha,5.0,4,15000,1,0.0,0.565,Training
+2026-09-18,Pasar Raya,Matcha,5.0,4,15000,1,1.0,0.885,Training
+2026-09-19,Pasar Raya,Matcha,5.0,5,15000,0,1.0,0.838,Training
+2026-09-20,Pasar Raya,Matcha,5.0,4,15000,1,0.0,0.464,Training
+2026-09-21,Pasar Raya,Matcha,5.0,2,15000,3,1.0,1.228,Training
+2026-09-23,Pasar Raya,Matcha,4.0,3,15000,1,3.0,2.131,Validation
+2026-09-24,Pasar Raya,Matcha,5.0,4,15000,1,1.0,0.61,Validation
+2026-09-26,Pasar Raya,Matcha,5.0,4,15000,1,1.0,0.838,Validation
+2026-09-27,Pasar Raya,Matcha,4.0,4,15000,0,1.0,0.689,Validation
+2026-09-28,Pasar Raya,Matcha,5.0,5,15000,0,0.0,0.318,Testing
+2026-09-30,Pasar Raya,Matcha,5.0,5,15000,0,0.0,0.569,Testing
+2026-10-01,Pasar Raya,Matcha,5.0,4,15000,1,0.0,0.565,Testing
+2026-10-02,Pasar Raya,Matcha,5.0,4,15000,1,1.0,0.885,Testing
+2026-09-02,SD Min,A. Americano,2.0,2,15000,0,1.0,0.771,Training
+2026-09-03,SD Min,A. Americano,2.0,1,15000,1,0.0,0.925,Training
+2026-09-04,SD Min,A. Americano,2.0,1,15000,1,1.0,1.21,Training
+2026-09-05,SD Min,A. Americano,2.0,2,15000,0,1.0,0.893,Training
+2026-09-06,SD Min,A. Americano,2.0,1,15000,1,0.0,0.858,Training
+2026-09-07,SD Min,A. Americano,2.0,2,15000,0,1.0,0.603,Training
+2026-09-08,SD Min,A. Americano,2.0,1,15000,1,0.0,0.887,Training
+2026-09-09,SD Min,A. Americano,2.0,2,15000,0,1.0,0.771,Training
+2026-09-10,SD Min,A. Americano,2.0,1,15000,1,0.0,0.925,Training
+2026-09-11,SD Min,A. Americano,2.0,1,15000,1,1.0,1.21,Training
+2026-09-12,SD Min,A. Americano,2.0,1,15000,1,1.0,0.893,Training
+2026-09-13,SD Min,A. Americano,2.0,1,15000,1,1.0,0.815,Training
+2026-09-14,SD Min,A. Americano,2.0,2,15000,0,1.0,0.603,Training
+2026-09-15,SD Min,A. Americano,2.0,1,15000,1,0.0,0.887,Training
+2026-09-16,SD Min,A. Americano,2.0,0,15000,2,1.0,0.771,Training
+2026-09-17,SD Min,A. Americano,2.0,1,15000,1,2.0,0.865,Training
+2026-09-18,SD Min,A. Americano,2.0,0,15000,2,1.0,1.21,Training
+2026-09-19,SD Min,A. Americano,2.0,1,15000,1,2.0,0.886,Training
+2026-09-20,SD Min,A. Americano,2.0,1,15000,1,1.0,0.815,Training
+2026-09-21,SD Min,A. Americano,2.0,1,15000,1,1.0,0.603,Training
+2026-09-22,SD Min,A. Americano,2.0,0,15000,2,1.0,1.065,Training
+2026-09-23,SD Min,A. Americano,2.0,1,15000,1,2.0,0.731,Validation
+2026-09-24,SD Min,A. Americano,2.0,2,15000,0,1.0,0.846,Validation
+2026-09-25,SD Min,A. Americano,2.0,2,15000,0,0.0,1.102,Validation
+2026-09-26,SD Min,A. Americano,2.0,2,15000,0,0.0,1.017,Validation
+2026-09-27,SD Min,A. Americano,2.0,2,15000,0,0.0,0.858,Validation
+2026-09-28,SD Min,A. Americano,2.0,2,15000,0,0.0,0.632,Testing
+2026-09-29,SD Min,A. Americano,2.0,1,15000,1,0.0,0.887,Testing
+2026-09-30,SD Min,A. Americano,2.0,0,15000,2,1.0,0.771,Testing
+2026-10-01,SD Min,A. Americano,2.0,1,15000,1,2.0,0.865,Testing
+2026-10-02,SD Min,A. Americano,2.0,0,15000,2,1.0,1.21,Testing
+2026-09-02,SD Min,Americano,2.0,0,10000,2,1.0,0.901,Training
+2026-09-03,SD Min,Americano,2.0,1,10000,1,2.0,0.853,Training
+2026-09-04,SD Min,Americano,2.0,1,10000,1,1.0,1.382,Training
+2026-09-05,SD Min,Americano,2.0,0,10000,2,1.0,1.335,Training
+2026-09-06,SD Min,Americano,2.0,2,10000,0,2.0,0.731,Training
+2026-09-07,SD Min,Americano,2.0,1,10000,1,0.0,0.726,Training
+2026-09-08,SD Min,Americano,2.0,2,10000,0,1.0,0.77,Training
+2026-09-09,SD Min,Americano,2.0,2,10000,0,0.0,0.475,Training
+2026-09-10,SD Min,Americano,2.0,2,10000,0,0.0,0.564,Training
+2026-09-11,SD Min,Americano,2.0,0,10000,2,0.0,1.464,Training
+2026-09-12,SD Min,Americano,2.0,1,10000,1,2.0,1.13,Training
+2026-09-13,SD Min,Americano,2.0,2,10000,0,1.0,0.951,Training
+2026-09-14,SD Min,Americano,2.0,1,10000,1,0.0,0.726,Training
+2026-09-15,SD Min,Americano,2.0,2,10000,0,1.0,0.77,Training
+2026-09-16,SD Min,Americano,2.0,2,10000,0,0.0,0.475,Training
+2026-09-17,SD Min,Americano,2.0,2,10000,0,0.0,0.564,Training
+2026-09-18,SD Min,Americano,2.0,0,10000,2,0.0,1.464,Training
+2026-09-19,SD Min,Americano,2.0,1,10000,1,2.0,1.13,Training
+2026-09-20,SD Min,Americano,2.0,0,10000,2,1.0,0.951,Training
+2026-09-21,SD Min,Americano,2.0,1,10000,1,2.0,0.828,Training
+2026-09-22,SD Min,Americano,2.0,1,10000,1,1.0,0.77,Training
+2026-09-23,SD Min,Americano,2.0,1,10000,1,1.0,0.901,Validation
+2026-09-24,SD Min,Americano,2.0,0,10000,2,1.0,0.875,Validation
+2026-09-25,SD Min,Americano,2.0,2,10000,0,2.0,1.15,Validation
+2026-09-26,SD Min,Americano,2.0,1,10000,1,0.0,1.355,Validation
+2026-09-27,SD Min,Americano,2.0,1,10000,1,1.0,0.951,Validation
+2026-09-28,SD Min,Americano,2.0,1,10000,1,1.0,0.805,Testing
+2026-09-29,SD Min,Americano,2.0,1,10000,1,1.0,0.77,Testing
+2026-09-30,SD Min,Americano,2.0,1,10000,1,1.0,0.901,Testing
+2026-10-01,SD Min,Americano,2.0,2,10000,0,1.0,0.875,Testing
+2026-10-02,SD Min,Americano,2.0,1,10000,1,0.0,1.464,Testing
+2026-09-02,SD Min,Chocolate,2.0,2,15000,0,0.0,0.49,Training
+2026-09-03,SD Min,Chocolate,2.0,1,15000,1,0.0,0.799,Training
+2026-09-04,SD Min,Chocolate,2.0,0,15000,2,1.0,0.86,Training
+2026-09-05,SD Min,Chocolate,2.0,2,15000,0,2.0,0.526,Training
+2026-09-06,SD Min,Chocolate,2.0,2,15000,0,0.0,0.527,Training
+2026-09-07,SD Min,Chocolate,2.0,2,15000,0,0.0,0.514,Training
+2026-09-08,SD Min,Chocolate,2.0,2,15000,0,0.0,0.494,Training
+2026-09-09,SD Min,Chocolate,2.0,1,15000,1,0.0,0.49,Training
+2026-09-10,SD Min,Chocolate,2.0,2,15000,0,1.0,0.595,Training
+2026-09-11,SD Min,Chocolate,2.0,2,15000,0,0.0,0.813,Training
+2026-09-12,SD Min,Chocolate,2.0,1,15000,1,0.0,0.924,Training
+2026-09-13,SD Min,Chocolate,2.0,2,15000,0,1.0,0.437,Training
+2026-09-14,SD Min,Chocolate,2.0,1,15000,1,0.0,0.514,Training
+2026-09-15,SD Min,Chocolate,2.0,1,15000,1,1.0,0.483,Training
+2026-09-16,SD Min,Chocolate,2.0,2,15000,0,1.0,0.371,Training
+2026-09-17,SD Min,Chocolate,2.0,1,15000,1,0.0,0.799,Training
+2026-09-18,SD Min,Chocolate,2.0,2,15000,0,1.0,0.86,Training
+2026-09-19,SD Min,Chocolate,2.0,0,15000,2,0.0,0.924,Training
+2026-09-20,SD Min,Chocolate,2.0,2,15000,0,2.0,0.35,Training
+2026-09-21,SD Min,Chocolate,2.0,1,15000,1,0.0,0.514,Training
+2026-09-22,SD Min,Chocolate,2.0,2,15000,0,1.0,0.483,Training
+2026-09-23,SD Min,Chocolate,2.0,1,15000,1,0.0,0.49,Validation
+2026-09-24,SD Min,Chocolate,2.0,0,15000,2,1.0,0.595,Validation
+2026-09-25,SD Min,Chocolate,2.0,2,15000,0,2.0,0.535,Validation
+2026-09-26,SD Min,Chocolate,2.0,1,15000,1,0.0,0.924,Validation
+2026-09-27,SD Min,Chocolate,2.0,2,15000,0,1.0,0.437,Validation
+2026-09-28,SD Min,Chocolate,2.0,2,15000,0,0.0,0.514,Testing
+2026-09-29,SD Min,Chocolate,2.0,1,15000,1,0.0,0.494,Testing
+2026-09-30,SD Min,Chocolate,2.0,2,15000,0,1.0,0.371,Testing
+2026-10-01,SD Min,Chocolate,2.0,1,15000,1,0.0,0.799,Testing
+2026-10-02,SD Min,Chocolate,2.0,1,15000,1,1.0,0.86,Testing
+2026-09-02,SD Min,Kopi Aren,5.0,2,12000,3,3.0,2.537,Training
+2026-09-03,SD Min,Kopi Aren,5.0,2,12000,3,3.0,2.827,Training
+2026-09-04,SD Min,Kopi Aren,7.0,3,12000,4,3.0,2.631,Training
+2026-09-05,SD Min,Kopi Aren,5.0,2,12000,3,4.0,2.79,Training
+2026-09-06,SD Min,Kopi Aren,7.0,5,12000,2,3.0,2.555,Training
+2026-09-07,SD Min,Kopi Aren,7.0,4,12000,3,2.0,2.866,Training
+2026-09-08,SD Min,Kopi Aren,5.0,1,12000,4,3.0,2.707,Training
+2026-09-09,SD Min,Kopi Aren,5.0,4,12000,1,4.0,2.263,Training
+2026-09-10,SD Min,Kopi Aren,5.0,3,12000,2,1.0,2.474,Training
+2026-09-11,SD Min,Kopi Aren,5.0,2,12000,3,2.0,3.07,Training
+2026-09-12,SD Min,Kopi Aren,5.0,1,12000,4,3.0,3.137,Training
+2026-09-13,SD Min,Kopi Aren,5.0,4,12000,1,4.0,2.102,Training
+2026-09-14,SD Min,Kopi Aren,7.0,3,12000,4,1.0,2.634,Training
+2026-09-15,SD Min,Kopi Aren,5.0,3,12000,2,4.0,2.426,Training
+2026-09-16,SD Min,Kopi Aren,5.0,1,12000,4,2.0,2.786,Training
+2026-09-17,SD Min,Kopi Aren,7.0,4,12000,3,4.0,2.604,Training
+2026-09-18,SD Min,Kopi Aren,5.0,4,12000,1,3.0,2.631,Training
+2026-09-19,SD Min,Kopi Aren,5.0,2,12000,3,1.0,2.508,Training
+2026-09-20,SD Min,Kopi Aren,5.0,1,12000,4,3.0,2.555,Training
+2026-09-21,SD Min,Kopi Aren,5.0,2,12000,3,4.0,2.34,Training
+2026-09-22,SD Min,Kopi Aren,5.0,4,12000,1,3.0,2.707,Training
+2026-09-23,SD Min,Kopi Aren,5.0,4,12000,1,1.0,2.306,Validation
+2026-09-24,SD Min,Kopi Aren,5.0,3,12000,2,1.0,2.474,Validation
+2026-09-25,SD Min,Kopi Aren,5.0,2,12000,3,2.0,3.07,Validation
+2026-09-26,SD Min,Kopi Aren,5.0,4,12000,1,3.0,3.137,Validation
+2026-09-27,SD Min,Kopi Aren,5.0,5,12000,0,1.0,2.327,Validation
+2026-09-28,SD Min,Kopi Aren,5.0,5,12000,0,0.0,2.551,Testing
+2026-09-29,SD Min,Kopi Aren,5.0,3,12000,2,0.0,2.282,Testing
+2026-09-30,SD Min,Kopi Aren,5.0,1,12000,4,2.0,2.786,Testing
+2026-10-01,SD Min,Kopi Aren,5.0,0,12000,5,4.0,2.604,Testing
+2026-10-02,SD Min,Kopi Aren,7.0,0,12000,7,5.0,3.025,Testing
+2026-09-02,SD Min,Kopi Butterscotch,10.0,7,13000,3,5.0,3.062,Training
+2026-09-03,SD Min,Kopi Butterscotch,8.0,2,13000,6,3.0,4.147,Training
+2026-09-04,SD Min,Kopi Butterscotch,7.0,4,13000,3,6.0,5.146,Training
+2026-09-05,SD Min,Kopi Butterscotch,7.0,4,13000,3,3.0,4.091,Training
+2026-09-06,SD Min,Kopi Butterscotch,7.0,2,13000,5,3.0,3.233,Training
+2026-09-07,SD Min,Kopi Butterscotch,7.0,6,13000,1,5.0,2.506,Training
+2026-09-08,SD Min,Kopi Butterscotch,7.0,4,13000,3,1.0,4.195,Training
+2026-09-09,SD Min,Kopi Butterscotch,7.0,3,13000,4,3.0,3.429,Training
+2026-09-10,SD Min,Kopi Butterscotch,8.0,4,13000,4,4.0,3.82,Training
+2026-09-11,SD Min,Kopi Butterscotch,7.0,3,13000,4,4.0,3.839,Training
+2026-09-12,SD Min,Kopi Butterscotch,8.0,4,13000,4,4.0,3.812,Training
+2026-09-13,SD Min,Kopi Butterscotch,8.0,7,13000,1,4.0,2.838,Training
+2026-09-14,SD Min,Kopi Butterscotch,7.0,3,13000,4,1.0,3.851,Training
+2026-09-15,SD Min,Kopi Butterscotch,7.0,5,13000,2,4.0,2.638,Training
+2026-09-16,SD Min,Kopi Butterscotch,10.0,3,13000,7,2.0,3.906,Training
+2026-09-17,SD Min,Kopi Butterscotch,8.0,3,13000,5,7.0,5.683,Training
+2026-09-18,SD Min,Kopi Butterscotch,8.0,1,13000,7,5.0,4.85,Training
+2026-09-19,SD Min,Kopi Butterscotch,8.0,0,13000,8,7.0,7.099,Training
+2026-09-20,SD Min,Kopi Butterscotch,7.0,3,13000,4,8.0,5.722,Training
+2026-09-21,SD Min,Kopi Butterscotch,7.0,5,13000,2,4.0,2.29,Training
+2026-09-22,SD Min,Kopi Butterscotch,8.0,3,13000,5,2.0,3.7,Training
+2026-09-23,SD Min,Kopi Butterscotch,8.0,4,13000,4,5.0,3.062,Validation
+2026-09-24,SD Min,Kopi Butterscotch,10.0,3,13000,7,4.0,3.82,Validation
+2026-09-25,SD Min,Kopi Butterscotch,7.0,3,13000,4,7.0,5.929,Validation
+2026-09-26,SD Min,Kopi Butterscotch,7.0,4,13000,3,4.0,3.812,Validation
+2026-09-27,SD Min,Kopi Butterscotch,7.0,6,13000,1,3.0,3.233,Validation
+2026-09-28,SD Min,Kopi Butterscotch,8.0,6,13000,2,1.0,3.851,Testing
+2026-09-29,SD Min,Kopi Butterscotch,8.0,6,13000,2,2.0,3.7,Testing
+2026-09-30,SD Min,Kopi Butterscotch,8.0,4,13000,4,2.0,3.906,Testing
+2026-10-01,SD Min,Kopi Butterscotch,8.0,0,13000,8,4.0,3.82,Testing
+2026-10-02,SD Min,Kopi Butterscotch,10.0,0,13000,10,8.0,5.464,Testing
+2026-09-02,SD Min,Kopi Caramel,5.0,5,13000,0,1.0,1.403,Training
+2026-09-03,SD Min,Kopi Caramel,5.0,2,13000,3,0.0,2.672,Training
+2026-09-04,SD Min,Kopi Caramel,5.0,3,13000,2,3.0,2.108,Training
+2026-09-05,SD Min,Kopi Caramel,5.0,1,13000,4,2.0,2.284,Training
+2026-09-06,SD Min,Kopi Caramel,5.0,3,13000,2,4.0,1.805,Training
+2026-09-07,SD Min,Kopi Caramel,5.0,5,13000,0,2.0,1.292,Training
+2026-09-08,SD Min,Kopi Caramel,5.0,0,13000,5,0.0,2.512,Training
+2026-09-09,SD Min,Kopi Caramel,5.0,4,13000,1,5.0,1.786,Training
+2026-09-10,SD Min,Kopi Caramel,5.0,5,13000,0,1.0,1.875,Training
+2026-09-11,SD Min,Kopi Caramel,5.0,1,13000,4,0.0,2.85,Training
+2026-09-12,SD Min,Kopi Caramel,5.0,3,13000,2,4.0,2.277,Training
+2026-09-13,SD Min,Kopi Caramel,5.0,2,13000,3,2.0,1.974,Training
+2026-09-14,SD Min,Kopi Caramel,5.0,2,13000,3,3.0,2.371,Training
+2026-09-15,SD Min,Kopi Caramel,5.0,2,13000,3,3.0,2.407,Training
+2026-09-16,SD Min,Kopi Caramel,5.0,4,13000,1,3.0,2.079,Training
+2026-09-17,SD Min,Kopi Caramel,5.0,1,13000,4,1.0,1.875,Training
+2026-09-18,SD Min,Kopi Caramel,5.0,5,13000,0,4.0,1.844,Training
+2026-09-19,SD Min,Kopi Caramel,5.0,3,13000,2,0.0,2.727,Training
+2026-09-20,SD Min,Kopi Caramel,5.0,4,13000,1,2.0,1.974,Training
+2026-09-21,SD Min,Kopi Caramel,5.0,4,13000,1,1.0,1.374,Training
+2026-09-22,SD Min,Kopi Caramel,5.0,3,13000,2,1.0,1.575,Training
+2026-09-23,SD Min,Kopi Caramel,5.0,5,13000,0,2.0,1.391,Validation
+2026-09-24,SD Min,Kopi Caramel,5.0,4,13000,1,0.0,2.672,Validation
+2026-09-25,SD Min,Kopi Caramel,5.0,3,13000,2,1.0,2.079,Validation
+2026-09-26,SD Min,Kopi Caramel,5.0,5,13000,0,2.0,2.284,Validation
+2026-09-27,SD Min,Kopi Caramel,5.0,5,13000,0,0.0,2.326,Validation
+2026-09-28,SD Min,Kopi Caramel,5.0,5,13000,0,0.0,2.197,Testing
+2026-09-29,SD Min,Kopi Caramel,5.0,5,13000,0,0.0,2.512,Testing
+2026-09-30,SD Min,Kopi Caramel,5.0,3,13000,2,0.0,2.394,Testing
+2026-10-01,SD Min,Kopi Caramel,5.0,0,13000,5,2.0,1.849,Testing
+2026-10-02,SD Min,Kopi Caramel,5.0,0,13000,5,5.0,2.83,Testing
+2026-09-02,SD Min,Kopi Susu,15.0,9,10000,6,15.0,10.828,Training
+2026-09-03,SD Min,Kopi Susu,15.0,4,10000,11,6.0,10.209,Training
+2026-09-04,SD Min,Kopi Susu,30.0,4,10000,26,11.0,17.284,Training
+2026-09-05,SD Min,Kopi Susu,35.0,6,10000,29,26.0,20.686,Training
+2026-09-06,SD Min,Kopi Susu,15.0,11,10000,4,29.0,16.736,Training
+2026-09-07,SD Min,Kopi Susu,15.0,12,10000,3,4.0,7.151,Training
+2026-09-08,SD Min,Kopi Susu,10.0,2,10000,8,3.0,7.663,Training
+2026-09-09,SD Min,Kopi Susu,20.0,8,10000,12,8.0,10.72,Training
+2026-09-10,SD Min,Kopi Susu,15.0,5,10000,10,12.0,13.872,Training
+2026-09-11,SD Min,Kopi Susu,15.0,1,10000,14,10.0,16.822,Training
+2026-09-12,SD Min,Kopi Susu,20.0,3,10000,17,14.0,15.867,Training
+2026-09-13,SD Min,Kopi Susu,15.0,9,10000,6,17.0,11.034,Training
+2026-09-14,SD Min,Kopi Susu,20.0,13,10000,7,6.0,7.695,Training
+2026-09-15,SD Min,Kopi Susu,15.0,5,10000,10,7.0,9.572,Training
+2026-09-16,SD Min,Kopi Susu,15.0,8,10000,7,10.0,13.232,Training
+2026-09-17,SD Min,Kopi Susu,20.0,5,10000,15,7.0,11.621,Training
+2026-09-18,SD Min,Kopi Susu,15.0,3,10000,12,15.0,14.777,Training
+2026-09-19,SD Min,Kopi Susu,25.0,5,10000,20,12.0,16.953,Training
+2026-09-20,SD Min,Kopi Susu,30.0,12,10000,18,20.0,14.722,Training
+2026-09-21,SD Min,Kopi Susu,25.0,15,10000,10,18.0,13.881,Training
+2026-09-22,SD Min,Kopi Susu,35.0,12,10000,23,10.0,12.215,Training
+2026-09-23,SD Min,Kopi Susu,10.0,5,10000,5,23.0,18.076,Validation
+2026-09-24,SD Min,Kopi Susu,20.0,11,10000,9,5.0,9.611,Validation
+2026-09-25,SD Min,Kopi Susu,15.0,2,10000,13,9.0,12.318,Validation
+2026-09-26,SD Min,Kopi Susu,15.0,7,10000,8,13.0,17.17,Validation
+2026-09-27,SD Min,Kopi Susu,15.0,10,10000,5,8.0,9.278,Validation
+2026-09-28,SD Min,Kopi Susu,20.0,14,10000,6,5.0,7.176,Testing
+2026-09-29,SD Min,Kopi Susu,20.0,17,10000,3,6.0,8.505,Testing
+2026-09-30,SD Min,Kopi Susu,15.0,0,10000,15,3.0,8.416,Testing
+2026-10-01,SD Min,Kopi Susu,15.0,0,10000,15,15.0,12.465,Testing
+2026-10-02,SD Min,Kopi Susu,30.0,0,10000,30,15.0,14.777,Testing
+2026-09-02,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.124,Training
+2026-09-03,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.224,Training
+2026-09-04,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.125,Training
+2026-09-05,SD Min,Lychee tea,1.0,1,10000,0,0.0,0.172,Training
+2026-09-06,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.13,Training
+2026-09-07,SD Min,Lychee tea,2.0,1,10000,1,0.0,0.418,Training
+2026-09-08,SD Min,Lychee tea,2.0,2,10000,0,1.0,0.408,Training
+2026-09-09,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.124,Training
+2026-09-10,SD Min,Lychee tea,0.0,0,10000,0,0.0,0.224,Training
+2026-09-11,SD Min,Lychee tea,1.0,1,10000,0,0.0,0.125,Training
+2026-09-12,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.172,Training
+2026-09-13,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.13,Training
+2026-09-14,SD Min,Lychee tea,1.0,0,10000,1,0.0,0.418,Training
+2026-09-15,SD Min,Lychee tea,2.0,1,10000,1,1.0,0.408,Training
+2026-09-16,SD Min,Lychee tea,2.0,2,10000,0,1.0,0.235,Training
+2026-09-17,SD Min,Lychee tea,1.0,0,10000,1,0.0,0.224,Training
+2026-09-18,SD Min,Lychee tea,0.0,0,10000,0,1.0,0.271,Training
+2026-09-19,SD Min,Lychee tea,2.0,1,10000,1,0.0,0.172,Training
+2026-09-20,SD Min,Lychee tea,2.0,2,10000,0,1.0,0.165,Training
+2026-09-21,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.418,Training
+2026-09-22,SD Min,Lychee tea,1.0,1,10000,0,0.0,0.298,Training
+2026-09-23,SD Min,Lychee tea,1.0,1,10000,0,0.0,0.124,Validation
+2026-09-24,SD Min,Lychee tea,2.0,0,10000,2,0.0,0.224,Validation
+2026-09-25,SD Min,Lychee tea,2.0,2,10000,0,2.0,0.313,Validation
+2026-09-26,SD Min,Lychee tea,1.0,1,10000,0,0.0,0.172,Validation
+2026-09-27,SD Min,Lychee tea,0.0,0,10000,0,0.0,0.13,Validation
+2026-09-28,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.418,Testing
+2026-09-29,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.298,Testing
+2026-09-30,SD Min,Lychee tea,2.0,1,10000,1,0.0,0.124,Testing
+2026-10-01,SD Min,Lychee tea,2.0,2,10000,0,1.0,0.318,Testing
+2026-10-02,SD Min,Lychee tea,2.0,2,10000,0,0.0,0.125,Testing
+2026-09-02,SD Min,Matcha,4.0,3,15000,1,1.0,1.347,Training
+2026-09-03,SD Min,Matcha,3.0,3,15000,0,1.0,1.009,Training
+2026-09-04,SD Min,Matcha,4.0,4,15000,0,0.0,1.165,Training
+2026-09-05,SD Min,Matcha,3.0,1,15000,2,0.0,1.189,Training
+2026-09-06,SD Min,Matcha,5.0,4,15000,1,2.0,1.052,Training
+2026-09-07,SD Min,Matcha,4.0,4,15000,0,1.0,1.0,Training
+2026-09-08,SD Min,Matcha,4.0,4,15000,0,0.0,0.909,Training
+2026-09-09,SD Min,Matcha,5.0,3,15000,2,0.0,1.105,Training
+2026-09-10,SD Min,Matcha,4.0,3,15000,1,2.0,1.037,Training
+2026-09-11,SD Min,Matcha,4.0,3,15000,1,1.0,1.606,Training
+2026-09-12,SD Min,Matcha,3.0,3,15000,0,1.0,1.156,Training
+2026-09-13,SD Min,Matcha,4.0,3,15000,1,0.0,0.958,Training
+2026-09-14,SD Min,Matcha,3.0,1,15000,2,1.0,1.0,Training
+2026-09-15,SD Min,Matcha,3.0,2,15000,1,2.0,1.349,Training
+2026-09-16,SD Min,Matcha,4.0,2,15000,2,1.0,1.347,Training
+2026-09-17,SD Min,Matcha,3.0,2,15000,1,2.0,1.037,Training
+2026-09-18,SD Min,Matcha,4.0,0,15000,4,1.0,1.606,Training
+2026-09-19,SD Min,Matcha,3.0,0,15000,3,4.0,2.663,Training
+2026-09-20,SD Min,Matcha,4.0,2,15000,2,3.0,2.355,Training
+2026-09-21,SD Min,Matcha,4.0,3,15000,1,2.0,0.981,Training
+2026-09-22,SD Min,Matcha,4.0,2,15000,2,1.0,1.553,Training
+2026-09-23,SD Min,Matcha,3.0,3,15000,0,2.0,1.19,Validation
+2026-09-24,SD Min,Matcha,4.0,4,15000,0,0.0,0.99,Validation
+2026-09-25,SD Min,Matcha,4.0,2,15000,2,0.0,1.165,Validation
+2026-09-26,SD Min,Matcha,3.0,1,15000,2,2.0,1.303,Validation
+2026-09-27,SD Min,Matcha,3.0,2,15000,1,2.0,1.052,Validation
+2026-09-28,SD Min,Matcha,4.0,3,15000,1,1.0,1.0,Testing
+2026-09-29,SD Min,Matcha,4.0,4,15000,0,1.0,1.553,Testing
+2026-09-30,SD Min,Matcha,4.0,4,15000,0,0.0,1.105,Testing
+2026-10-01,SD Min,Matcha,4.0,3,15000,1,0.0,0.99,Testing
+2026-10-02,SD Min,Matcha,5.0,4,15000,1,1.0,1.606,Testing
+2026-09-03,Tuk-Tuk,A. Americano,1.0,1,15000,0,1.0,0.464,Training
+2026-09-04,Tuk-Tuk,A. Americano,2.0,1,15000,1,0.0,1.042,Training
+2026-09-06,Tuk-Tuk,A. Americano,2.0,1,15000,1,1.0,0.851,Training
+2026-09-07,Tuk-Tuk,A. Americano,1.0,1,15000,0,1.0,0.457,Training
+2026-09-09,Tuk-Tuk,A. Americano,2.0,2,15000,0,0.0,0.555,Training
+2026-09-10,Tuk-Tuk,A. Americano,1.0,1,15000,0,0.0,0.7,Training
+2026-09-11,Tuk-Tuk,A. Americano,2.0,0,15000,2,0.0,1.042,Training
+2026-09-12,Tuk-Tuk,A. Americano,1.0,0,15000,1,2.0,0.948,Training
+2026-09-13,Tuk-Tuk,A. Americano,2.0,0,15000,2,1.0,0.851,Training
+2026-09-14,Tuk-Tuk,A. Americano,2.0,1,15000,1,2.0,0.542,Training
+2026-09-16,Tuk-Tuk,A. Americano,2.0,2,15000,0,1.0,0.37,Training
+2026-09-17,Tuk-Tuk,A. Americano,2.0,1,15000,1,0.0,0.7,Training
+2026-09-18,Tuk-Tuk,A. Americano,2.0,1,15000,1,1.0,0.954,Training
+2026-09-19,Tuk-Tuk,A. Americano,2.0,1,15000,1,1.0,1.064,Training
+2026-09-20,Tuk-Tuk,A. Americano,2.0,2,15000,0,1.0,0.851,Training
+2026-09-21,Tuk-Tuk,A. Americano,1.0,0,15000,1,0.0,0.453,Training
+2026-09-23,Tuk-Tuk,A. Americano,1.0,1,15000,0,1.0,0.37,Validation
+2026-09-24,Tuk-Tuk,A. Americano,2.0,0,15000,2,0.0,0.7,Validation
+2026-09-25,Tuk-Tuk,A. Americano,2.0,0,15000,2,2.0,0.827,Validation
+2026-09-26,Tuk-Tuk,A. Americano,2.0,0,15000,2,2.0,0.948,Validation
+2026-09-27,Tuk-Tuk,A. Americano,1.0,1,15000,0,2.0,0.787,Validation
+2026-09-28,Tuk-Tuk,A. Americano,2.0,2,15000,0,0.0,0.453,Testing
+2026-09-30,Tuk-Tuk,A. Americano,2.0,0,15000,2,0.0,0.555,Testing
+2026-10-01,Tuk-Tuk,A. Americano,2.0,0,15000,2,2.0,0.498,Testing
+2026-10-02,Tuk-Tuk,A. Americano,2.0,1,15000,1,2.0,0.827,Testing
+2026-09-03,Tuk-Tuk,Americano,2.0,2,10000,0,2.0,0.657,Training
+2026-09-04,Tuk-Tuk,Americano,2.0,1,10000,1,0.0,1.428,Training
+2026-09-06,Tuk-Tuk,Americano,2.0,1,10000,1,1.0,0.819,Training
+2026-09-07,Tuk-Tuk,Americano,2.0,2,10000,0,1.0,0.867,Training
+2026-09-09,Tuk-Tuk,Americano,2.0,1,10000,1,0.0,0.858,Training
+2026-09-10,Tuk-Tuk,Americano,2.0,1,10000,1,1.0,0.708,Training
+2026-09-11,Tuk-Tuk,Americano,2.0,1,10000,1,1.0,1.168,Training
+2026-09-12,Tuk-Tuk,Americano,2.0,0,10000,2,1.0,1.374,Training
+2026-09-13,Tuk-Tuk,Americano,2.0,2,10000,0,2.0,0.614,Training
+2026-09-14,Tuk-Tuk,Americano,2.0,1,10000,1,0.0,0.968,Training
+2026-09-16,Tuk-Tuk,Americano,2.0,1,10000,1,1.0,0.812,Training
+2026-09-17,Tuk-Tuk,Americano,2.0,2,10000,0,1.0,0.708,Training
+2026-09-18,Tuk-Tuk,Americano,2.0,0,10000,2,0.0,1.428,Training
+2026-09-19,Tuk-Tuk,Americano,2.0,1,10000,1,2.0,1.141,Training
+2026-09-20,Tuk-Tuk,Americano,2.0,1,10000,1,1.0,0.819,Training
+2026-09-21,Tuk-Tuk,Americano,2.0,1,10000,1,1.0,0.867,Training
+2026-09-23,Tuk-Tuk,Americano,2.0,1,10000,1,1.0,0.812,Validation
+2026-09-24,Tuk-Tuk,Americano,2.0,1,10000,1,1.0,0.708,Validation
+2026-09-25,Tuk-Tuk,Americano,2.0,1,10000,1,1.0,1.168,Validation
+2026-09-26,Tuk-Tuk,Americano,2.0,2,10000,0,1.0,1.374,Validation
+2026-09-27,Tuk-Tuk,Americano,2.0,2,10000,0,0.0,0.835,Validation
+2026-09-28,Tuk-Tuk,Americano,2.0,1,10000,1,0.0,0.968,Testing
+2026-09-30,Tuk-Tuk,Americano,2.0,0,10000,2,1.0,0.812,Testing
+2026-10-01,Tuk-Tuk,Americano,2.0,0,10000,2,2.0,0.657,Testing
+2026-10-02,Tuk-Tuk,Americano,2.0,1,10000,1,2.0,0.938,Testing
+2026-09-03,Tuk-Tuk,Chocolate,2.0,2,15000,0,1.0,0.744,Training
+2026-09-04,Tuk-Tuk,Chocolate,2.0,0,15000,2,0.0,0.925,Training
+2026-09-06,Tuk-Tuk,Chocolate,2.0,1,15000,1,2.0,0.473,Training
+2026-09-07,Tuk-Tuk,Chocolate,1.0,1,15000,0,1.0,0.199,Training
+2026-09-09,Tuk-Tuk,Chocolate,2.0,2,15000,0,0.0,0.539,Training
+2026-09-10,Tuk-Tuk,Chocolate,1.0,0,15000,1,0.0,0.911,Training
+2026-09-11,Tuk-Tuk,Chocolate,1.0,0,15000,1,1.0,0.961,Training
+2026-09-12,Tuk-Tuk,Chocolate,1.0,0,15000,1,1.0,0.907,Training
+2026-09-13,Tuk-Tuk,Chocolate,1.0,0,15000,1,1.0,0.618,Training
+2026-09-14,Tuk-Tuk,Chocolate,1.0,1,15000,0,1.0,0.199,Training
+2026-09-16,Tuk-Tuk,Chocolate,2.0,1,15000,1,0.0,0.539,Training
+2026-09-17,Tuk-Tuk,Chocolate,2.0,0,15000,2,1.0,0.744,Training
+2026-09-18,Tuk-Tuk,Chocolate,1.0,1,15000,0,2.0,0.532,Training
+2026-09-19,Tuk-Tuk,Chocolate,1.0,1,15000,0,0.0,0.705,Training
+2026-09-20,Tuk-Tuk,Chocolate,1.0,1,15000,0,0.0,0.373,Training
+2026-09-21,Tuk-Tuk,Chocolate,1.0,1,15000,0,0.0,0.325,Training
+2026-09-23,Tuk-Tuk,Chocolate,1.0,1,15000,0,0.0,0.539,Validation
+2026-09-24,Tuk-Tuk,Chocolate,1.0,0,15000,1,0.0,0.911,Validation
+2026-09-25,Tuk-Tuk,Chocolate,1.0,1,15000,0,1.0,0.961,Validation
+2026-09-26,Tuk-Tuk,Chocolate,2.0,1,15000,1,0.0,0.705,Validation
+2026-09-27,Tuk-Tuk,Chocolate,2.0,2,15000,0,1.0,0.618,Validation
+2026-09-28,Tuk-Tuk,Chocolate,1.0,1,15000,0,0.0,0.325,Testing
+2026-09-30,Tuk-Tuk,Chocolate,1.0,0,15000,1,0.0,0.539,Testing
+2026-10-01,Tuk-Tuk,Chocolate,1.0,0,15000,1,1.0,0.744,Testing
+2026-10-02,Tuk-Tuk,Chocolate,1.0,1,15000,0,1.0,0.961,Testing
+2026-09-03,Tuk-Tuk,Kopi Aren,5.0,4,12000,1,3.0,2.102,Training
+2026-09-04,Tuk-Tuk,Kopi Aren,5.0,3,12000,2,1.0,1.72,Training
+2026-09-06,Tuk-Tuk,Kopi Aren,3.0,3,12000,0,2.0,1.688,Training
+2026-09-07,Tuk-Tuk,Kopi Aren,5.0,4,12000,1,0.0,1.772,Training
+2026-09-09,Tuk-Tuk,Kopi Aren,3.0,2,12000,1,1.0,0.992,Training
+2026-09-10,Tuk-Tuk,Kopi Aren,5.0,4,12000,1,1.0,1.327,Training
+2026-09-11,Tuk-Tuk,Kopi Aren,5.0,3,12000,2,1.0,1.72,Training
+2026-09-12,Tuk-Tuk,Kopi Aren,5.0,0,12000,5,2.0,2.224,Training
+2026-09-13,Tuk-Tuk,Kopi Aren,3.0,3,12000,0,5.0,2.06,Training
+2026-09-14,Tuk-Tuk,Kopi Aren,3.0,2,12000,1,0.0,1.772,Training
+2026-09-16,Tuk-Tuk,Kopi Aren,3.0,2,12000,1,1.0,0.992,Training
+2026-09-17,Tuk-Tuk,Kopi Aren,5.0,3,12000,2,1.0,1.327,Training
+2026-09-18,Tuk-Tuk,Kopi Aren,5.0,3,12000,2,2.0,2.291,Training
+2026-09-19,Tuk-Tuk,Kopi Aren,3.0,2,12000,1,2.0,2.224,Training
+2026-09-20,Tuk-Tuk,Kopi Aren,5.0,5,12000,0,1.0,0.983,Training
+2026-09-21,Tuk-Tuk,Kopi Aren,5.0,2,12000,3,0.0,1.772,Training
+2026-09-23,Tuk-Tuk,Kopi Aren,5.0,3,12000,2,3.0,1.846,Validation
+2026-09-24,Tuk-Tuk,Kopi Aren,3.0,3,12000,0,2.0,1.733,Validation
+2026-09-25,Tuk-Tuk,Kopi Aren,5.0,4,12000,1,0.0,1.591,Validation
+2026-09-26,Tuk-Tuk,Kopi Aren,3.0,2,12000,1,1.0,1.512,Validation
+2026-09-27,Tuk-Tuk,Kopi Aren,3.0,1,12000,2,1.0,0.983,Validation
+2026-09-28,Tuk-Tuk,Kopi Aren,5.0,4,12000,1,2.0,1.888,Testing
+2026-09-30,Tuk-Tuk,Kopi Aren,5.0,5,12000,0,1.0,0.992,Testing
+2026-10-01,Tuk-Tuk,Kopi Aren,5.0,5,12000,0,0.0,1.342,Testing
+2026-10-02,Tuk-Tuk,Kopi Aren,5.0,0,12000,5,0.0,1.591,Testing
+2026-09-03,Tuk-Tuk,Kopi Butterscotch,5.0,1,13000,4,1.0,2.071,Training
+2026-09-04,Tuk-Tuk,Kopi Butterscotch,5.0,3,13000,2,4.0,2.879,Training
+2026-09-06,Tuk-Tuk,Kopi Butterscotch,5.0,4,13000,1,2.0,1.214,Training
+2026-09-07,Tuk-Tuk,Kopi Butterscotch,5.0,3,13000,2,1.0,2.062,Training
+2026-09-09,Tuk-Tuk,Kopi Butterscotch,5.0,4,13000,1,2.0,1.426,Training
+2026-09-10,Tuk-Tuk,Kopi Butterscotch,5.0,4,13000,1,1.0,2.071,Training
+2026-09-11,Tuk-Tuk,Kopi Butterscotch,5.0,4,13000,1,1.0,1.867,Training
+2026-09-12,Tuk-Tuk,Kopi Butterscotch,5.0,3,13000,2,1.0,1.976,Training
+2026-09-13,Tuk-Tuk,Kopi Butterscotch,3.0,2,13000,1,2.0,1.214,Training
+2026-09-14,Tuk-Tuk,Kopi Butterscotch,5.0,3,13000,2,1.0,2.062,Training
+2026-09-16,Tuk-Tuk,Kopi Butterscotch,5.0,3,13000,2,2.0,1.426,Training
+2026-09-17,Tuk-Tuk,Kopi Butterscotch,3.0,2,13000,1,2.0,1.297,Training
+2026-09-18,Tuk-Tuk,Kopi Butterscotch,5.0,4,13000,1,1.0,1.867,Training
+2026-09-19,Tuk-Tuk,Kopi Butterscotch,5.0,2,13000,3,1.0,1.976,Training
+2026-09-20,Tuk-Tuk,Kopi Butterscotch,5.0,5,13000,0,3.0,1.869,Training
+2026-09-21,Tuk-Tuk,Kopi Butterscotch,5.0,3,13000,2,0.0,2.046,Training
+2026-09-23,Tuk-Tuk,Kopi Butterscotch,3.0,3,13000,0,2.0,1.426,Validation
+2026-09-24,Tuk-Tuk,Kopi Butterscotch,5.0,4,13000,1,0.0,2.033,Validation
+2026-09-25,Tuk-Tuk,Kopi Butterscotch,5.0,3,13000,2,1.0,1.867,Validation
+2026-09-26,Tuk-Tuk,Kopi Butterscotch,3.0,1,13000,2,2.0,1.407,Validation
+2026-09-27,Tuk-Tuk,Kopi Butterscotch,3.0,3,13000,0,2.0,1.214,Validation
+2026-09-28,Tuk-Tuk,Kopi Butterscotch,5.0,4,13000,1,0.0,2.046,Testing
+2026-09-30,Tuk-Tuk,Kopi Butterscotch,5.0,5,13000,0,1.0,2.113,Testing
+2026-10-01,Tuk-Tuk,Kopi Butterscotch,5.0,5,13000,0,0.0,2.033,Testing
+2026-10-02,Tuk-Tuk,Kopi Butterscotch,5.0,0,13000,5,0.0,1.831,Testing
+2026-09-03,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,1.0,1.233,Training
+2026-09-04,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,2.0,1.303,Training
+2026-09-06,Tuk-Tuk,Kopi Caramel,2.0,2,13000,0,2.0,1.078,Training
+2026-09-07,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,0.0,1.289,Training
+2026-09-09,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,2.0,1.057,Training
+2026-09-10,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,2.0,1.17,Training
+2026-09-11,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,1.0,1.377,Training
+2026-09-12,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,1.0,1.65,Training
+2026-09-13,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,2.0,1.078,Training
+2026-09-14,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,2.0,1.29,Training
+2026-09-16,Tuk-Tuk,Kopi Caramel,2.0,2,13000,0,2.0,1.057,Training
+2026-09-17,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,0.0,1.378,Training
+2026-09-18,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,1.0,1.377,Training
+2026-09-19,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,1.0,1.65,Training
+2026-09-20,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,2.0,1.078,Training
+2026-09-21,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,1.0,1.289,Training
+2026-09-23,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,1.0,1.063,Validation
+2026-09-24,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,2.0,1.17,Validation
+2026-09-25,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,1.0,1.377,Validation
+2026-09-26,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,1.0,1.65,Validation
+2026-09-27,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,2.0,1.078,Validation
+2026-09-28,Tuk-Tuk,Kopi Caramel,2.0,2,13000,0,1.0,1.289,Testing
+2026-09-30,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,0.0,1.292,Testing
+2026-10-01,Tuk-Tuk,Kopi Caramel,2.0,1,13000,1,1.0,1.233,Testing
+2026-10-02,Tuk-Tuk,Kopi Caramel,2.0,0,13000,2,1.0,1.377,Testing
+2026-09-03,Tuk-Tuk,Kopi Susu,20.0,14,10000,6,5.0,6.424,Training
+2026-09-04,Tuk-Tuk,Kopi Susu,20.0,12,10000,8,6.0,6.73,Training
+2026-09-06,Tuk-Tuk,Kopi Susu,25.0,19,10000,6,8.0,5.251,Training
+2026-09-07,Tuk-Tuk,Kopi Susu,20.0,16,10000,4,6.0,5.38,Training
+2026-09-09,Tuk-Tuk,Kopi Susu,15.0,7,10000,8,4.0,5.979,Training
+2026-09-10,Tuk-Tuk,Kopi Susu,20.0,13,10000,7,8.0,6.599,Training
+2026-09-11,Tuk-Tuk,Kopi Susu,20.0,14,10000,6,7.0,7.232,Training
+2026-09-12,Tuk-Tuk,Kopi Susu,25.0,16,10000,9,6.0,6.515,Training
+2026-09-13,Tuk-Tuk,Kopi Susu,30.0,25,10000,5,9.0,5.319,Training
+2026-09-14,Tuk-Tuk,Kopi Susu,20.0,14,10000,6,5.0,5.5,Training
+2026-09-16,Tuk-Tuk,Kopi Susu,20.0,15,10000,5,6.0,5.737,Training
+2026-09-17,Tuk-Tuk,Kopi Susu,20.0,15,10000,5,5.0,6.424,Training
+2026-09-18,Tuk-Tuk,Kopi Susu,20.0,11,10000,9,5.0,6.942,Training
+2026-09-19,Tuk-Tuk,Kopi Susu,20.0,14,10000,6,9.0,6.896,Training
+2026-09-20,Tuk-Tuk,Kopi Susu,15.0,15,10000,0,6.0,5.116,Training
+2026-09-21,Tuk-Tuk,Kopi Susu,20.0,16,10000,4,0.0,4.011,Training
+2026-09-23,Tuk-Tuk,Kopi Susu,20.0,15,10000,5,4.0,5.979,Validation
+2026-09-24,Tuk-Tuk,Kopi Susu,20.0,13,10000,7,5.0,6.424,Validation
+2026-09-25,Tuk-Tuk,Kopi Susu,20.0,15,10000,5,7.0,7.232,Validation
+2026-09-26,Tuk-Tuk,Kopi Susu,25.0,20,10000,5,5.0,6.668,Validation
+2026-09-27,Tuk-Tuk,Kopi Susu,20.0,18,10000,2,5.0,5.48,Validation
+2026-09-28,Tuk-Tuk,Kopi Susu,20.0,18,10000,2,2.0,3.733,Testing
+2026-09-30,Tuk-Tuk,Kopi Susu,20.0,13,10000,7,2.0,3.87,Testing
+2026-10-01,Tuk-Tuk,Kopi Susu,20.0,13,10000,7,7.0,6.786,Testing
+2026-10-02,Tuk-Tuk,Kopi Susu,20.0,8,10000,12,7.0,7.232,Testing
+2026-09-03,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.216,Training
+2026-09-04,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.166,Training
+2026-09-06,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.021,Training
+2026-09-07,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.06,Training
+2026-09-09,Tuk-Tuk,Lychee tea,1.0,1,10000,0,0.0,0.057,Training
+2026-09-10,Tuk-Tuk,Lychee tea,2.0,1,10000,1,0.0,0.216,Training
+2026-09-11,Tuk-Tuk,Lychee tea,2.0,1,10000,1,1.0,0.366,Training
+2026-09-12,Tuk-Tuk,Lychee tea,2.0,2,10000,0,1.0,0.199,Training
+2026-09-13,Tuk-Tuk,Lychee tea,1.0,1,10000,0,0.0,0.021,Training
+2026-09-14,Tuk-Tuk,Lychee tea,1.0,1,10000,0,0.0,0.06,Training
+2026-09-16,Tuk-Tuk,Lychee tea,1.0,1,10000,0,0.0,0.057,Training
+2026-09-17,Tuk-Tuk,Lychee tea,1.0,1,10000,0,0.0,0.216,Training
+2026-09-18,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.166,Training
+2026-09-19,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.033,Training
+2026-09-20,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.021,Training
+2026-09-21,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.06,Training
+2026-09-23,Tuk-Tuk,Lychee tea,1.0,1,10000,0,0.0,0.057,Validation
+2026-09-24,Tuk-Tuk,Lychee tea,2.0,1,10000,1,0.0,0.216,Validation
+2026-09-25,Tuk-Tuk,Lychee tea,1.0,1,10000,0,1.0,0.366,Validation
+2026-09-26,Tuk-Tuk,Lychee tea,2.0,1,10000,1,0.0,0.033,Validation
+2026-09-27,Tuk-Tuk,Lychee tea,1.0,1,10000,0,1.0,0.158,Validation
+2026-09-28,Tuk-Tuk,Lychee tea,1.0,1,10000,0,0.0,0.06,Testing
+2026-09-30,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.057,Testing
+2026-10-01,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.216,Testing
+2026-10-02,Tuk-Tuk,Lychee tea,2.0,2,10000,0,0.0,0.166,Testing
+2026-09-03,Tuk-Tuk,Matcha,2.0,0,15000,2,0.0,1.103,Training
+2026-09-04,Tuk-Tuk,Matcha,2.0,2,15000,0,2.0,1.016,Training
+2026-09-06,Tuk-Tuk,Matcha,0.0,0,15000,0,0.0,0.589,Training
+2026-09-07,Tuk-Tuk,Matcha,0.0,0,15000,0,0.0,0.519,Training
+2026-09-09,Tuk-Tuk,Matcha,2.0,1,15000,1,0.0,1.116,Training
+2026-09-10,Tuk-Tuk,Matcha,2.0,2,15000,0,1.0,0.626,Training
+2026-09-11,Tuk-Tuk,Matcha,2.0,1,15000,1,0.0,0.945,Training
+2026-09-12,Tuk-Tuk,Matcha,2.0,1,15000,1,1.0,0.904,Training
+2026-09-13,Tuk-Tuk,Matcha,2.0,2,15000,0,1.0,0.676,Training
+2026-09-14,Tuk-Tuk,Matcha,2.0,2,15000,0,0.0,0.519,Training
+2026-09-16,Tuk-Tuk,Matcha,2.0,0,15000,2,0.0,1.116,Training
+2026-09-17,Tuk-Tuk,Matcha,0.0,0,15000,0,2.0,0.653,Training
+2026-09-18,Tuk-Tuk,Matcha,2.0,2,15000,0,0.0,0.945,Training
+2026-09-19,Tuk-Tuk,Matcha,2.0,1,15000,1,0.0,0.839,Training
+2026-09-20,Tuk-Tuk,Matcha,2.0,1,15000,1,1.0,0.676,Training
+2026-09-21,Tuk-Tuk,Matcha,2.0,1,15000,1,1.0,0.738,Training
+2026-09-23,Tuk-Tuk,Matcha,0.0,0,15000,0,1.0,0.815,Validation
+2026-09-24,Tuk-Tuk,Matcha,0.0,0,15000,0,0.0,1.103,Validation
+2026-09-25,Tuk-Tuk,Matcha,2.0,0,15000,2,0.0,0.945,Validation
+2026-09-26,Tuk-Tuk,Matcha,2.0,0,15000,2,2.0,0.994,Validation
+2026-09-27,Tuk-Tuk,Matcha,0.0,0,15000,0,2.0,0.773,Validation
+2026-09-28,Tuk-Tuk,Matcha,2.0,2,15000,0,0.0,0.519,Testing
+2026-09-30,Tuk-Tuk,Matcha,2.0,2,15000,0,0.0,1.116,Testing
+2026-10-01,Tuk-Tuk,Matcha,2.0,2,15000,0,0.0,1.103,Testing
+2026-10-02,Tuk-Tuk,Matcha,2.0,1,15000,1,0.0,0.945,Testing
+2026-10-03,Areca,A. Americano,2.0,,15000,,0.0,0.795,Proyeksi
+2026-10-04,Areca,A. Americano,2.0,,15000,,0.7952629411781886,0.786,Proyeksi
+2026-10-05,Areca,A. Americano,2.0,,15000,,0.7859722447222444,0.533,Proyeksi
+2026-10-06,Areca,A. Americano,2.0,,15000,,0.5327456653683433,0.673,Proyeksi
+2026-10-07,Areca,A. Americano,2.0,,15000,,0.6734667654622694,0.518,Proyeksi
+2026-10-08,Areca,A. Americano,2.0,,15000,,0.5177557884697336,0.679,Proyeksi
+2026-10-09,Areca,A. Americano,2.0,,15000,,0.6794291910475478,0.91,Proyeksi
+2026-10-03,Areca,Americano,2.0,,10000,,0.0,1.079,Proyeksi
+2026-10-04,Areca,Americano,2.0,,10000,,1.078759652725497,0.848,Proyeksi
+2026-10-05,Areca,Americano,2.0,,10000,,0.8481971679051808,0.932,Proyeksi
+2026-10-06,Areca,Americano,2.0,,10000,,0.9324834128290014,0.953,Proyeksi
+2026-10-07,Areca,Americano,2.0,,10000,,0.9525094391175856,0.911,Proyeksi
+2026-10-08,Areca,Americano,2.0,,10000,,0.9114878962010176,0.907,Proyeksi
+2026-10-09,Areca,Americano,2.0,,10000,,0.9065031500422259,0.997,Proyeksi
+2026-10-03,Areca,Chocolate,2.0,,15000,,1.0,1.61,Proyeksi
+2026-10-04,Areca,Chocolate,2.0,,15000,,1.610354130234446,1.569,Proyeksi
+2026-10-05,Areca,Chocolate,2.0,,15000,,1.5685503454878456,1.19,Proyeksi
+2026-10-06,Areca,Chocolate,2.0,,15000,,1.1899969821844822,1.08,Proyeksi
+2026-10-07,Areca,Chocolate,2.0,,15000,,1.0799569849993202,1.047,Proyeksi
+2026-10-08,Areca,Chocolate,2.0,,15000,,1.0465017628728333,1.351,Proyeksi
+2026-10-09,Areca,Chocolate,2.0,,15000,,1.3506775054309288,1.63,Proyeksi
+2026-10-03,Areca,Kopi Aren,6.0,,12000,,3.0,2.755,Proyeksi
+2026-10-04,Areca,Kopi Aren,6.0,,12000,,2.755306068931069,2.091,Proyeksi
+2026-10-05,Areca,Kopi Aren,6.0,,12000,,2.0905699855699855,1.497,Proyeksi
+2026-10-06,Areca,Kopi Aren,6.0,,12000,,1.496570165945166,0.881,Proyeksi
+2026-10-07,Areca,Kopi Aren,6.0,,12000,,0.8811394300144302,0.814,Proyeksi
+2026-10-08,Areca,Kopi Aren,6.0,,12000,,0.8137386363636365,1.176,Proyeksi
+2026-10-09,Areca,Kopi Aren,6.0,,12000,,1.1762970709845713,1.443,Proyeksi
+2026-10-03,Areca,Kopi Butterscotch,9.4,,13000,,8.0,7.272,Proyeksi
+2026-10-04,Areca,Kopi Butterscotch,9.4,,13000,,7.271954434454438,7.164,Proyeksi
+2026-10-05,Areca,Kopi Butterscotch,9.4,,13000,,7.1636660422910445,6.065,Proyeksi
+2026-10-06,Areca,Kopi Butterscotch,9.4,,13000,,6.064754426129428,5.531,Proyeksi
+2026-10-07,Areca,Kopi Butterscotch,9.4,,13000,,5.531198870573872,5.558,Proyeksi
+2026-10-08,Areca,Kopi Butterscotch,9.4,,13000,,5.557782203907206,6.092,Proyeksi
+2026-10-09,Areca,Kopi Butterscotch,9.4,,13000,,6.092103632478635,6.253,Proyeksi
+2026-10-03,Areca,Kopi Caramel,4.1,,13000,,2.0,1.504,Proyeksi
+2026-10-04,Areca,Kopi Caramel,4.1,,13000,,1.5043089458676167,1.214,Proyeksi
+2026-10-05,Areca,Kopi Caramel,4.1,,13000,,1.21399409923472,0.828,Proyeksi
+2026-10-06,Areca,Kopi Caramel,4.1,,13000,,0.828122506962904,0.756,Proyeksi
+2026-10-07,Areca,Kopi Caramel,4.1,,13000,,0.7556223519859452,0.704,Proyeksi
+2026-10-08,Areca,Kopi Caramel,4.1,,13000,,0.7035839954306599,0.982,Proyeksi
+2026-10-09,Areca,Kopi Caramel,4.1,,13000,,0.9818928310985382,1.16,Proyeksi
+2026-10-03,Areca,Kopi Susu,15.6,,10000,,10.0,11.53,Proyeksi
+2026-10-04,Areca,Kopi Susu,15.6,,10000,,11.530325882450883,8.606,Proyeksi
+2026-10-05,Areca,Kopi Susu,15.6,,10000,,8.60562602675103,7.854,Proyeksi
+2026-10-06,Areca,Kopi Susu,15.6,,10000,,7.8540595376845355,8.449,Proyeksi
+2026-10-07,Areca,Kopi Susu,15.6,,10000,,8.448956515706517,9.705,Proyeksi
+2026-10-08,Areca,Kopi Susu,15.6,,10000,,9.704766941391943,10.95,Proyeksi
+2026-10-09,Areca,Kopi Susu,15.6,,10000,,10.950335872460874,12.051,Proyeksi
+2026-10-03,Areca,Lychee tea,1.4,,10000,,0.0,0.003,Proyeksi
+2026-10-04,Areca,Lychee tea,1.4,,10000,,0.003234126984126984,0.0,Proyeksi
+2026-10-05,Areca,Lychee tea,1.4,,10000,,0.0,0.057,Proyeksi
+2026-10-06,Areca,Lychee tea,1.4,,10000,,0.056571789321789315,0.021,Proyeksi
+2026-10-07,Areca,Lychee tea,1.4,,10000,,0.021304112554112548,0.011,Proyeksi
+2026-10-08,Areca,Lychee tea,1.4,,10000,,0.01051190476190476,0.079,Proyeksi
+2026-10-09,Areca,Lychee tea,1.4,,10000,,0.0789904401154401,0.048,Proyeksi
+2026-10-03,Areca,Matcha,4.4,,15000,,4.0,3.206,Proyeksi
+2026-10-04,Areca,Matcha,4.4,,15000,,3.20578012265512,2.503,Proyeksi
+2026-10-05,Areca,Matcha,4.4,,15000,,2.50295245032745,2.206,Proyeksi
+2026-10-06,Areca,Matcha,4.4,,15000,,2.206428335553336,1.627,Proyeksi
+2026-10-07,Areca,Matcha,4.4,,15000,,1.6271693686215747,1.567,Proyeksi
+2026-10-08,Areca,Matcha,4.4,,15000,,1.5669606427069667,1.742,Proyeksi
+2026-10-09,Areca,Matcha,4.4,,15000,,1.742331764640589,2.31,Proyeksi
+2026-10-03,Imigrasi,A. Americano,2.0,,15000,,2.0,0.82,Proyeksi
+2026-10-04,Imigrasi,A. Americano,2.0,,15000,,0.8197213444306136,0.386,Proyeksi
+2026-10-05,Imigrasi,A. Americano,2.0,,15000,,0.3855739579048402,0.166,Proyeksi
+2026-10-06,Imigrasi,A. Americano,2.0,,15000,,0.16563919912217123,0.589,Proyeksi
+2026-10-07,Imigrasi,A. Americano,2.0,,15000,,0.589212035555764,0.482,Proyeksi
+2026-10-08,Imigrasi,A. Americano,2.0,,15000,,0.4815784919623777,0.498,Proyeksi
+2026-10-09,Imigrasi,A. Americano,2.0,,15000,,0.49846825971450737,0.547,Proyeksi
+2026-10-03,Imigrasi,Americano,2.0,,10000,,1.0,1.185,Proyeksi
+2026-10-04,Imigrasi,Americano,2.0,,10000,,1.1846311717800584,0.642,Proyeksi
+2026-10-05,Imigrasi,Americano,2.0,,10000,,0.6422996110170023,1.106,Proyeksi
+2026-10-06,Imigrasi,Americano,2.0,,10000,,1.1061818095924394,1.242,Proyeksi
+2026-10-07,Imigrasi,Americano,2.0,,10000,,1.2422727828834395,0.875,Proyeksi
+2026-10-08,Imigrasi,Americano,2.0,,10000,,0.8749128490905932,0.913,Proyeksi
+2026-10-09,Imigrasi,Americano,2.0,,10000,,0.9130967270377384,1.053,Proyeksi
+2026-10-03,Imigrasi,Chocolate,2.0,,15000,,0.0,0.703,Proyeksi
+2026-10-04,Imigrasi,Chocolate,2.0,,15000,,0.7034023570670793,0.321,Proyeksi
+2026-10-05,Imigrasi,Chocolate,2.0,,15000,,0.3213544372294372,0.372,Proyeksi
+2026-10-06,Imigrasi,Chocolate,2.0,,15000,,0.37231585081585095,0.715,Proyeksi
+2026-10-07,Imigrasi,Chocolate,2.0,,15000,,0.7151472966955523,0.482,Proyeksi
+2026-10-08,Imigrasi,Chocolate,2.0,,15000,,0.4823416367991787,0.825,Proyeksi
+2026-10-09,Imigrasi,Chocolate,2.0,,15000,,0.8246937892159418,0.825,Proyeksi
+2026-10-03,Imigrasi,Kopi Aren,5.0,,12000,,1.0,1.406,Proyeksi
+2026-10-04,Imigrasi,Kopi Aren,5.0,,12000,,1.4063010045510043,0.927,Proyeksi
+2026-10-05,Imigrasi,Kopi Aren,5.0,,12000,,0.9268194028194031,1.68,Proyeksi
+2026-10-06,Imigrasi,Kopi Aren,5.0,,12000,,1.6801436688311684,1.755,Proyeksi
+2026-10-07,Imigrasi,Kopi Aren,5.0,,12000,,1.7545300324675321,1.503,Proyeksi
+2026-10-08,Imigrasi,Kopi Aren,5.0,,12000,,1.5026328810078815,1.738,Proyeksi
+2026-10-09,Imigrasi,Kopi Aren,5.0,,12000,,1.7378152472527466,2.488,Proyeksi
+2026-10-03,Imigrasi,Kopi Butterscotch,7.1,,13000,,4.0,3.176,Proyeksi
+2026-10-04,Imigrasi,Kopi Butterscotch,7.1,,13000,,3.1759664502164497,1.791,Proyeksi
+2026-10-05,Imigrasi,Kopi Butterscotch,7.1,,13000,,1.7905871212121207,1.831,Proyeksi
+2026-10-06,Imigrasi,Kopi Butterscotch,7.1,,13000,,1.8306513070263062,2.145,Proyeksi
+2026-10-07,Imigrasi,Kopi Butterscotch,7.1,,13000,,2.145137778887779,2.253,Proyeksi
+2026-10-08,Imigrasi,Kopi Butterscotch,7.1,,13000,,2.252660145410145,2.133,Proyeksi
+2026-10-09,Imigrasi,Kopi Butterscotch,7.1,,13000,,2.133284965034965,2.31,Proyeksi
+2026-10-03,Imigrasi,Kopi Caramel,5.0,,13000,,1.0,0.865,Proyeksi
+2026-10-04,Imigrasi,Kopi Caramel,5.0,,13000,,0.8648549651977965,0.502,Proyeksi
+2026-10-05,Imigrasi,Kopi Caramel,5.0,,13000,,0.5017274130439455,0.99,Proyeksi
+2026-10-06,Imigrasi,Kopi Caramel,5.0,,13000,,0.9897845022667389,1.24,Proyeksi
+2026-10-07,Imigrasi,Kopi Caramel,5.0,,13000,,1.2397185075144985,0.728,Proyeksi
+2026-10-08,Imigrasi,Kopi Caramel,5.0,,13000,,0.7276524829736378,0.92,Proyeksi
+2026-10-09,Imigrasi,Kopi Caramel,5.0,,13000,,0.9196194413839465,0.668,Proyeksi
+2026-10-03,Imigrasi,Kopi Susu,15.0,,10000,,11.0,13.808,Proyeksi
+2026-10-04,Imigrasi,Kopi Susu,15.0,,10000,,13.807767517205018,8.93,Proyeksi
+2026-10-05,Imigrasi,Kopi Susu,15.0,,10000,,8.929694888444896,9.107,Proyeksi
+2026-10-06,Imigrasi,Kopi Susu,15.0,,10000,,9.106651057276054,9.821,Proyeksi
+2026-10-07,Imigrasi,Kopi Susu,15.0,,10000,,9.820577644577643,13.139,Proyeksi
+2026-10-08,Imigrasi,Kopi Susu,15.0,,10000,,13.139209776334782,12.949,Proyeksi
+2026-10-09,Imigrasi,Kopi Susu,15.0,,10000,,12.948875090187602,14.463,Proyeksi
+2026-10-03,Imigrasi,Lychee tea,1.9,,10000,,0.0,0.039,Proyeksi
+2026-10-04,Imigrasi,Lychee tea,1.9,,10000,,0.03925270562770563,0.023,Proyeksi
+2026-10-05,Imigrasi,Lychee tea,1.9,,10000,,0.02322889610389611,0.111,Proyeksi
+2026-10-06,Imigrasi,Lychee tea,1.9,,10000,,0.11091136641136641,0.153,Proyeksi
+2026-10-07,Imigrasi,Lychee tea,1.9,,10000,,0.1533976578976578,0.054,Proyeksi
+2026-10-08,Imigrasi,Lychee tea,1.9,,10000,,0.054456279831279826,0.128,Proyeksi
+2026-10-09,Imigrasi,Lychee tea,1.9,,10000,,0.12835959873459868,0.183,Proyeksi
+2026-10-03,Imigrasi,Matcha,3.7,,15000,,2.0,1.416,Proyeksi
+2026-10-04,Imigrasi,Matcha,3.7,,15000,,1.415678691844243,0.814,Proyeksi
+2026-10-05,Imigrasi,Matcha,3.7,,15000,,0.8140461466637937,0.845,Proyeksi
+2026-10-06,Imigrasi,Matcha,3.7,,15000,,0.8449791812354313,1.618,Proyeksi
+2026-10-07,Imigrasi,Matcha,3.7,,15000,,1.618275810348479,1.211,Proyeksi
+2026-10-08,Imigrasi,Matcha,3.7,,15000,,1.2112484300236845,1.165,Proyeksi
+2026-10-09,Imigrasi,Matcha,3.7,,15000,,1.1647153040888842,1.351,Proyeksi
+2026-10-03,Pasar,A. Americano,2.0,,15000,,1.0,1.841,Proyeksi
+2026-10-04,Pasar,A. Americano,2.0,,15000,,1.8409593128880208,1.907,Proyeksi
+2026-10-05,Pasar,A. Americano,2.0,,15000,,1.9074198301698309,1.729,Proyeksi
+2026-10-06,Pasar,A. Americano,2.0,,15000,,1.729315656565657,1.829,Proyeksi
+2026-10-07,Pasar,A. Americano,2.0,,15000,,1.8289368451596715,1.765,Proyeksi
+2026-10-08,Pasar,A. Americano,2.0,,15000,,1.7654913184641448,1.786,Proyeksi
+2026-10-09,Pasar,A. Americano,2.0,,15000,,1.7862810010038275,1.96,Proyeksi
+2026-10-03,Pasar,Americano,2.0,,10000,,1.0,1.497,Proyeksi
+2026-10-04,Pasar,Americano,2.0,,10000,,1.4965088106338107,1.301,Proyeksi
+2026-10-05,Pasar,Americano,2.0,,10000,,1.301354048729049,1.307,Proyeksi
+2026-10-06,Pasar,Americano,2.0,,10000,,1.3072593101343097,1.367,Proyeksi
+2026-10-07,Pasar,Americano,2.0,,10000,,1.3667706737706735,1.329,Proyeksi
+2026-10-08,Pasar,Americano,2.0,,10000,,1.3294381035631033,1.314,Proyeksi
+2026-10-09,Pasar,Americano,2.0,,10000,,1.3140897990897988,1.465,Proyeksi
+2026-10-03,Pasar,Chocolate,2.0,,15000,,0.0,0.722,Proyeksi
+2026-10-04,Pasar,Chocolate,2.0,,15000,,0.7220686185794881,1.103,Proyeksi
+2026-10-05,Pasar,Chocolate,2.0,,15000,,1.1026581057831064,0.917,Proyeksi
+2026-10-06,Pasar,Chocolate,2.0,,15000,,0.9168057498057499,1.038,Proyeksi
+2026-10-07,Pasar,Chocolate,2.0,,15000,,1.0375531039009298,1.006,Proyeksi
+2026-10-08,Pasar,Chocolate,2.0,,15000,,1.005902004999831,1.099,Proyeksi
+2026-10-09,Pasar,Chocolate,2.0,,15000,,1.0993110404088664,1.317,Proyeksi
+2026-10-03,Pasar,Kopi Aren,8.7,,12000,,1.0,1.947,Proyeksi
+2026-10-04,Pasar,Kopi Aren,8.7,,12000,,1.9470816822066828,2.543,Proyeksi
+2026-10-05,Pasar,Kopi Aren,8.7,,12000,,2.542530081030081,2.6,Proyeksi
+2026-10-06,Pasar,Kopi Aren,8.7,,12000,,2.600143661893662,2.714,Proyeksi
+2026-10-07,Pasar,Kopi Aren,8.7,,12000,,2.713775155400155,2.493,Proyeksi
+2026-10-08,Pasar,Kopi Aren,8.7,,12000,,2.493181901431902,2.379,Proyeksi
+2026-10-09,Pasar,Kopi Aren,8.7,,12000,,2.3792115523365522,2.91,Proyeksi
+2026-10-03,Pasar,Kopi Butterscotch,10.7,,13000,,4.0,3.964,Proyeksi
+2026-10-04,Pasar,Kopi Butterscotch,10.7,,13000,,3.963928724053724,2.732,Proyeksi
+2026-10-05,Pasar,Kopi Butterscotch,10.7,,13000,,2.73187554112554,2.37,Proyeksi
+2026-10-06,Pasar,Kopi Butterscotch,10.7,,13000,,2.369663725163725,2.296,Proyeksi
+2026-10-07,Pasar,Kopi Butterscotch,10.7,,13000,,2.2957164224664215,2.446,Proyeksi
+2026-10-08,Pasar,Kopi Butterscotch,10.7,,13000,,2.44638904151404,2.426,Proyeksi
+2026-10-09,Pasar,Kopi Butterscotch,10.7,,13000,,2.4261329087579084,2.533,Proyeksi
+2026-10-03,Pasar,Kopi Caramel,5.0,,13000,,1.0,2.523,Proyeksi
+2026-10-04,Pasar,Kopi Caramel,5.0,,13000,,2.5229243395493404,2.723,Proyeksi
+2026-10-05,Pasar,Kopi Caramel,5.0,,13000,,2.7234700577200566,2.385,Proyeksi
+2026-10-06,Pasar,Kopi Caramel,5.0,,13000,,2.384574328449328,2.333,Proyeksi
+2026-10-07,Pasar,Kopi Caramel,5.0,,13000,,2.3332023393273387,2.256,Proyeksi
+2026-10-08,Pasar,Kopi Caramel,5.0,,13000,,2.256277736152736,2.351,Proyeksi
+2026-10-09,Pasar,Kopi Caramel,5.0,,13000,,2.3507241647241646,2.585,Proyeksi
+2026-10-03,Pasar,Kopi Susu,30.7,,10000,,27.0,27.379,Proyeksi
+2026-10-04,Pasar,Kopi Susu,30.7,,10000,,27.378882381507378,25.827,Proyeksi
+2026-10-05,Pasar,Kopi Susu,30.7,,10000,,25.826930000555002,27.093,Proyeksi
+2026-10-06,Pasar,Kopi Susu,30.7,,10000,,27.0934042069042,27.055,Proyeksi
+2026-10-07,Pasar,Kopi Susu,30.7,,10000,,27.055078810078808,27.055,Proyeksi
+2026-10-08,Pasar,Kopi Susu,30.7,,10000,,27.055078810078808,26.989,Proyeksi
+2026-10-09,Pasar,Kopi Susu,30.7,,10000,,26.988592698967697,27.002,Proyeksi
+2026-10-03,Pasar,Lychee tea,2.0,,10000,,0.0,0.011,Proyeksi
+2026-10-04,Pasar,Lychee tea,2.0,,10000,,0.011317460317460316,0.002,Proyeksi
+2026-10-05,Pasar,Lychee tea,2.0,,10000,,0.0025,0.065,Proyeksi
+2026-10-06,Pasar,Lychee tea,2.0,,10000,,0.06465349927849927,0.026,Proyeksi
+2026-10-07,Pasar,Lychee tea,2.0,,10000,,0.026237012987012986,0.011,Proyeksi
+2026-10-08,Pasar,Lychee tea,2.0,,10000,,0.011464285714285715,0.102,Proyeksi
+2026-10-09,Pasar,Lychee tea,2.0,,10000,,0.10237193362193359,0.083,Proyeksi
+2026-10-03,Pasar,Matcha,5.0,,15000,,2.0,2.559,Proyeksi
+2026-10-04,Pasar,Matcha,5.0,,15000,,2.5585967782217782,2.764,Proyeksi
+2026-10-05,Pasar,Matcha,5.0,,15000,,2.763982933732933,2.148,Proyeksi
+2026-10-06,Pasar,Matcha,5.0,,15000,,2.147890220890221,2.37,Proyeksi
+2026-10-07,Pasar,Matcha,5.0,,15000,,2.3697890997890996,2.315,Proyeksi
+2026-10-08,Pasar,Matcha,5.0,,15000,,2.3148551726051725,2.321,Proyeksi
+2026-10-09,Pasar,Matcha,5.0,,15000,,2.320902791652792,2.596,Proyeksi
+2026-10-03,Pasar Raya,A. Americano,2.0,,15000,,2.0,1.141,Proyeksi
+2026-10-04,Pasar Raya,A. Americano,2.0,,15000,,1.1413387539704876,0.99,Proyeksi
+2026-10-05,Pasar Raya,A. Americano,2.0,,15000,,0.9904047777240841,0.988,Proyeksi
+2026-10-06,Pasar Raya,A. Americano,2.0,,15000,,0.9881510661496129,1.155,Proyeksi
+2026-10-07,Pasar Raya,A. Americano,2.0,,15000,,1.1548485176095642,0.77,Proyeksi
+2026-10-08,Pasar Raya,A. Americano,2.0,,15000,,0.7699910935110377,0.832,Proyeksi
+2026-10-09,Pasar Raya,A. Americano,2.0,,15000,,0.8322505902065496,0.978,Proyeksi
+2026-10-03,Pasar Raya,Americano,2.0,,10000,,2.0,1.383,Proyeksi
+2026-10-04,Pasar Raya,Americano,2.0,,10000,,1.3829718633891304,0.975,Proyeksi
+2026-10-05,Pasar Raya,Americano,2.0,,10000,,0.9751402486235328,1.457,Proyeksi
+2026-10-06,Pasar Raya,Americano,2.0,,10000,,1.4571630896880896,1.524,Proyeksi
+2026-10-07,Pasar Raya,Americano,2.0,,10000,,1.5235203024221642,1.245,Proyeksi
+2026-10-08,Pasar Raya,Americano,2.0,,10000,,1.2453029769441228,1.45,Proyeksi
+2026-10-09,Pasar Raya,Americano,2.0,,10000,,1.4504428978425643,1.364,Proyeksi
+2026-10-03,Pasar Raya,Chocolate,2.0,,15000,,0.0,0.255,Proyeksi
+2026-10-04,Pasar Raya,Chocolate,2.0,,15000,,0.25514597456069715,0.276,Proyeksi
+2026-10-05,Pasar Raya,Chocolate,2.0,,15000,,0.27579134754134765,0.157,Proyeksi
+2026-10-06,Pasar Raya,Chocolate,2.0,,15000,,0.15669306388056384,0.251,Proyeksi
+2026-10-07,Pasar Raya,Chocolate,2.0,,15000,,0.2511332759940319,0.187,Proyeksi
+2026-10-08,Pasar Raya,Chocolate,2.0,,15000,,0.1872521085503644,0.32,Proyeksi
+2026-10-09,Pasar Raya,Chocolate,2.0,,15000,,0.32009558328530585,0.171,Proyeksi
+2026-10-03,Pasar Raya,Kopi Aren,8.0,,12000,,2.0,3.04,Proyeksi
+2026-10-04,Pasar Raya,Kopi Aren,8.0,,12000,,3.039510808635809,3.427,Proyeksi
+2026-10-05,Pasar Raya,Kopi Aren,8.0,,12000,,3.427454545454546,2.342,Proyeksi
+2026-10-06,Pasar Raya,Kopi Aren,8.0,,12000,,2.341775793650794,2.224,Proyeksi
+2026-10-07,Pasar Raya,Kopi Aren,8.0,,12000,,2.22404310966811,2.089,Proyeksi
+2026-10-08,Pasar Raya,Kopi Aren,8.0,,12000,,2.088876748251748,2.272,Proyeksi
+2026-10-09,Pasar Raya,Kopi Aren,8.0,,12000,,2.2720305180930183,2.796,Proyeksi
+2026-10-03,Pasar Raya,Kopi Butterscotch,9.6,,13000,,6.0,5.467,Proyeksi
+2026-10-04,Pasar Raya,Kopi Butterscotch,9.6,,13000,,5.467379967254965,4.409,Proyeksi
+2026-10-05,Pasar Raya,Kopi Butterscotch,9.6,,13000,,4.4090081168831174,2.254,Proyeksi
+2026-10-06,Pasar Raya,Kopi Butterscotch,9.6,,13000,,2.2539686840936834,2.317,Proyeksi
+2026-10-07,Pasar Raya,Kopi Butterscotch,9.6,,13000,,2.3172099289599277,2.481,Proyeksi
+2026-10-08,Pasar Raya,Kopi Butterscotch,9.6,,13000,,2.4810095321345305,2.91,Proyeksi
+2026-10-09,Pasar Raya,Kopi Butterscotch,9.6,,13000,,2.9100447052947036,4.905,Proyeksi
+2026-10-03,Pasar Raya,Kopi Caramel,5.0,,13000,,2.0,1.181,Proyeksi
+2026-10-04,Pasar Raya,Kopi Caramel,5.0,,13000,,1.1810543082275735,0.884,Proyeksi
+2026-10-05,Pasar Raya,Kopi Caramel,5.0,,13000,,0.8838602877218613,1.413,Proyeksi
+2026-10-06,Pasar Raya,Kopi Caramel,5.0,,13000,,1.4129983397093862,1.348,Proyeksi
+2026-10-07,Pasar Raya,Kopi Caramel,5.0,,13000,,1.348054988616035,1.027,Proyeksi
+2026-10-08,Pasar Raya,Kopi Caramel,5.0,,13000,,1.0271827148157657,0.959,Proyeksi
+2026-10-09,Pasar Raya,Kopi Caramel,5.0,,13000,,0.9585012159474356,1.056,Proyeksi
+2026-10-03,Pasar Raya,Kopi Susu,30.0,,10000,,19.0,20.836,Proyeksi
+2026-10-04,Pasar Raya,Kopi Susu,30.0,,10000,,20.83595632145631,17.357,Proyeksi
+2026-10-05,Pasar Raya,Kopi Susu,30.0,,10000,,17.356855672105684,17.191,Proyeksi
+2026-10-06,Pasar Raya,Kopi Susu,30.0,,10000,,17.190817821067817,17.252,Proyeksi
+2026-10-07,Pasar Raya,Kopi Susu,30.0,,10000,,17.25206782106782,17.296,Proyeksi
+2026-10-08,Pasar Raya,Kopi Susu,30.0,,10000,,17.295669913419907,17.327,Proyeksi
+2026-10-09,Pasar Raya,Kopi Susu,30.0,,10000,,17.32737427849928,18.573,Proyeksi
+2026-10-03,Pasar Raya,Lychee tea,2.1,,10000,,0.0,0.847,Proyeksi
+2026-10-04,Pasar Raya,Lychee tea,2.1,,10000,,0.8465886335886337,0.879,Proyeksi
+2026-10-05,Pasar Raya,Lychee tea,2.1,,10000,,0.8785182958932958,0.788,Proyeksi
+2026-10-06,Pasar Raya,Lychee tea,2.1,,10000,,0.7882068173428637,0.758,Proyeksi
+2026-10-07,Pasar Raya,Lychee tea,2.1,,10000,,0.7576664913025377,0.68,Proyeksi
+2026-10-08,Pasar Raya,Lychee tea,2.1,,10000,,0.6800864047224513,0.741,Proyeksi
+2026-10-09,Pasar Raya,Lychee tea,2.1,,10000,,0.7411560465185635,0.993,Proyeksi
+2026-10-03,Pasar Raya,Matcha,4.9,,15000,,1.0,0.838,Proyeksi
+2026-10-04,Pasar Raya,Matcha,4.9,,15000,,0.8377620318407086,0.689,Proyeksi
+2026-10-05,Pasar Raya,Matcha,4.9,,15000,,0.6886832526133994,1.228,Proyeksi
+2026-10-06,Pasar Raya,Matcha,4.9,,15000,,1.2279373686770747,1.403,Proyeksi
+2026-10-07,Pasar Raya,Matcha,4.9,,15000,,1.403232595672302,0.917,Proyeksi
+2026-10-08,Pasar Raya,Matcha,4.9,,15000,,0.9165588092696474,0.61,Proyeksi
+2026-10-09,Pasar Raya,Matcha,4.9,,15000,,0.6104056579275254,0.885,Proyeksi
+2026-10-03,SD Min,A. Americano,2.0,,15000,,2.0,0.886,Proyeksi
+2026-10-04,SD Min,A. Americano,2.0,,15000,,0.8855961199134633,0.815,Proyeksi
+2026-10-05,SD Min,A. Americano,2.0,,15000,,0.8147382878242345,0.603,Proyeksi
+2026-10-06,SD Min,A. Americano,2.0,,15000,,0.6026590725571628,1.065,Proyeksi
+2026-10-07,SD Min,A. Americano,2.0,,15000,,1.0651943698095327,0.771,Proyeksi
+2026-10-08,SD Min,A. Americano,2.0,,15000,,0.7706796605890293,0.846,Proyeksi
+2026-10-09,SD Min,A. Americano,2.0,,15000,,0.8464321597754291,1.21,Proyeksi
+2026-10-03,SD Min,Americano,2.0,,10000,,1.0,1.335,Proyeksi
+2026-10-04,SD Min,Americano,2.0,,10000,,1.3348092844055,0.951,Proyeksi
+2026-10-05,SD Min,Americano,2.0,,10000,,0.951418355640038,0.805,Proyeksi
+2026-10-06,SD Min,Americano,2.0,,10000,,0.8050788556640298,0.77,Proyeksi
+2026-10-07,SD Min,Americano,2.0,,10000,,0.7704817638066117,0.901,Proyeksi
+2026-10-08,SD Min,Americano,2.0,,10000,,0.900959373205283,0.875,Proyeksi
+2026-10-09,SD Min,Americano,2.0,,10000,,0.8751853127916256,1.382,Proyeksi
+2026-10-03,SD Min,Chocolate,2.0,,15000,,1.0,0.75,Proyeksi
+2026-10-04,SD Min,Chocolate,2.0,,15000,,0.7497078113376339,0.437,Proyeksi
+2026-10-05,SD Min,Chocolate,2.0,,15000,,0.43738338050838055,0.514,Proyeksi
+2026-10-06,SD Min,Chocolate,2.0,,15000,,0.5142504625004625,0.483,Proyeksi
+2026-10-07,SD Min,Chocolate,2.0,,15000,,0.4831935904987944,0.49,Proyeksi
+2026-10-08,SD Min,Chocolate,2.0,,15000,,0.4899874198538352,0.799,Proyeksi
+2026-10-09,SD Min,Chocolate,2.0,,15000,,0.7987821066485218,0.86,Proyeksi
+2026-10-03,SD Min,Kopi Aren,5.3,,12000,,7.0,5.709,Proyeksi
+2026-10-04,SD Min,Kopi Aren,5.3,,12000,,5.708771645021645,3.963,Proyeksi
+2026-10-05,SD Min,Kopi Aren,5.3,,12000,,3.9625254329004322,2.34,Proyeksi
+2026-10-06,SD Min,Kopi Aren,5.3,,12000,,2.3403290737040745,2.883,Proyeksi
+2026-10-07,SD Min,Kopi Aren,5.3,,12000,,2.8829446248196238,2.537,Proyeksi
+2026-10-08,SD Min,Kopi Aren,5.3,,12000,,2.537081113331112,2.827,Proyeksi
+2026-10-09,SD Min,Kopi Aren,5.3,,12000,,2.8272538156288145,2.631,Proyeksi
+2026-10-03,SD Min,Kopi Butterscotch,8.0,,13000,,10.0,10.503,Proyeksi
+2026-10-04,SD Min,Kopi Butterscotch,8.0,,13000,,10.503327020202024,9.096,Proyeksi
+2026-10-05,SD Min,Kopi Butterscotch,8.0,,13000,,9.09637301587302,5.222,Proyeksi
+2026-10-06,SD Min,Kopi Butterscotch,8.0,,13000,,5.221973304473304,2.844,Proyeksi
+2026-10-07,SD Min,Kopi Butterscotch,8.0,,13000,,2.843751443001443,3.429,Proyeksi
+2026-10-08,SD Min,Kopi Butterscotch,8.0,,13000,,3.429277694527696,4.139,Proyeksi
+2026-10-09,SD Min,Kopi Butterscotch,8.0,,13000,,4.1394816017316,3.839,Proyeksi
+2026-10-03,SD Min,Kopi Caramel,5.0,,13000,,5.0,3.247,Proyeksi
+2026-10-04,SD Min,Kopi Caramel,5.0,,13000,,3.2465582611832606,2.222,Proyeksi
+2026-10-05,SD Min,Kopi Caramel,5.0,,13000,,2.2215200216450204,1.292,Proyeksi
+2026-10-06,SD Min,Kopi Caramel,5.0,,13000,,1.2920794658772599,1.575,Proyeksi
+2026-10-07,SD Min,Kopi Caramel,5.0,,13000,,1.5747408910799943,1.391,Proyeksi
+2026-10-08,SD Min,Kopi Caramel,5.0,,13000,,1.3914674270396012,1.875,Proyeksi
+2026-10-09,SD Min,Kopi Caramel,5.0,,13000,,1.8745501312196433,2.062,Proyeksi
+2026-10-03,SD Min,Kopi Susu,18.6,,10000,,30.0,20.15,Proyeksi
+2026-10-04,SD Min,Kopi Susu,18.6,,10000,,20.14988798701298,14.659,Proyeksi
+2026-10-05,SD Min,Kopi Susu,18.6,,10000,,14.659028624153626,10.175,Proyeksi
+2026-10-06,SD Min,Kopi Susu,18.6,,10000,,10.175192099567106,12.195,Proyeksi
+2026-10-07,SD Min,Kopi Susu,18.6,,10000,,12.194749819624825,12.213,Proyeksi
+2026-10-08,SD Min,Kopi Susu,18.6,,10000,,12.213457611832615,13.886,Proyeksi
+2026-10-09,SD Min,Kopi Susu,18.6,,10000,,13.886159451659458,15.769,Proyeksi
+2026-10-03,SD Min,Lychee tea,1.6,,10000,,0.0,0.172,Proyeksi
+2026-10-04,SD Min,Lychee tea,1.6,,10000,,0.1718839493839493,0.13,Proyeksi
+2026-10-05,SD Min,Lychee tea,1.6,,10000,,0.1303700604950604,0.418,Proyeksi
+2026-10-06,SD Min,Lychee tea,1.6,,10000,,0.4178594877344878,0.298,Proyeksi
+2026-10-07,SD Min,Lychee tea,1.6,,10000,,0.2981035353535353,0.124,Proyeksi
+2026-10-08,SD Min,Lychee tea,1.6,,10000,,0.12431264568764563,0.224,Proyeksi
+2026-10-09,SD Min,Lychee tea,1.6,,10000,,0.22389789377289385,0.125,Proyeksi
+2026-10-03,SD Min,Matcha,3.9,,15000,,1.0,1.156,Proyeksi
+2026-10-04,SD Min,Matcha,3.9,,15000,,1.1562316696775325,0.985,Proyeksi
+2026-10-05,SD Min,Matcha,3.9,,15000,,0.9852772795015448,1.0,Proyeksi
+2026-10-06,SD Min,Matcha,3.9,,15000,,1.0003332337188962,1.553,Proyeksi
+2026-10-07,SD Min,Matcha,3.9,,15000,,1.5530678071369608,1.19,Proyeksi
+2026-10-08,SD Min,Matcha,3.9,,15000,,1.190203611129431,1.009,Proyeksi
+2026-10-09,SD Min,Matcha,3.9,,15000,,1.0087057576865692,1.606,Proyeksi
+2026-10-03,Tuk-Tuk,A. Americano,1.9,,15000,,1.0,1.064,Proyeksi
+2026-10-04,Tuk-Tuk,A. Americano,1.9,,15000,,1.0643676085784086,0.851,Proyeksi
+2026-10-05,Tuk-Tuk,A. Americano,1.9,,15000,,0.8512949816893648,0.457,Proyeksi
+2026-10-06,Tuk-Tuk,A. Americano,1.9,,15000,,0.45669315280153727,0.626,Proyeksi
+2026-10-07,Tuk-Tuk,A. Americano,1.9,,15000,,0.6263363411832882,0.37,Proyeksi
+2026-10-08,Tuk-Tuk,A. Americano,1.9,,15000,,0.3701257571884506,0.7,Proyeksi
+2026-10-09,Tuk-Tuk,A. Americano,1.9,,15000,,0.699923255486132,0.954,Proyeksi
+2026-10-03,Tuk-Tuk,Americano,2.0,,10000,,1.0,1.374,Proyeksi
+2026-10-04,Tuk-Tuk,Americano,2.0,,10000,,1.37422682794556,0.819,Proyeksi
+2026-10-05,Tuk-Tuk,Americano,2.0,,10000,,0.8189855040546007,0.867,Proyeksi
+2026-10-06,Tuk-Tuk,Americano,2.0,,10000,,0.8670425565056711,0.907,Proyeksi
+2026-10-07,Tuk-Tuk,Americano,2.0,,10000,,0.9072194470119413,0.812,Proyeksi
+2026-10-08,Tuk-Tuk,Americano,2.0,,10000,,0.8117239652753843,0.708,Proyeksi
+2026-10-09,Tuk-Tuk,Americano,2.0,,10000,,0.7080988762925357,1.168,Proyeksi
+2026-10-03,Tuk-Tuk,Chocolate,1.3,,15000,,0.0,0.705,Proyeksi
+2026-10-04,Tuk-Tuk,Chocolate,1.3,,15000,,0.7045076479115009,0.618,Proyeksi
+2026-10-05,Tuk-Tuk,Chocolate,1.3,,15000,,0.6177360994268889,0.199,Proyeksi
+2026-10-06,Tuk-Tuk,Chocolate,1.3,,15000,,0.19904828437282793,0.519,Proyeksi
+2026-10-07,Tuk-Tuk,Chocolate,1.3,,15000,,0.5188524474052764,0.406,Proyeksi
+2026-10-08,Tuk-Tuk,Chocolate,1.3,,15000,,0.4063575149398926,0.911,Proyeksi
+2026-10-09,Tuk-Tuk,Chocolate,1.3,,15000,,0.9112580412870556,0.961,Proyeksi
+2026-10-03,Tuk-Tuk,Kopi Aren,4.4,,12000,,5.0,3.06,Proyeksi
+2026-10-04,Tuk-Tuk,Kopi Aren,4.4,,12000,,3.0604045815295815,1.795,Proyeksi
+2026-10-05,Tuk-Tuk,Kopi Aren,4.4,,12000,,1.7947604617604624,1.888,Proyeksi
+2026-10-06,Tuk-Tuk,Kopi Aren,4.4,,12000,,1.8884505772005782,1.803,Proyeksi
+2026-10-07,Tuk-Tuk,Kopi Aren,4.4,,12000,,1.8027256493506496,1.592,Proyeksi
+2026-10-08,Tuk-Tuk,Kopi Aren,4.4,,12000,,1.5916491702741704,1.733,Proyeksi
+2026-10-09,Tuk-Tuk,Kopi Aren,4.4,,12000,,1.7332308802308802,2.291,Proyeksi
+2026-10-03,Tuk-Tuk,Kopi Butterscotch,4.4,,13000,,5.0,4.587,Proyeksi
+2026-10-04,Tuk-Tuk,Kopi Butterscotch,4.4,,13000,,4.586546717171717,3.468,Proyeksi
+2026-10-05,Tuk-Tuk,Kopi Butterscotch,4.4,,13000,,3.467926046176046,1.967,Proyeksi
+2026-10-06,Tuk-Tuk,Kopi Butterscotch,4.4,,13000,,1.9674553224553222,1.423,Proyeksi
+2026-10-07,Tuk-Tuk,Kopi Butterscotch,4.4,,13000,,1.4231135253635248,2.113,Proyeksi
+2026-10-08,Tuk-Tuk,Kopi Butterscotch,4.4,,13000,,2.1126201576201575,1.297,Proyeksi
+2026-10-09,Tuk-Tuk,Kopi Butterscotch,4.4,,13000,,1.2967587273837267,1.867,Proyeksi
+2026-10-03,Tuk-Tuk,Kopi Caramel,2.0,,13000,,2.0,1.547,Proyeksi
+2026-10-04,Tuk-Tuk,Kopi Caramel,2.0,,13000,,1.547390935491365,1.078,Proyeksi
+2026-10-05,Tuk-Tuk,Kopi Caramel,2.0,,13000,,1.0783660159543047,1.289,Proyeksi
+2026-10-06,Tuk-Tuk,Kopi Caramel,2.0,,13000,,1.289459471232857,1.33,Proyeksi
+2026-10-07,Tuk-Tuk,Kopi Caramel,2.0,,13000,,1.3300929056862605,1.063,Proyeksi
+2026-10-08,Tuk-Tuk,Kopi Caramel,2.0,,13000,,1.0629417270923964,1.233,Proyeksi
+2026-10-09,Tuk-Tuk,Kopi Caramel,2.0,,13000,,1.2329403860292245,1.377,Proyeksi
+2026-10-03,Tuk-Tuk,Kopi Susu,20.7,,10000,,12.0,12.377,Proyeksi
+2026-10-04,Tuk-Tuk,Kopi Susu,20.7,,10000,,12.377317099567094,9.13,Proyeksi
+2026-10-05,Tuk-Tuk,Kopi Susu,20.7,,10000,,9.129668803418811,6.115,Proyeksi
+2026-10-06,Tuk-Tuk,Kopi Susu,20.7,,10000,,6.115370310245311,5.514,Proyeksi
+2026-10-07,Tuk-Tuk,Kopi Susu,20.7,,10000,,5.513710497835497,5.737,Proyeksi
+2026-10-08,Tuk-Tuk,Kopi Susu,20.7,,10000,,5.737411796536797,6.243,Proyeksi
+2026-10-09,Tuk-Tuk,Kopi Susu,20.7,,10000,,6.243293054168053,6.727,Proyeksi
+2026-10-03,Tuk-Tuk,Lychee tea,1.6,,10000,,0.0,0.033,Proyeksi
+2026-10-04,Tuk-Tuk,Lychee tea,1.6,,10000,,0.03316955266955267,0.021,Proyeksi
+2026-10-05,Tuk-Tuk,Lychee tea,1.6,,10000,,0.020822330447330447,0.06,Proyeksi
+2026-10-06,Tuk-Tuk,Lychee tea,1.6,,10000,,0.060483322233322215,0.062,Proyeksi
+2026-10-07,Tuk-Tuk,Lychee tea,1.6,,10000,,0.06196510434010433,0.057,Proyeksi
+2026-10-08,Tuk-Tuk,Lychee tea,1.6,,10000,,0.057201923076923074,0.216,Proyeksi
+2026-10-09,Tuk-Tuk,Lychee tea,1.6,,10000,,0.21567162004662013,0.166,Proyeksi
+2026-10-03,Tuk-Tuk,Matcha,1.7,,15000,,1.0,0.904,Proyeksi
+2026-10-04,Tuk-Tuk,Matcha,1.7,,15000,,0.9038413201033809,0.676,Proyeksi
+2026-10-05,Tuk-Tuk,Matcha,1.7,,15000,,0.6758821994998463,0.738,Proyeksi
+2026-10-06,Tuk-Tuk,Matcha,1.7,,15000,,0.7382368158931378,1.147,Proyeksi
+2026-10-07,Tuk-Tuk,Matcha,1.7,,15000,,1.147243468015093,0.815,Proyeksi
+2026-10-08,Tuk-Tuk,Matcha,1.7,,15000,,0.8150550283603134,0.626,Proyeksi
+2026-10-09,Tuk-Tuk,Matcha,1.7,,15000,,0.6255031521319665,0.92,Proyeksi
